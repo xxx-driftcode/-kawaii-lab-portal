@@ -69,6 +69,10 @@ GROUPS = [
 
 # 各セクションで何件まで取得するか
 MAX_ITEMS = 10
+# SCHEDULEは無限スクロール型で件数が多いため、上限を高めに設定
+SCHEDULE_MAX_ITEMS = 60
+# 無限スクロールの最大試行回数（安全装置。これ以上はスクロールしない）
+MAX_SCROLL_ATTEMPTS = 30
 
 
 async def scrape_info(page, group):
@@ -90,12 +94,44 @@ async def scrape_info(page, group):
 
 
 async def scrape_schedule(page, group):
-    """SCHEDULE（スケジュール）一覧を取得する"""
+    """SCHEDULE（スケジュール）一覧を取得する
+
+    このページは無限スクロール型（下までスクロールすると追加で読み込まれる）
+    なので、ページ最下部までスクロールを繰り返し、これ以上新しい項目が
+    増えなくなるまで読み込みを行う。
+    """
     url = f"{group['base']}/live_information/schedule/list"
     print(f"  [SCHEDULE] {url} にアクセス中...")
     await page.goto(url, wait_until="networkidle", timeout=30000)
 
-    # スケジュール項目は /live_information/detail/ か /news/detail/ にリンクしている
+    previous_count = -1
+    same_count_streak = 0
+
+    for attempt in range(MAX_SCROLL_ATTEMPTS):
+        # スケジュール項目は /live_information/detail/ か /news/detail/ にリンクしている
+        current_count = await page.eval_on_selector_all(
+            "a[href*='/live_information/detail/'], a[href*='/news/detail/']",
+            "els => els.length"
+        )
+
+        if current_count == previous_count:
+            same_count_streak += 1
+            # 2回連続で件数が増えなければ、読み込むものがもう無いと判断して終了
+            if same_count_streak >= 2:
+                break
+        else:
+            same_count_streak = 0
+
+        previous_count = current_count
+
+        # ページ最下部までスクロールして、追加読み込みをトリガーする
+        await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+        await page.wait_for_timeout(1000)
+
+        # 十分な件数が集まったら早めに切り上げる
+        if current_count >= SCHEDULE_MAX_ITEMS:
+            break
+
     raw_items = await page.eval_on_selector_all(
         "a[href*='/live_information/detail/'], a[href*='/news/detail/']",
         """els => els.map(el => ({
@@ -104,7 +140,8 @@ async def scrape_schedule(page, group):
         })).filter(item => item.title.length > 0)"""
     )
     items = [parse_schedule_item(item["title"], item["url"]) for item in raw_items]
-    return items[:MAX_ITEMS]
+    print(f"  [SCHEDULE] スクロール{attempt + 1}回、計{len(items)}件読み込み")
+    return items[:SCHEDULE_MAX_ITEMS]
 
 
 async def main():
