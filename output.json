@@ -1,0 +1,687 @@
+{
+  "fruitszipper": {
+    "name": "FRUITS ZIPPER",
+    "info": [
+      {
+        "date": "2026.08.19",
+        "title": "【FRUITS ZIPPER OFFICIAL FANCLUB】年会費コース限定特典「FRUITS ZIPPER OFFICIAL FANCLUB PHOTOBOOK 2026『うぃ〜あ〜ふるっぱ〜!!』」発行内容決定！！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/87359"
+      },
+      {
+        "date": "2026.08.17",
+        "title": "2026/8/18(火) 「ASOBISYSTEM 19th Anniversary ASOBIEXPO 2026＠TOYOTA ARENA TOKYO」にてFRUITS ZIPPERの特別抽選会開催が決定！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/87583"
+      },
+      {
+        "date": "2026.08.14",
+        "title": "8/16（日）FRUITS ZIPPER大特典会＠パシフィコ横浜　展示ホールBにて特別抽選会開催決定！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/87361"
+      },
+      {
+        "date": "2026.08.13",
+        "title": "8/18（火）ASOBIEXPO 2026 物販情報",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/87226"
+      },
+      {
+        "date": "2026.08.11",
+        "title": "8/15（土）SUMMER SONIC 物販情報",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/87040"
+      },
+      {
+        "date": "2026.08.11",
+        "title": "8/16（日）FRUITS ZIPPER 大特典会 物販情報",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/87039"
+      },
+      {
+        "date": "2026.08.10",
+        "title": "8/14（金）#めざましWANGANフェス 物販情報",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/86964"
+      },
+      {
+        "date": "2026.08.05",
+        "title": "【FRUITS ZIPPER OFFICIAL FANCLUB】[年会費コース]会員証発送のお知らせ(～2026年4月30日までに入会orコース変更者)",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/85681"
+      },
+      {
+        "date": "2026.08.03",
+        "title": "8/5（水）「NEW KAWAIIってしてよ？フェス ～真夏の七変化歌合戦～」FRUITS ZIPPER公式グッズ販売情報",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/86354"
+      },
+      {
+        "date": "2026.08.03",
+        "title": "2026/8/5(水)開催 「NEW KAWAIIってしてよ？フェス～真夏の七変化歌合戦～」にて特別抽選会開催決定！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/86260"
+      }
+    ],
+    "schedule": [
+      {
+        "month": "08",
+        "day": "02",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "NUMBER SHOT2026@みずほPayPayドーム福岡",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/36167"
+      },
+      {
+        "month": "08",
+        "day": "05",
+        "day_of_week": "WED",
+        "category": "EVENT",
+        "title": "NEW KAWAIIってしてよ？フェス～真夏の七変化歌合戦～@東京国際フォーラム ホールA",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/39587"
+      },
+      {
+        "month": "08",
+        "day": "06",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/86434"
+      },
+      {
+        "month": "08",
+        "day": "08",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "Lucky Fes'25@国営ひたち海浜公園",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/35778"
+      },
+      {
+        "month": "08",
+        "day": "12",
+        "day_of_week": "WED",
+        "category": "TV",
+        "title": "日テレ系『ヒューマングルメンタリー オモウマい店』",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/87464"
+      },
+      {
+        "month": "08",
+        "day": "13",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/86435"
+      },
+      {
+        "month": "08",
+        "day": "14",
+        "day_of_week": "FRI",
+        "category": "EVENT",
+        "title": "めざましWANGANフェス～人気バラエティと夏の最強コラボ～＠東京ガーデンシアター",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/41646"
+      },
+      {
+        "month": "08",
+        "day": "15",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "SUMMER SONIC 2026 @ 万博記念公園",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/39588"
+      },
+      {
+        "month": "08",
+        "day": "15",
+        "day_of_week": "SAT",
+        "category": "TV",
+        "title": "NHK「 夏の音楽祭 #うたであえたら 2026」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/87282"
+      },
+      {
+        "month": "08",
+        "day": "16",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "FRUITS ZIPPER 5thシングルCD発売記念イベント 大特典会＠パシフィコ横浜",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40466"
+      }
+    ]
+  },
+  "candytune": {
+    "name": "CANDY TUNE",
+    "info": [
+      {
+        "date": "2026.08.19",
+        "title": "8/22（土）MONSTER baSH 物販情報",
+        "url": "https://candytune.asobisystem.com/news/detail/87619"
+      },
+      {
+        "date": "2026.08.17",
+        "title": "8/18（火）ASOBIEXPO 2026 物販情報",
+        "url": "https://candytune.asobisystem.com/news/detail/87504"
+      },
+      {
+        "date": "2026.08.16",
+        "title": "宮野静 個別2ショットチェキ撮影会 振替日程および払い戻しのご案内",
+        "url": "https://candytune.asobisystem.com/news/detail/87491"
+      },
+      {
+        "date": "2026.08.16",
+        "title": "2026年10月1日(木) 「CANDY TUNE 小川奈々子 生誕祭 2026」開催決定！CANDY TUNE OFFICIAL FANCLUB会員先行開始！",
+        "url": "https://candytune.asobisystem.com/news/detail/87180"
+      },
+      {
+        "date": "2026.08.15",
+        "title": "4thシングル発売記念！9/5(土) CANDY TUNE大特典会をベルサール汐留にて開催決定！",
+        "url": "https://candytune.asobisystem.com/news/detail/87439"
+      },
+      {
+        "date": "2026.08.14",
+        "title": "CANDY TUNE大特典会＠パシフィコ横浜　展示ホールBにて特別抽選会開催決定！",
+        "url": "https://candytune.asobisystem.com/news/detail/87384"
+      },
+      {
+        "date": "2026.08.14",
+        "title": "CANDY TUNE／MORE STAR大特典会＠東京流通センター　第二展示場Fホールにて特別抽選会開催決定！",
+        "url": "https://candytune.asobisystem.com/news/detail/87370"
+      },
+      {
+        "date": "2026.08.13",
+        "title": "CANDY TUNE 4thシングル発売記念大特典会@パシフィコ横浜 展示ホールB　8/16(日)の特典会参加券当日販売が決定！",
+        "url": "https://candytune.asobisystem.com/news/detail/87176"
+      },
+      {
+        "date": "2026.08.13",
+        "title": "CANDY TUNE　4thシングル／MORE STAR　1stシングル発売記念 大特典会@東京流通センター　第二展示場Fホール　8/15(土)の特典会参加券当日販売が決定！",
+        "url": "https://candytune.asobisystem.com/news/detail/87175"
+      },
+      {
+        "date": "2026.08.12",
+        "title": "8/16（日）CANDY TUNE 大特典会 物販情報",
+        "url": "https://candytune.asobisystem.com/news/detail/87082"
+      }
+    ],
+    "schedule": [
+      {
+        "month": "08",
+        "day": "01",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "「NUMBER SHOT 2026」",
+        "url": "https://candytune.asobisystem.com/live_information/detail/36166"
+      },
+      {
+        "month": "08",
+        "day": "02",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "4th single 大特典会",
+        "url": "https://candytune.asobisystem.com/live_information/detail/43122"
+      },
+      {
+        "month": "08",
+        "day": "03",
+        "day_of_week": "MON",
+        "category": "TV",
+        "title": "フジテレビ「突然ですが占ってもいいですか？」",
+        "url": "https://candytune.asobisystem.com/news/detail/86306"
+      },
+      {
+        "month": "08",
+        "day": "03",
+        "day_of_week": "MON",
+        "category": "TV",
+        "title": "日テレ「有吉ゼミ」（福山梨乃・桐原美月）",
+        "url": "https://candytune.asobisystem.com/news/detail/86377"
+      },
+      {
+        "month": "08",
+        "day": "06",
+        "day_of_week": "THU",
+        "category": "EVENT",
+        "title": "ひんやりKITTE オープニングセレモニー",
+        "url": "https://candytune.asobisystem.com/live_information/detail/43274"
+      },
+      {
+        "month": "08",
+        "day": "08",
+        "day_of_week": "SAT",
+        "category": "TV",
+        "title": "放課後きゃんちゅー部 #13",
+        "url": "https://candytune.asobisystem.com/news/detail/86837"
+      },
+      {
+        "month": "08",
+        "day": "09",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "「LuckyFes’26」",
+        "url": "https://candytune.asobisystem.com/live_information/detail/35898"
+      },
+      {
+        "month": "08",
+        "day": "10",
+        "day_of_week": "MON",
+        "category": "MAGAZINE",
+        "title": "『sweet』9月号（小川奈々子・村川緋杏・桐原美月）",
+        "url": "https://candytune.asobisystem.com/news/detail/86943"
+      },
+      {
+        "month": "08",
+        "day": "11",
+        "day_of_week": "TUE",
+        "category": "TV",
+        "title": "フジテレビ「ドリフ大挑戦スペシャル」",
+        "url": "https://candytune.asobisystem.com/news/detail/87023"
+      },
+      {
+        "month": "08",
+        "day": "12",
+        "day_of_week": "WED",
+        "category": "TV",
+        "title": "MBS「ライバルたちがめっちゃ褒めてくる！〜アイドル同士の本音レビューＳＰ〜 」（桐原美月）",
+        "url": "https://candytune.asobisystem.com/news/detail/87024"
+      }
+    ]
+  },
+  "sweetsteady": {
+    "name": "SWEET STEADY",
+    "info": [
+      {
+        "date": "2026.08.18",
+        "title": "SWEET STEADYぴあアリーナ単独公演グッズ情報",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/87676"
+      },
+      {
+        "date": "2026.08.18",
+        "title": "SWEET STEADY ARENA LIVE 2026 -SUMMER-「STEADY→REVOLUTION」FC連動企画実施決定のお知らせ！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/87375"
+      },
+      {
+        "date": "2026.08.17",
+        "title": "2026/8/18(火) 「ASOBISYSTEM 19th Anniversary ASOBIEXPO 2026＠TOYOTA ARENA TOKYO」にてFRUITS ZIPPER、CANDY TUNE、SWEET STEADY、CUTIE STREET、MORE STARの特別抽選会開催が決定！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/87561"
+      },
+      {
+        "date": "2026.08.13",
+        "title": "8/18（火）ASOBIEXPO 2026 物販情報",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/87199"
+      },
+      {
+        "date": "2026.08.09",
+        "title": "SWEET STEADY 『気味が悪いんだからねっ』 発売記念キャンペーン決定！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/86866"
+      },
+      {
+        "date": "2026.08.03",
+        "title": "★SWEET STEADYチケット情報まとめ★",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/43699"
+      },
+      {
+        "date": "2026.08.02",
+        "title": "8/8（土）LuckyFes'26 物販情報",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/86267"
+      },
+      {
+        "date": "2026.07.31",
+        "title": "7/31（金）TOKYO IDOL FESTIVAL 2026 物販情報",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/86095"
+      },
+      {
+        "date": "2026.07.26",
+        "title": "「KAWAII LAB. Christmas SESSION 2026」@有明アリーナ 開催決定！FC先行開始！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/85443"
+      },
+      {
+        "date": "2026.07.25",
+        "title": "2026/7/28(火)開催「SWEET STEADY 塩川莉世BIRTHDAY LIVE 2026 〜a continuation of a dream〜」にて特別抽選会開催決定！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/85615"
+      }
+    ],
+    "schedule": [
+      {
+        "month": "08",
+        "day": "01",
+        "day_of_week": "SAT",
+        "category": "TV",
+        "title": "フジテレビ『ツギクル芸人グランプリ2026』",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/86504"
+      },
+      {
+        "month": "08",
+        "day": "02",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "『3rdシングル SWEET STEP 発売記念リリースイベント』＠セブンパークアリオ柏 屋外スマイルパーク",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43210"
+      },
+      {
+        "month": "08",
+        "day": "02",
+        "day_of_week": "SUN",
+        "category": "TV",
+        "title": "TBS『サンデージャポン』",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/86506"
+      },
+      {
+        "month": "08",
+        "day": "06",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "TBS『この歌詞が刺さった！グッとフレーズ』",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/86507"
+      },
+      {
+        "month": "08",
+        "day": "08",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "LuckyFes’26＠国営ひたち海浜公園",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/35916"
+      },
+      {
+        "month": "08",
+        "day": "09",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "『3rdシングル SWEET STEP 発売記念リリースイベント』＠ららぽーと豊洲 シーサイドデッキ メインステージ",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43211"
+      },
+      {
+        "month": "08",
+        "day": "12",
+        "day_of_week": "WED",
+        "category": "TV",
+        "title": "フジテレビ系列『奇跡体験！アンビリバボー』",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/87735"
+      },
+      {
+        "month": "08",
+        "day": "15",
+        "day_of_week": "SAT",
+        "category": "TV",
+        "title": "テレビ朝日系列『池上彰のニュースそうだったのか!!』",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/87737"
+      },
+      {
+        "month": "08",
+        "day": "16",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "『SBI証券 presents TGC MATSUYAMA 2026 by TOKYO GIRLS COLLECTION』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/39542"
+      },
+      {
+        "month": "08",
+        "day": "18",
+        "day_of_week": "TUE",
+        "category": "EVENT",
+        "title": "『ASOBISYSTEM 19th Anniversary ASOBIEXPO2026』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/41567"
+      }
+    ]
+  },
+  "cutiestreet": {
+    "name": "CUTIE STREET",
+    "info": [
+      {
+        "date": "2026.08.17",
+        "title": "2026/8/18(火) 「ASOBISYSTEM 19th Anniversary ASOBIEXPO 2026＠TOYOTA ARENA TOKYO」にて、特別抽選会開催が決定！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87565"
+      },
+      {
+        "date": "2026.08.17",
+        "title": "【CUTIE STREET OFFICIAL FANCLUB】CUTIE STREET 2nd ANNIVERSARY LIVE 2026 「8TREASURES」FC連動企画実施のお知らせ🎀",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87127"
+      },
+      {
+        "date": "2026.08.14",
+        "title": "CUTIE STREET 2nd ANNIVERSARY LIVE 2026「8 TREASURES」8/25(火)、8/26(水)武道館公演グッズ販売情報",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87356"
+      },
+      {
+        "date": "2026.08.13",
+        "title": "8/18（火）ASOBIEXPO 2026 物販情報",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87202"
+      },
+      {
+        "date": "2026.08.12",
+        "title": "2026年10月11日(日)「STARフェス」CUTIE STREET出演決定！FC会員先行受付開始！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/86976"
+      },
+      {
+        "date": "2026.08.08",
+        "title": "「KAWAII LAB. STORE」にてCUTIE STREET 新作3商品が発売！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/86840"
+      },
+      {
+        "date": "2026.08.05",
+        "title": "「CUTIE STREET 梅田みゆ 生誕祭 2026」 アップグレード抽選受付のお知らせ",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/86338"
+      },
+      {
+        "date": "2026.08.04",
+        "title": "CUTIE STREET Live in Korea 2027 WINTER KAWAII LAB. GLOBAL MEMBERSHIP会員先行のご案内 / 'CUTIE STREET Live in Korea 2027 WINTER' KAWAII LAB. GLOBAL MEMBERSHIP 회원 선예매 안내",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/86456"
+      },
+      {
+        "date": "2026.08.04",
+        "title": "『CUTIE STREET 2nd ANNIVERSARY すべての道はKAWAIIにつーず！展』 開催決定！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/86474"
+      },
+      {
+        "date": "2026.08.04",
+        "title": "【CUTIE STREET OFFICIAL FANCLUB】[年会費コース限定特典]会員証発送にあたりご登録住所ご確認のお願い",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/85759"
+      }
+    ],
+    "schedule": [
+      {
+        "month": "08",
+        "day": "01",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA- 📍大阪・舞洲スポーツアイランド ジャイガ特設会場",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/36762"
+      },
+      {
+        "month": "08",
+        "day": "04",
+        "day_of_week": "TUE",
+        "category": "EVENT",
+        "title": "#めざましWANGANフェス ～人気バラエティと夏の最強コラボ～ @豊洲PIT",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/39416"
+      },
+      {
+        "month": "08",
+        "day": "09",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "LuckyFes’26",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/35909"
+      },
+      {
+        "month": "08",
+        "day": "10",
+        "day_of_week": "MON",
+        "category": "MAGAZINE",
+        "title": "雑誌『sweet 』9月号",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87851"
+      },
+      {
+        "month": "08",
+        "day": "13",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "テレビ東京「真夏の怪奇ファイル2026 見えてしまった…招かれざるモノたち」",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87038"
+      },
+      {
+        "month": "08",
+        "day": "13",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "TBSテレビ「ニンゲン観察バラエティ モニタリング」",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/86324"
+      },
+      {
+        "month": "08",
+        "day": "14",
+        "day_of_week": "FRI",
+        "category": "TV",
+        "title": "日本テレビ『ZIP!』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87291"
+      },
+      {
+        "month": "08",
+        "day": "18",
+        "day_of_week": "TUE",
+        "category": "EVENT",
+        "title": "「ASOBISYSTEM 19th Anniversary ASOBIEXPO 2026」@TOYOTA ARENA TOKYO",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40666"
+      },
+      {
+        "month": "08",
+        "day": "18",
+        "day_of_week": "TUE",
+        "category": "TV",
+        "title": "テレビ朝日『START UP！ドリームエンタ』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87064"
+      },
+      {
+        "month": "08",
+        "day": "20",
+        "day_of_week": "THU",
+        "category": "MAGAZINE",
+        "title": "雑誌『non-no』10月号",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87850"
+      }
+    ]
+  },
+  "morestar": {
+    "name": "MORE STAR",
+    "info": [
+      {
+        "date": "2026.08.17",
+        "title": "2026/8/18(火) 「ASOBISYSTEM 19th Anniversary ASOBIEXPO 2026＠TOYOTA ARENA TOKYO」にてFRUITS ZIPPER、CANDY TUNE、SWEET STEADY、CUTIE STREET、MORE STARの特別抽選会開催が決定！",
+        "url": "https://morestar.asobisystem.com/news/detail/87573"
+      },
+      {
+        "date": "2026.08.14",
+        "title": "CANDY TUNE／MORE STAR大特典会＠東京流通センター　第二展示場Fホールにて特別抽選会開催決定！",
+        "url": "https://morestar.asobisystem.com/news/detail/87393"
+      },
+      {
+        "date": "2026.08.14",
+        "title": "8/18（火）ASOBIEXPO 2026 物販情報",
+        "url": "https://morestar.asobisystem.com/news/detail/87383"
+      },
+      {
+        "date": "2026.08.13",
+        "title": "CANDY TUNE　4thシングル／MORE STAR　1stシングル発売記念 大特典会@東京流通センター　第二展示場Fホール　8/15(土)の特典会参加券当日販売が決定！",
+        "url": "https://morestar.asobisystem.com/news/detail/87235"
+      },
+      {
+        "date": "2026.08.11",
+        "title": "8/15（土）MORE STAR 大特典会 物販情報",
+        "url": "https://morestar.asobisystem.com/news/detail/87047"
+      },
+      {
+        "date": "2026.08.10",
+        "title": "CANDY TUNE　4thシングル／MORE STAR　1stシングル発売記念 大特典会@東京流通センター　第二展示場Fホール　特典会参加券2次販売が決定！",
+        "url": "https://morestar.asobisystem.com/news/detail/86947"
+      },
+      {
+        "date": "2026.08.04",
+        "title": "CANDY TUNE　4thシングル／MORE STAR　1stシングル発売記念 大特典会を東京流通センター 第二展示場Fホールにて開催決定！",
+        "url": "https://morestar.asobisystem.com/news/detail/86488"
+      },
+      {
+        "date": "2026.08.03",
+        "title": "【店舗別購入者特典】2026年8月26日(水)リリース MORE STAR 1stシングルCD『サマーゴー！！ / WITH KAWAII論』",
+        "url": "https://morestar.asobisystem.com/news/detail/86407"
+      },
+      {
+        "date": "2026.08.03",
+        "title": "8/9（日）LuckyFes'26 物販情報",
+        "url": "https://morestar.asobisystem.com/news/detail/86370"
+      },
+      {
+        "date": "2026.07.31",
+        "title": "7/31（金）TOKYO IDOL FESTIVAL 2026 物販情報",
+        "url": "https://morestar.asobisystem.com/news/detail/86101"
+      }
+    ],
+    "schedule": [
+      {
+        "month": "08",
+        "day": "01",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
+        "url": "https://morestar.asobisystem.com/live_information/detail/38412"
+      },
+      {
+        "month": "08",
+        "day": "01",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント @セブンパークアリオ柏 屋外 スマイルパーク",
+        "url": "https://morestar.asobisystem.com/live_information/detail/42789"
+      },
+      {
+        "month": "08",
+        "day": "02",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
+        "url": "https://morestar.asobisystem.com/live_information/detail/38413"
+      },
+      {
+        "month": "08",
+        "day": "02",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント @ステラタウン大宮 1F屋外メローペ広場",
+        "url": "https://morestar.asobisystem.com/live_information/detail/42790"
+      },
+      {
+        "month": "08",
+        "day": "08",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント @ららぽーと柏の葉 センタープラザ",
+        "url": "https://morestar.asobisystem.com/live_information/detail/43204"
+      },
+      {
+        "month": "08",
+        "day": "09",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "『LuckyFes'26』",
+        "url": "https://morestar.asobisystem.com/live_information/detail/37421"
+      },
+      {
+        "month": "08",
+        "day": "15",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "CANDY TUNE／MORE STAR 合同大特典会",
+        "url": "https://morestar.asobisystem.com/live_information/detail/43203"
+      },
+      {
+        "month": "08",
+        "day": "16",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント @ステラタウン大宮 1F屋外メローペ広場",
+        "url": "https://morestar.asobisystem.com/live_information/detail/43665"
+      },
+      {
+        "month": "08",
+        "day": "18",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "ASOBISYSTEM 19th Anniversary ASOBIEXPO 2026",
+        "url": "https://morestar.asobisystem.com/live_information/detail/40674"
+      },
+      {
+        "month": "08",
+        "day": "22",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント @エミテラス所沢2F TOKOROZAWA e-CUBE",
+        "url": "https://morestar.asobisystem.com/live_information/detail/43977"
+      }
+    ]
+  }
+}
