@@ -32,30 +32,6 @@ SCHEDULE_PATTERN = re.compile(
 )
 
 
-def assign_years(schedule_items):
-    """
-    月・日しか分からないスケジュール項目のリストに、年を割り当てる。
-
-    サイトの並び順が時系列順（古い→新しい）であることを前提に、
-    「前の項目より月が小さくなったら年をまたいだ」とみなして年を繰り上げる。
-    例：...11月 → 12月 → 1月... の「1月」で年を+1する。
-    """
-    if not schedule_items:
-        return schedule_items
-
-    current_year = datetime.now().year
-    previous_month = None
-
-    for item in schedule_items:
-        month = int(item["month"])
-        if previous_month is not None and month < previous_month:
-            current_year += 1
-        item["year"] = str(current_year)
-        previous_month = month
-
-    return schedule_items
-
-
 def parse_info_item(raw_title, url):
     """INFOの生テキスト（日付+タイトルが改行で連結されたもの）を分離する"""
     parts = raw_title.split("\n", 1)
@@ -94,10 +70,10 @@ GROUPS = [
 
 # 各セクションで何件まで取得するか
 MAX_ITEMS = 10
-# SCHEDULEは無限スクロール型で件数が多いため、上限を高めに設定
-SCHEDULE_MAX_ITEMS = 60
-# 無限スクロールの最大試行回数（安全装置。これ以上はスクロールしない）
-MAX_SCROLL_ATTEMPTS = 30
+# SCHEDULEは複数月分を取得するため、上限を高めに設定
+SCHEDULE_MAX_ITEMS = 100
+# SCHEDULEを何ヶ月先まで取得するか（安全装置。これ以上は取得しない）
+SCHEDULE_MONTHS_TO_FETCH = 8
 
 
 async def scrape_info(page, group):
@@ -121,52 +97,84 @@ async def scrape_info(page, group):
 async def scrape_schedule(page, group):
     """SCHEDULE（スケジュール）一覧を取得する
 
-    このページは無限スクロール型（下までスクロールすると追加で読み込まれる）
-    なので、ページ最下部までスクロールを繰り返し、これ以上新しい項目が
-    増えなくなるまで読み込みを行う。
+    このページは見た目上は無限スクロールだが、実際は月ごとに
+    ?year=YYYY&month=MM というURLパラメータでページが分かれている
+    （「NEXT MONTH」リンクの参照先から判明）。
+
+    無限スクロールを模倣してJSに追加読み込みさせる方法だと、
+    継ぎ足された月の「年見出し」がDOMに反映されないという問題があったため、
+    代わりに月ごとのURLに直接1ページずつアクセスする。
+    各ページには必ずその月専用の正しい年見出しが表示されているので、
+    推測に頼らず確実に年を取得できる。
     """
-    url = f"{group['base']}/live_information/schedule/list"
-    print(f"  [SCHEDULE] {url} にアクセス中...")
-    await page.goto(url, wait_until="networkidle", timeout=30000)
+    base_url = f"{group['base']}/live_information/schedule/list"
 
-    previous_count = -1
-    same_count_streak = 0
+    # まず基準ページ（パラメータ無し＝サイトが「今」とみなしている月）にアクセスし、
+    # 実際に表示されている年見出しから開始年月を取得する
+    await page.goto(base_url, wait_until="networkidle", timeout=30000)
 
-    for attempt in range(MAX_SCROLL_ATTEMPTS):
-        # スケジュール項目は /live_information/detail/ か /news/detail/ にリンクしている
-        current_count = await page.eval_on_selector_all(
+    try:
+        header = await page.eval_on_selector(
+            ".block--month .tit",
+            """el => {
+                // <p class="tit">08<span>2026</span></p> のうち、
+                // spanの外側にある直接のテキスト（月部分）だけを取り出す
+                let monthText = '';
+                el.childNodes.forEach(function (node) {
+                    if (node.nodeType === Node.TEXT_NODE) {
+                        monthText += node.textContent;
+                    }
+                });
+                var yearEl = el.querySelector('span');
+                return {
+                    month: monthText.trim(),
+                    year: yearEl ? yearEl.textContent.trim() : ''
+                };
+            }"""
+        )
+        year = int(header["year"])
+        month = int(header["month"])
+        print(f"  [SCHEDULE] 基準月を検出: {year}年{month}月")
+    except Exception as e:
+        # 万一、年見出しの取得に失敗した場合は、実行時点の年月を基準にする
+        now = datetime.now()
+        year, month = now.year, now.month
+        print(f"  [SCHEDULE] 年見出しの検出に失敗（{e}）。{year}年{month}月を基準に続行します")
+
+    items = []
+
+    for _ in range(SCHEDULE_MONTHS_TO_FETCH):
+        month_url = f"{base_url}/?viewMode=default&year={year}&month={month:02d}"
+        print(f"  [SCHEDULE] {month_url} にアクセス中...")
+        await page.goto(month_url, wait_until="networkidle", timeout=30000)
+
+        raw_items = await page.eval_on_selector_all(
             "a[href*='/live_information/detail/'], a[href*='/news/detail/']",
-            "els => els.length"
+            """els => els.map(el => ({
+                title: el.textContent.trim(),
+                url: el.href
+            })).filter(item => item.title.length > 0)"""
         )
 
-        if current_count == previous_count:
-            same_count_streak += 1
-            # 2回連続で件数が増えなければ、読み込むものがもう無いと判断して終了
-            if same_count_streak >= 2:
-                break
-        else:
-            same_count_streak = 0
-
-        previous_count = current_count
-
-        # ページ最下部までスクロールして、追加読み込みをトリガーする
-        await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-        await page.wait_for_timeout(1000)
-
-        # 十分な件数が集まったら早めに切り上げる
-        if current_count >= SCHEDULE_MAX_ITEMS:
+        if not raw_items:
+            print(f"  [SCHEDULE] {year}年{month}月は0件のため、これ以降の取得を打ち切ります")
             break
 
-    raw_items = await page.eval_on_selector_all(
-        "a[href*='/live_information/detail/'], a[href*='/news/detail/']",
-        """els => els.map(el => ({
-            title: el.textContent.trim(),
-            url: el.href
-        })).filter(item => item.title.length > 0)"""
-    )
-    items = [parse_schedule_item(item["title"], item["url"]) for item in raw_items]
-    items = assign_years(items)
-    print(f"  [SCHEDULE] スクロール{attempt + 1}回、計{len(items)}件読み込み")
+        for raw in raw_items:
+            parsed = parse_schedule_item(raw["title"], raw["url"])
+            parsed["year"] = str(year)
+            items.append(parsed)
+
+        # 次の月へ進める（12月の次は翌年の1月）
+        month += 1
+        if month > 12:
+            month = 1
+            year += 1
+
+        if len(items) >= SCHEDULE_MAX_ITEMS:
+            break
+
+    print(f"  [SCHEDULE] 計{len(items)}件読み込み")
     return items[:SCHEDULE_MAX_ITEMS]
 
 
