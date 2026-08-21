@@ -17,6 +17,7 @@ Playwright でブラウザを自動操作し、描画後の HTML から情報を
 import asyncio
 import json
 import re
+from datetime import datetime
 from pathlib import Path
 from playwright.async_api import async_playwright
 
@@ -29,6 +30,30 @@ SCHEDULE_CATEGORIES = ["LIVE", "EVENT", "TV", "RADIO", "MAGAZINE", "WEB", "OTHER
 SCHEDULE_PATTERN = re.compile(
     r"^(\d{2})\s+(\d{2})\s+\[(\w+)\]\s+(" + "|".join(SCHEDULE_CATEGORIES) + r")\s+(.+)$"
 )
+
+
+def assign_years(schedule_items):
+    """
+    月・日しか分からないスケジュール項目のリストに、年を割り当てる。
+
+    サイトの並び順が時系列順（古い→新しい）であることを前提に、
+    「前の項目より月が小さくなったら年をまたいだ」とみなして年を繰り上げる。
+    例：...11月 → 12月 → 1月... の「1月」で年を+1する。
+    """
+    if not schedule_items:
+        return schedule_items
+
+    current_year = datetime.now().year
+    previous_month = None
+
+    for item in schedule_items:
+        month = int(item["month"])
+        if previous_month is not None and month < previous_month:
+            current_year += 1
+        item["year"] = str(current_year)
+        previous_month = month
+
+    return schedule_items
 
 
 def parse_info_item(raw_title, url):
@@ -140,6 +165,7 @@ async def scrape_schedule(page, group):
         })).filter(item => item.title.length > 0)"""
     )
     items = [parse_schedule_item(item["title"], item["url"]) for item in raw_items]
+    items = assign_years(items)
     print(f"  [SCHEDULE] スクロール{attempt + 1}回、計{len(items)}件読み込み")
     return items[:SCHEDULE_MAX_ITEMS]
 
