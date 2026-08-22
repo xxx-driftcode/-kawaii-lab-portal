@@ -2,6 +2,8 @@
 KAWAII LAB. YouTube動画取得スクリプト
 
 5グループの公式YouTubeチャンネルから最新動画を取得し、youtube.json に保存します。
+動画ごとに再生時間を取得し、60秒以下の動画には is_short: true を付けます
+（サイト側のVIDEO SHORTS欄はこのフラグで振り分けています）。
 
 【事前準備】
 1. YouTube Data API v3 のAPIキーを取得する（READMEの手順を参照）
@@ -15,6 +17,7 @@ python fetch_youtube.py
 
 import json
 import os
+import re
 import requests
 from pathlib import Path
 
@@ -34,7 +37,47 @@ GROUPS = [
     {"id": "morestar",     "name": "MORE STAR",     "channel_id": "UCBkLxz038AbxBA8CMw6o9oA"},
 ]
 
-MAX_VIDEOS = 5
+# サイト側で「通常動画」と「ショート動画」の2欄に分けて表示するようになったため、
+# 1グループあたりの取得件数を増やしておく（5件のままだと分割後に片方が空になりやすい）
+MAX_VIDEOS = 20
+
+# この秒数以下の動画は「ショート動画」とみなす
+SHORTS_MAX_SECONDS = 60
+
+
+def parse_duration_to_seconds(duration):
+    """YouTube APIが返す ISO 8601 形式の長さ（例: 'PT1M30S'）を秒数に変換する"""
+    match = re.match(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", duration or "")
+    if not match:
+        return 0
+    hours = int(match.group(1) or 0)
+    minutes = int(match.group(2) or 0)
+    seconds = int(match.group(3) or 0)
+    return hours * 3600 + minutes * 60 + seconds
+
+
+def get_video_durations(video_ids):
+    """動画IDのリストから、動画ごとの長さ（秒）をまとめて取得する。
+    YouTube Data API の videos.list は一度に最大50件までしか指定できないので、
+    50件ずつに分割して呼び出す。
+    """
+    durations = {}
+    for i in range(0, len(video_ids), 50):
+        batch = video_ids[i:i + 50]
+        url = "https://www.googleapis.com/youtube/v3/videos"
+        params = {
+            "part": "contentDetails",
+            "id": ",".join(batch),
+            "key": API_KEY,
+        }
+        res = requests.get(url, params=params, timeout=15)
+        res.raise_for_status()
+        data = res.json()
+        for item in data.get("items", []):
+            durations[item["id"]] = parse_duration_to_seconds(
+                item["contentDetails"]["duration"]
+            )
+    return durations
 
 
 def get_uploads_playlist_id(channel_id):
@@ -84,6 +127,15 @@ def get_latest_videos(playlist_id, max_results=MAX_VIDEOS):
             "video_id": video_id,
             "url": f"https://www.youtube.com/watch?v={video_id}",
         })
+
+    # 動画の長さを取得して、通常動画かショート動画かを判定する
+    video_ids = [v["video_id"] for v in videos]
+    durations = get_video_durations(video_ids)
+    for v in videos:
+        seconds = durations.get(v["video_id"], 0)
+        v["duration_seconds"] = seconds
+        v["is_short"] = 0 < seconds <= SHORTS_MAX_SECONDS
+
     return videos
 
 
