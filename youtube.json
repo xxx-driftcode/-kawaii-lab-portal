@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "#きゃりーぱみゅぱみゅ さんデビュー15 周年おめでとうございます🎀✨#PAMYUFES ありがとうございました🌈🫶#FRUITSZIPPER #フルーツジッパー#ふるっぱー",
+        "published_at": "2026-08-22T09:22:19Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/T0BTZ0afhyI/hqdefault.jpg",
+        "video_id": "T0BTZ0afhyI",
+        "url": "https://www.youtube.com/watch?v=T0BTZ0afhyI",
+        "duration_seconds": 25,
+        "is_short": true
+      },
+      {
         "title": "クールなかれんもどう？#松本かれん#センセーション#FRUITSZIPPER#ふるっぱー",
         "published_at": "2026-08-21T13:38:05Z",
         "thumbnail_url": "https://i.ytimg.com/vi/76CLM8_rAFw/hqdefault.jpg",
@@ -172,15 +181,6 @@
         "url": "https://www.youtube.com/watch?v=SLa738w8_BM",
         "duration_seconds": 48,
         "is_short": true
-      },
-      {
-        "title": "松本かれんのスカートが「生きてる」と話題になった件",
-        "published_at": "2026-08-15T10:00:18Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/R2DaozGsDUM/hqdefault.jpg",
-        "video_id": "R2DaozGsDUM",
-        "url": "https://www.youtube.com/watch?v=R2DaozGsDUM",
-        "duration_seconds": 910,
-        "is_short": false
       }
     ]
   },
