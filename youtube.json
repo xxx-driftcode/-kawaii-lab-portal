@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【ぴあアリーナ】明日はついに… #すいれぼアリーナ 💐 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-22T03:00:08Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/iVLFQrg-46w/hqdefault.jpg",
+        "video_id": "iVLFQrg-46w",
+        "url": "https://www.youtube.com/watch?v=iVLFQrg-46w",
+        "duration_seconds": 20,
+        "is_short": true
+      },
+      {
         "title": "初単独アリーナ直前！リハ中のすいすてに突撃インタビュー♡【裏側】 #すいれぼアリーナ #SWEETSTEADY #すいすて",
         "published_at": "2026-08-21T11:00:25Z",
         "thumbnail_url": "https://i.ytimg.com/vi/c0RxGaFrmY8/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "AfsPBWDTZgY",
         "url": "https://www.youtube.com/watch?v=AfsPBWDTZgY",
         "duration_seconds": 20,
-        "is_short": true
-      },
-      {
-        "title": "【ぴあアリーナ】#すいれぼアリーナ まであと6日💛 #山内咲奈 #SWEETSTEADY #すいすて #SWEETSTEP",
-        "published_at": "2026-08-17T05:00:35Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/xtPqnZIvGo8/hqdefault.jpg",
-        "video_id": "xtPqnZIvGo8",
-        "url": "https://www.youtube.com/watch?v=xtPqnZIvGo8",
-        "duration_seconds": 25,
         "is_short": true
       }
     ]
