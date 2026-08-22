@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "おくち、、、、、 #板倉可奈",
+        "published_at": "2026-08-22T05:30:16Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/R_iRkHi6lB0/hqdefault.jpg",
+        "video_id": "R_iRkHi6lB0",
+        "url": "https://www.youtube.com/watch?v=R_iRkHi6lB0",
+        "duration_seconds": 21,
+        "is_short": true
+      },
+      {
         "title": "💚ニャオハ！マジカルリーフ！VS🩷カヌチャン！たたきつける！#アニポケ#キュートなキューたい#CUTIESTREET #きゅーすと",
         "published_at": "2026-08-22T04:00:22Z",
         "thumbnail_url": "https://i.ytimg.com/vi/AdD9wLx8Gss/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "vO37GIEF0bA",
         "url": "https://www.youtube.com/watch?v=vO37GIEF0bA",
         "duration_seconds": 18,
-        "is_short": true
-      },
-      {
-        "title": "【#かわいいだけじゃだめですか？】 w/ Hearts2Hearts②🌈천사가 8명, 나는 행복합니다이런 콜라보가 실현될 줄은 몰랐어…T T #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-18T09:00:34Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/0kwpMIvF-is/hqdefault.jpg",
-        "video_id": "0kwpMIvF-is",
-        "url": "https://www.youtube.com/watch?v=0kwpMIvF-is",
-        "duration_seconds": 35,
         "is_short": true
       }
     ]
