@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "もあすたいようのここにゃん☀️🧡#新井心菜(MORESTAR) #ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-08-22T23:26:41Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/BUFKspPpLR0/hqdefault.jpg",
+        "video_id": "BUFKspPpLR0",
+        "url": "https://www.youtube.com/watch?v=BUFKspPpLR0",
+        "duration_seconds": 14,
+        "is_short": true
+      },
+      {
         "title": "もりたみにあだ名をつけすぎたせいで今日はなんて呼ぼうか迷います😌🩷#森田あみ #ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-08-21T07:56:09Z",
         "thumbnail_url": "https://i.ytimg.com/vi/p_JXwDAX76o/hqdefault.jpg",
@@ -912,15 +921,6 @@
         "url": "https://www.youtube.com/watch?v=TQVMJeji0nQ",
         "duration_seconds": 15,
         "is_short": true
-      },
-      {
-        "title": "8月5日 MORE STAR 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念オンラインサイン会",
-        "published_at": "2026-08-05T22:33:30Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/PfSfr-hrnxc/hqdefault.jpg",
-        "video_id": "PfSfr-hrnxc",
-        "url": "https://www.youtube.com/watch?v=PfSfr-hrnxc",
-        "duration_seconds": 5193,
-        "is_short": false
       }
     ]
   }
