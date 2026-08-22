@@ -188,6 +188,24 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "【DIGEST MOVIE】『MONSTER baSH 2026』at MONSTER circus(8/22)",
+        "published_at": "2026-08-22T13:30:38Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/v_nd5HA5Lt4/hqdefault.jpg",
+        "video_id": "v_nd5HA5Lt4",
+        "url": "https://www.youtube.com/watch?v=v_nd5HA5Lt4",
+        "duration_seconds": 695,
+        "is_short": false
+      },
+      {
+        "title": "🍬🪎💚【MV Teaser 小川奈々子】💚🪎🍬CANDY TUNE New Music Video『総意♡So Free』🎸💚8/29(土) MV公開 💚🥁",
+        "published_at": "2026-08-22T12:12:07Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/dGdoCWRh460/hqdefault.jpg",
+        "video_id": "dGdoCWRh460",
+        "url": "https://www.youtube.com/watch?v=dGdoCWRh460",
+        "duration_seconds": 15,
+        "is_short": true
+      },
+      {
         "title": "スタンプ投票、ついに第1位を発表！選ばれたのはみんな大好き「コラッ！コラッ！」 #CANDYTUNE #きゃんちゅー #放課後きゃんちゅー部 #shorts",
         "published_at": "2026-08-22T08:32:13Z",
         "thumbnail_url": "https://i.ytimg.com/vi/wmSVDhrAwRE/hqdefault.jpg",
@@ -348,24 +366,6 @@
         "url": "https://www.youtube.com/watch?v=5slFdM4q0kw",
         "duration_seconds": 253,
         "is_short": false
-      },
-      {
-        "title": "【そもそも大特典会ってなに？】おしえて！びびあん先生！",
-        "published_at": "2026-08-16T08:45:33Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/SfdPY1qg6fw/hqdefault.jpg",
-        "video_id": "SfdPY1qg6fw",
-        "url": "https://www.youtube.com/watch?v=SfdPY1qg6fw",
-        "duration_seconds": 50,
-        "is_short": true
-      },
-      {
-        "title": "きりちゃん in my head💙🐈‍⬛🧡 #CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-08-16T03:03:54Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/-oQEf36WErs/hqdefault.jpg",
-        "video_id": "-oQEf36WErs",
-        "url": "https://www.youtube.com/watch?v=-oQEf36WErs",
-        "duration_seconds": 17,
-        "is_short": true
       }
     ]
   },
@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【KAWAII FOCUS】CUTIE STREET『Error404♡』",
+        "published_at": "2026-08-22T13:30:22Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/w8xfJYASmvE/hqdefault.jpg",
+        "video_id": "w8xfJYASmvE",
+        "url": "https://www.youtube.com/watch?v=w8xfJYASmvE",
+        "duration_seconds": 228,
+        "is_short": false
+      },
+      {
         "title": "#キャップ と一緒に⚡️#アニポケ エンディングテーマ🌳「#キュートなキューたい」#CUTIESTREET #きゅーすと⁡",
         "published_at": "2026-08-22T11:30:06Z",
         "thumbnail_url": "https://i.ytimg.com/vi/VGsxD2Pv7k4/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "qH9C6ZbbdTA",
         "url": "https://www.youtube.com/watch?v=qH9C6ZbbdTA",
         "duration_seconds": 19,
-        "is_short": true
-      },
-      {
-        "title": "【GAME🎮】 w/ Hearts2Hearts③🌸저는 이 영상을 올리기 전에 500번이나 시청했어요#YE_ON&🩷HARUKA SAKURABA #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-19T09:15:19Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/hapz_fWtkDQ/hqdefault.jpg",
-        "video_id": "hapz_fWtkDQ",
-        "url": "https://www.youtube.com/watch?v=hapz_fWtkDQ",
-        "duration_seconds": 52,
         "is_short": true
       }
     ]
