@@ -374,11 +374,11 @@
     "videos": [
       {
         "title": "【ちょい見せ】SWEET STEADY ARENA LIVE 2026 -SUMMER-「STEADY→REVOLUTION」",
-        "published_at": "2026-08-23T07:00:46Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/hkYhLnX11BM/hqdefault_live.jpg",
+        "published_at": "2026-08-23T08:10:59Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/hkYhLnX11BM/hqdefault.jpg",
         "video_id": "hkYhLnX11BM",
         "url": "https://www.youtube.com/watch?v=hkYhLnX11BM",
-        "duration_seconds": 0,
+        "duration_seconds": 3590,
         "is_short": false
       },
       {
@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【#キュートなキューたい】w/ #ONSENSE ♨️ ポイッと赤白❤️‎🤍❤️‎🤍 #CUTIESTREET #きゅーすと",
+        "published_at": "2026-08-23T09:00:14Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/GgCg1amGQCk/hqdefault.jpg",
+        "video_id": "GgCg1amGQCk",
+        "url": "https://www.youtube.com/watch?v=GgCg1amGQCk",
+        "duration_seconds": 17,
+        "is_short": true
+      },
+      {
         "title": "！、、、？る。！！ー？？！？？、、？？？ #増田彩乃 #佐野愛花 #ぷりきゅきゅ #CUTIESTREET #きゅーすと",
         "published_at": "2026-08-23T07:31:25Z",
         "thumbnail_url": "https://i.ytimg.com/vi/MoPJYOKUmUk/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "mcNvw8HsKk0",
         "url": "https://www.youtube.com/watch?v=mcNvw8HsKk0",
         "duration_seconds": 14,
-        "is_short": true
-      },
-      {
-        "title": "🔥ポケモンバトル！？🔮❤️佐野愛花ホゲータ！じだんだ！VS💜真鍋凪咲ヤミラミ！パワージェム！#アニポケ#キュートなキューたい#CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-20T07:14:45Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/HXWLCw4c6C4/hqdefault.jpg",
-        "video_id": "HXWLCw4c6C4",
-        "url": "https://www.youtube.com/watch?v=HXWLCw4c6C4",
-        "duration_seconds": 30,
         "is_short": true
       }
     ]
