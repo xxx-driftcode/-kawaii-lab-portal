@@ -1478,6 +1478,15 @@
       },
       {
         "month": "08",
+        "day": "23",
+        "day_of_week": "SUN",
+        "category": "RADIO",
+        "title": "TOKYO FM「CUTIE STREET♡ KAWAII MAKERラジオ」",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88077",
+        "year": "2026"
+      },
+      {
+        "month": "08",
         "day": "25",
         "day_of_week": "TUE",
         "category": "LIVE",
