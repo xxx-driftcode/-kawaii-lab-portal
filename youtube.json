@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "🍬🪎🧡【MV Teaser 南なつ】🧡🪎🍬CANDY TUNE New Music Video『総意♡So Free』🍬🎸🧡8/29(土) MV公開 🧡",
+        "published_at": "2026-08-23T11:07:50Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/ea9MVKMaYbg/hqdefault.jpg",
+        "video_id": "ea9MVKMaYbg",
+        "url": "https://www.youtube.com/watch?v=ea9MVKMaYbg",
+        "duration_seconds": 15,
+        "is_short": true
+      },
+      {
         "title": "𝑹𝑵𝑴𝑹 の夏 🩵🍉 #CANDYTUNE #きゃんちゅー",
         "published_at": "2026-08-23T04:09:40Z",
         "thumbnail_url": "https://i.ytimg.com/vi/D4uHD4Y0Sss/hqdefault.jpg",
@@ -357,21 +366,21 @@
         "url": "https://www.youtube.com/watch?v=9CaLXs36EhQ",
         "duration_seconds": 22,
         "is_short": true
-      },
-      {
-        "title": "『びびなつFEVER!』🩷村川緋杏 🧡南なつ #CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-08-16T12:17:34Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/z87XNGU8e60/hqdefault.jpg",
-        "video_id": "z87XNGU8e60",
-        "url": "https://www.youtube.com/watch?v=z87XNGU8e60",
-        "duration_seconds": 34,
-        "is_short": true
       }
     ]
   },
   "sweetsteady": {
     "name": "SWEET STEADY",
     "videos": [
+      {
+        "title": "#すいれぼアリーナ にきてくれたみんなと #ちょーだいHAPPY 🪩🎉 #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-23T10:55:34Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/TcKYck56SZ4/hqdefault.jpg",
+        "video_id": "TcKYck56SZ4",
+        "url": "https://www.youtube.com/watch?v=TcKYck56SZ4",
+        "duration_seconds": 29,
+        "is_short": true
+      },
       {
         "title": "【ちょい見せ】SWEET STEADY ARENA LIVE 2026 -SUMMER-「STEADY→REVOLUTION」",
         "published_at": "2026-08-23T08:10:59Z",
@@ -541,15 +550,6 @@
         "video_id": "w9-6D-B2V5E",
         "url": "https://www.youtube.com/watch?v=w9-6D-B2V5E",
         "duration_seconds": 23,
-        "is_short": true
-      },
-      {
-        "title": "どこまでもりせぴを愛して❔💜(後ろの方も❤️) #塩川莉世 #白石まゆみ #SWEETSTEADY #すいすて #チェリボム #silentsiren",
-        "published_at": "2026-08-18T04:53:02Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/G1rxKJG9plM/hqdefault.jpg",
-        "video_id": "G1rxKJG9plM",
-        "url": "https://www.youtube.com/watch?v=G1rxKJG9plM",
-        "duration_seconds": 20,
         "is_short": true
       }
     ]
