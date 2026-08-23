@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "#モンバス ありがとうございました🐉🧡🩵🩷❤️💜💚💛#FRUITSZIPPER #フルーツジッパー#ふるっぱー",
+        "published_at": "2026-08-23T07:49:07Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/1F00_Htzbws/hqdefault.jpg",
+        "video_id": "1F00_Htzbws",
+        "url": "https://www.youtube.com/watch?v=1F00_Htzbws",
+        "duration_seconds": 23,
+        "is_short": true
+      },
+      {
         "title": "#きゃりーぱみゅぱみゅ さんデビュー15 周年おめでとうございます🎀✨#PAMYUFES ありがとうございました🌈🫶#FRUITSZIPPER #フルーツジッパー#ふるっぱー",
         "published_at": "2026-08-22T09:22:19Z",
         "thumbnail_url": "https://i.ytimg.com/vi/T0BTZ0afhyI/hqdefault.jpg",
@@ -172,15 +181,6 @@
         "url": "https://www.youtube.com/watch?v=uo3YxBTqyn8",
         "duration_seconds": 91,
         "is_short": false
-      },
-      {
-        "title": "櫻井優衣が「ピンク・レディー SPメドレー」にて、増田惠子さんと『UFO』を披露させていただきました✨このような素敵な機会をいただき、大変光栄です💚ありがとうございました💗#うたであえたら2026",
-        "published_at": "2026-08-15T11:06:39Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/SLa738w8_BM/hqdefault.jpg",
-        "video_id": "SLa738w8_BM",
-        "url": "https://www.youtube.com/watch?v=SLa738w8_BM",
-        "duration_seconds": 48,
-        "is_short": true
       }
     ]
   },
@@ -374,7 +374,7 @@
     "videos": [
       {
         "title": "【ちょい見せ】SWEET STEADY ARENA LIVE 2026 -SUMMER-「STEADY→REVOLUTION」",
-        "published_at": "2026-08-23T05:05:39Z",
+        "published_at": "2026-08-23T07:00:46Z",
         "thumbnail_url": "https://i.ytimg.com/vi/hkYhLnX11BM/hqdefault_live.jpg",
         "video_id": "hkYhLnX11BM",
         "url": "https://www.youtube.com/watch?v=hkYhLnX11BM",
@@ -558,6 +558,24 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "！、、、？る。！！ー？？！？？、、？？？ #増田彩乃 #佐野愛花 #ぷりきゅきゅ #CUTIESTREET #きゅーすと",
+        "published_at": "2026-08-23T07:31:25Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/MoPJYOKUmUk/hqdefault.jpg",
+        "video_id": "MoPJYOKUmUk",
+        "url": "https://www.youtube.com/watch?v=MoPJYOKUmUk",
+        "duration_seconds": 15,
+        "is_short": true
+      },
+      {
+        "title": "もしかして、夢？ #川本笑瑠",
+        "published_at": "2026-08-23T06:54:29Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/-we21eGbj0k/hqdefault.jpg",
+        "video_id": "-we21eGbj0k",
+        "url": "https://www.youtube.com/watch?v=-we21eGbj0k",
+        "duration_seconds": 20,
+        "is_short": true
+      },
+      {
         "title": "どうしたwwwww #桜庭遥花 #板倉可奈 #ぷりきゅきゅ",
         "published_at": "2026-08-23T02:55:18Z",
         "thumbnail_url": "https://i.ytimg.com/vi/dgGFLilqHjo/hqdefault.jpg",
@@ -718,24 +736,6 @@
         "url": "https://www.youtube.com/watch?v=HXWLCw4c6C4",
         "duration_seconds": 30,
         "is_short": true
-      },
-      {
-        "title": "【似てる？】黄色いルカリオ ≒ 古澤里紗🟨#アニポケ#キュートなキューたい#CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-20T04:41:12Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/sXcPPkJxT7s/hqdefault.jpg",
-        "video_id": "sXcPPkJxT7s",
-        "url": "https://www.youtube.com/watch?v=sXcPPkJxT7s",
-        "duration_seconds": 13,
-        "is_short": true
-      },
-      {
-        "title": "CUTIE STREET Station💎",
-        "published_at": "2026-08-19T13:01:21Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/DJZMozGqJK8/hqdefault_live.jpg",
-        "video_id": "DJZMozGqJK8",
-        "url": "https://www.youtube.com/watch?v=DJZMozGqJK8",
-        "duration_seconds": 0,
-        "is_short": false
       }
     ]
   },
