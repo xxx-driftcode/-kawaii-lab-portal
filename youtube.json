@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "🍬🪎🩵【MV Teaser 福山梨乃】🩵🪎🍬CANDY TUNE New Music Video『総意♡So Free』🍬🎸🩵8/29(土) MV公開 🩵",
+        "published_at": "2026-08-24T23:00:01Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/yfCc4E1QiiQ/hqdefault.jpg",
+        "video_id": "yfCc4E1QiiQ",
+        "url": "https://www.youtube.com/watch?v=yfCc4E1QiiQ",
+        "duration_seconds": 15,
+        "is_short": true
+      },
+      {
         "title": "8月24日(月) CANDY TUNE オンライン特典会",
         "published_at": "2026-08-24T13:18:30Z",
         "thumbnail_url": "https://i.ytimg.com/vi/2-xSfUCn7BM/hqdefault.jpg",
@@ -357,15 +366,6 @@
         "url": "https://www.youtube.com/watch?v=hDKO3ulHx-8",
         "duration_seconds": 43,
         "is_short": true
-      },
-      {
-        "title": "【LIVE映像】CANDY TUNE UNIT BOX『アンインストールちゅー』at 日本武道館 (2026/6/6)",
-        "published_at": "2026-08-17T12:00:35Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/sK1Kc2DARMk/hqdefault.jpg",
-        "video_id": "sK1Kc2DARMk",
-        "url": "https://www.youtube.com/watch?v=sK1Kc2DARMk",
-        "duration_seconds": 188,
-        "is_short": false
       }
     ]
   },
