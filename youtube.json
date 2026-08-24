@@ -373,6 +373,24 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【フルライブ映像】SWEET STEADY『ちょーだいHAPPY！』",
+        "published_at": "2026-08-24T11:00:29Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/URyEER4doBk/hqdefault.jpg",
+        "video_id": "URyEER4doBk",
+        "url": "https://www.youtube.com/watch?v=URyEER4doBk",
+        "duration_seconds": 222,
+        "is_short": false
+      },
+      {
+        "title": "『ちょーだいHAPPY！』フルライブ映像公開🪩💕 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-24T11:00:02Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/NBCTVc4U_1c/hqdefault.jpg",
+        "video_id": "NBCTVc4U_1c",
+        "url": "https://www.youtube.com/watch?v=NBCTVc4U_1c",
+        "duration_seconds": 20,
+        "is_short": true
+      },
+      {
         "title": "HAPPYすぎるダンス✌️ #ちょーだいHAPPY！ #白石まゆみ #庄司なぎさ #SWEETSTEADY #すいすて",
         "published_at": "2026-08-24T09:00:39Z",
         "thumbnail_url": "https://i.ytimg.com/vi/nynSHNH8W54/hqdefault.jpg",
@@ -533,30 +551,21 @@
         "url": "https://www.youtube.com/watch?v=xAEZHFQcqrI",
         "duration_seconds": 21,
         "is_short": true
-      },
-      {
-        "title": "【ぴあアリーナ】#すいれぼアリーナ まであと3日🩷💛 #栗田なつか #山内咲奈 #SWEETSTEP #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-20T05:00:28Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/h3FLFSTOhYQ/hqdefault.jpg",
-        "video_id": "h3FLFSTOhYQ",
-        "url": "https://www.youtube.com/watch?v=h3FLFSTOhYQ",
-        "duration_seconds": 32,
-        "is_short": true
-      },
-      {
-        "title": "おゆいぞん❔🩵 #夏いぞん #音井結衣   #櫻井優衣 さん #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-19T12:38:07Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Bn9dfkOGrU8/hqdefault.jpg",
-        "video_id": "Bn9dfkOGrU8",
-        "url": "https://www.youtube.com/watch?v=Bn9dfkOGrU8",
-        "duration_seconds": 17,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "イタズラっ子 何人いるでしょう #キュートなキューたい #CUTIESTREET #きゅーすと",
+        "published_at": "2026-08-24T10:36:21Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/1zh3GkHRG_0/hqdefault.jpg",
+        "video_id": "1zh3GkHRG_0",
+        "url": "https://www.youtube.com/watch?v=1zh3GkHRG_0",
+        "duration_seconds": 17,
+        "is_short": true
+      },
       {
         "title": "公開されました🎀 #かわいいだけじゃだめですか？ #CUTIESTREET",
         "published_at": "2026-08-24T09:00:27Z",
@@ -726,15 +735,6 @@
         "video_id": "lRx4_XB-c58",
         "url": "https://www.youtube.com/watch?v=lRx4_XB-c58",
         "duration_seconds": 16,
-        "is_short": true
-      },
-      {
-        "title": "ツインテールが生きてる…… #増田彩乃",
-        "published_at": "2026-08-21T10:26:07Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/afZ_nEP4Kb0/hqdefault.jpg",
-        "video_id": "afZ_nEP4Kb0",
-        "url": "https://www.youtube.com/watch?v=afZ_nEP4Kb0",
-        "duration_seconds": 19,
         "is_short": true
       }
     ]
