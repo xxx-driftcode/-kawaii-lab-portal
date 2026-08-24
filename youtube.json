@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "【チャオチャオ】ウソを見抜け！ウソつき放題のサイコロゲームで騙し合いバトル！？【放課後きゃんちゅー部】",
+        "published_at": "2026-08-24T08:00:24Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/8WqBrx3A9o8/hqdefault.jpg",
+        "video_id": "8WqBrx3A9o8",
+        "url": "https://www.youtube.com/watch?v=8WqBrx3A9o8",
+        "duration_seconds": 821,
+        "is_short": false
+      },
+      {
         "title": "🍬🪎🧡【MV Teaser 南なつ】🧡🪎🍬CANDY TUNE New Music Video『総意♡So Free』🍬🎸🧡8/29(土) MV公開 🧡",
         "published_at": "2026-08-23T11:07:50Z",
         "thumbnail_url": "https://i.ytimg.com/vi/ea9MVKMaYbg/hqdefault.jpg",
@@ -357,21 +366,21 @@
         "url": "https://www.youtube.com/watch?v=0e7sdeobmmE",
         "duration_seconds": 16,
         "is_short": true
-      },
-      {
-        "title": "きりちゃんと一緒にスペ感踊ってくれてる❓✨イントロ部分はみんなの個性が出ていて毎回違うのでライブ中はそこにも注目してね☝️💞💙桐原美月 #スペシャル感謝祭 #CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-08-17T02:08:48Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/9CaLXs36EhQ/hqdefault.jpg",
-        "video_id": "9CaLXs36EhQ",
-        "url": "https://www.youtube.com/watch?v=9CaLXs36EhQ",
-        "duration_seconds": 22,
-        "is_short": true
       }
     ]
   },
   "sweetsteady": {
     "name": "SWEET STEADY",
     "videos": [
+      {
+        "title": "サプライズ発表の瞬間、すいでぃーは...💓💐 #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-24T07:00:27Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/xqVDLnxi1NU/hqdefault.jpg",
+        "video_id": "xqVDLnxi1NU",
+        "url": "https://www.youtube.com/watch?v=xqVDLnxi1NU",
+        "duration_seconds": 95,
+        "is_short": false
+      },
       {
         "title": "断然フリーダム！バラバラだっていーじゃん🪩💫 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
         "published_at": "2026-08-24T05:00:06Z",
@@ -542,21 +551,21 @@
         "url": "https://www.youtube.com/watch?v=fFrNv5XztwY",
         "duration_seconds": 20,
         "is_short": true
-      },
-      {
-        "title": "【ぴあアリーナ】#すいれぼアリーナ まであと4日💜 #塩川莉世 #SWEETSTEADY #すいすて #SWEETSTEP",
-        "published_at": "2026-08-19T05:00:04Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/hhu4yULn1Y4/hqdefault.jpg",
-        "video_id": "hhu4yULn1Y4",
-        "url": "https://www.youtube.com/watch?v=hhu4yULn1Y4",
-        "duration_seconds": 18,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "かわいいだけじゃ、物足りない❣️🚗個性が際立つ世界に1台だけの #タフト🔥誰が運転してくれるの❔#かわいいだけじゃだめですか？#CUTIESTREET",
+        "published_at": "2026-08-24T07:18:48Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Dikbh7xgskk/hqdefault.jpg",
+        "video_id": "Dikbh7xgskk",
+        "url": "https://www.youtube.com/watch?v=Dikbh7xgskk",
+        "duration_seconds": 21,
+        "is_short": true
+      },
       {
         "title": "？？『揺れてないもん怒😡』 #桜庭遥花 #ゆめみるプリマドンナ",
         "published_at": "2026-08-24T05:30:12Z",
@@ -726,15 +735,6 @@
         "video_id": "CwPFWHtMdSA",
         "url": "https://www.youtube.com/watch?v=CwPFWHtMdSA",
         "duration_seconds": 11,
-        "is_short": true
-      },
-      {
-        "title": "あやの人気 #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-21T07:26:06Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/IsWNbVMx3_g/hqdefault.jpg",
-        "video_id": "IsWNbVMx3_g",
-        "url": "https://www.youtube.com/watch?v=IsWNbVMx3_g",
-        "duration_seconds": 15,
         "is_short": true
       }
     ]
