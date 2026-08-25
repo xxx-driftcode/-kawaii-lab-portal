@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "#ちょーだいHAPPY！ たくさん聴いてね🎧🌈 #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-25T05:00:14Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/xqYNUkpL_Bc/hqdefault.jpg",
+        "video_id": "xqYNUkpL_Bc",
+        "url": "https://www.youtube.com/watch?v=xqYNUkpL_Bc",
+        "duration_seconds": 37,
+        "is_short": true
+      },
+      {
         "title": "きゅるりんってしてみて #環やね さんとSWEET STEP💜 #きゅるりんってしてみて #SWEETSTEP #SWEETSTEADY #すいすて  #栗田なつか #山内咲奈",
         "published_at": "2026-08-25T01:00:25Z",
         "thumbnail_url": "https://i.ytimg.com/vi/4bsYoPziSB0/hqdefault.jpg",
@@ -542,21 +551,21 @@
         "url": "https://www.youtube.com/watch?v=Rr1iqPZP8N4",
         "duration_seconds": 225,
         "is_short": false
-      },
-      {
-        "title": "『気味が悪いんだからねっ』Choreography Video公開👻📼 #気味が悪いんだからねっ #こわかわ #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-20T10:00:22Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/ciOC4njG1yE/hqdefault.jpg",
-        "video_id": "ciOC4njG1yE",
-        "url": "https://www.youtube.com/watch?v=ciOC4njG1yE",
-        "duration_seconds": 19,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "【実演】CUTIE STREET「Top of the top」エール紹介動画",
+        "published_at": "2026-08-25T04:06:35Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/l66YG2t447o/hqdefault.jpg",
+        "video_id": "l66YG2t447o",
+        "url": "https://www.youtube.com/watch?v=l66YG2t447o",
+        "duration_seconds": 274,
+        "is_short": false
+      },
       {
         "title": "【バトル】いけ❣️パワージェム🟪💛古澤里紗のヤミラミ(真鍋凪咲💜)ポケモンバトルよ⚡️#アニポケ#キュートなキューたい#CUTIESTREET #きゅーすと",
         "published_at": "2026-08-24T13:30:21Z",
@@ -726,15 +735,6 @@
         "video_id": "AdD9wLx8Gss",
         "url": "https://www.youtube.com/watch?v=AdD9wLx8Gss",
         "duration_seconds": 32,
-        "is_short": true
-      },
-      {
-        "title": "顔ちっっっっっちゃ、、、、 #佐野愛花",
-        "published_at": "2026-08-21T23:00:08Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/S5t0RYuDzN0/hqdefault.jpg",
-        "video_id": "S5t0RYuDzN0",
-        "url": "https://www.youtube.com/watch?v=S5t0RYuDzN0",
-        "duration_seconds": 31,
         "is_short": true
       }
     ]
