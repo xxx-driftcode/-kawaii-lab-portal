@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "強いていうなら...とびきりドラマティックなことになるかな〜💗　#とびきりドラマティカ #すいれぼアリーナ #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-25T07:00:33Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZYZ6FZhG1Io/hqdefault.jpg",
+        "video_id": "ZYZ6FZhG1Io",
+        "url": "https://www.youtube.com/watch?v=ZYZ6FZhG1Io",
+        "duration_seconds": 48,
+        "is_short": true
+      },
+      {
         "title": "#ちょーだいHAPPY！ たくさん聴いてね🎧🌈 #SWEETSTEADY #すいすて",
         "published_at": "2026-08-25T05:00:14Z",
         "thumbnail_url": "https://i.ytimg.com/vi/xqYNUkpL_Bc/hqdefault.jpg",
@@ -542,15 +551,6 @@
         "url": "https://www.youtube.com/watch?v=Z5n2IrSMRJw",
         "duration_seconds": 19,
         "is_short": true
-      },
-      {
-        "title": "【Choreography Video】SWEET STEADY『気味が悪いんだからねっ』",
-        "published_at": "2026-08-20T10:00:30Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Rr1iqPZP8N4/hqdefault.jpg",
-        "video_id": "Rr1iqPZP8N4",
-        "url": "https://www.youtube.com/watch?v=Rr1iqPZP8N4",
-        "duration_seconds": 225,
-        "is_short": false
       }
     ]
   },
