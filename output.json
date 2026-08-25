@@ -65,6 +65,15 @@
       },
       {
         "month": "08",
+        "day": "04",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88261",
+        "year": "2026"
+      },
+      {
+        "month": "08",
         "day": "05",
         "day_of_week": "WED",
         "category": "EVENT",
@@ -211,6 +220,15 @@
         "month": "08",
         "day": "21",
         "day_of_week": "FRI",
+        "category": "MAGAZINE",
+        "title": "ViVi10月号（鎮西）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88276",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "21",
+        "day_of_week": "FRI",
         "category": "RADIO",
         "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
         "url": "https://fruitszipper.asobisystem.com/news/detail/87966",
@@ -221,7 +239,7 @@
         "day": "21",
         "day_of_week": "FRI",
         "category": "TV",
-        "title": "TBS 「スポッパ 」",
+        "title": "TBS 「スポッパ」（真中・松本）",
         "url": "https://fruitszipper.asobisystem.com/news/detail/87463",
         "year": "2026"
       },
@@ -259,6 +277,15 @@
         "category": "TV",
         "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
         "url": "https://fruitszipper.asobisystem.com/news/detail/88246",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "25",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88264",
         "year": "2026"
       },
       {
@@ -416,11 +443,29 @@
       },
       {
         "month": "09",
+        "day": "22",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88262",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "23",
         "day_of_week": "WED",
         "category": "LIVE",
         "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@長良川国際会議場 メインホール",
         "url": "https://fruitszipper.asobisystem.com/live_information/detail/40030",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "24",
+        "day_of_week": "THU",
+        "category": "MAGAZINE",
+        "title": "ViVi 11/12月号（鎮西）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88281",
         "year": "2026"
       },
       {
@@ -439,6 +484,15 @@
         "category": "RADIO",
         "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
         "url": "https://fruitszipper.asobisystem.com/news/detail/88251",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "29",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88263",
         "year": "2026"
       },
       {
@@ -497,6 +551,15 @@
       },
       {
         "month": "10",
+        "day": "06",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88265",
+        "year": "2026"
+      },
+      {
+        "month": "10",
         "day": "07",
         "day_of_week": "WED",
         "category": "LIVE",
@@ -542,6 +605,15 @@
       },
       {
         "month": "10",
+        "day": "13",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88266",
+        "year": "2026"
+      },
+      {
+        "month": "10",
         "day": "15",
         "day_of_week": "THU",
         "category": "LIVE",
@@ -556,6 +628,24 @@
         "category": "RADIO",
         "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
         "url": "https://fruitszipper.asobisystem.com/news/detail/88256",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "20",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88267",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "22",
+        "day_of_week": "THU",
+        "category": "MAGAZINE",
+        "title": "VOCE12月号（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88271",
         "year": "2026"
       },
       {
@@ -583,6 +673,15 @@
         "category": "LIVE",
         "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@熊本城ホール メインホール",
         "url": "https://fruitszipper.asobisystem.com/live_information/detail/40042",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "27",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88268",
         "year": "2026"
       },
       {
@@ -699,6 +798,11 @@
     "name": "CANDY TUNE",
     "info": [
       {
+        "date": "2026.08.25",
+        "title": "9/5（土）CANDY TUNE 大特典会＠ベルサール汐留 特典会参加券2次販売が決定！",
+        "url": "https://candytune.asobisystem.com/news/detail/88241"
+      },
+      {
         "date": "2026.08.24",
         "title": "CANDY TUNE JAPAN TOUR 2026 - AUTUMN - 各会場グッズ販売情報・一部会場の会場受取のお知らせ",
         "url": "https://candytune.asobisystem.com/news/detail/88070"
@@ -742,11 +846,6 @@
         "date": "2026.08.14",
         "title": "CANDY TUNE大特典会＠パシフィコ横浜　展示ホールBにて特別抽選会開催決定！",
         "url": "https://candytune.asobisystem.com/news/detail/87384"
-      },
-      {
-        "date": "2026.08.14",
-        "title": "CANDY TUNE／MORE STAR大特典会＠東京流通センター　第二展示場Fホールにて特別抽選会開催決定！",
-        "url": "https://candytune.asobisystem.com/news/detail/87370"
       }
     ],
     "schedule": [
@@ -892,6 +991,15 @@
         "category": "LIVE",
         "title": "「MONSTER baSH 2026」",
         "url": "https://candytune.asobisystem.com/live_information/detail/43858",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "25",
+        "day_of_week": "TUE",
+        "category": "MAGAZINE",
+        "title": "『MARQUEE Vol.163』",
+        "url": "https://candytune.asobisystem.com/news/detail/88289",
         "year": "2026"
       },
       {
