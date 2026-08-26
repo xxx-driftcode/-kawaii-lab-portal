@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "るなぴの周りで1,2,3,FOOOOUR🌈#FRUITSZIPPER#ふるっぱー #フルーツジッパー",
+        "published_at": "2026-08-26T13:05:34Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/gIpK4cIl_7c/hqdefault.jpg",
+        "video_id": "gIpK4cIl_7c",
+        "url": "https://www.youtube.com/watch?v=gIpK4cIl_7c",
+        "duration_seconds": 9,
+        "is_short": true
+      },
+      {
         "title": "【9/6（日）まで予約受付】FRUITS ZIPPER 東京ドーム公演 Blu-ray / DVD発売決定！",
         "published_at": "2026-08-26T11:42:17Z",
         "thumbnail_url": "https://i.ytimg.com/vi/Kt144bzmRaM/hqdefault.jpg",
@@ -172,21 +181,21 @@
         "url": "https://www.youtube.com/watch?v=hnuGaYptTG4",
         "duration_seconds": 17,
         "is_short": true
-      },
-      {
-        "title": "【vlog】ジェラピケで夏のおそろいウェア買ったよー！🐶🩵🩷【まなれん】",
-        "published_at": "2026-08-19T10:00:06Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/d1lIFxhWRug/hqdefault.jpg",
-        "video_id": "d1lIFxhWRug",
-        "url": "https://www.youtube.com/watch?v=d1lIFxhWRug",
-        "duration_seconds": 953,
-        "is_short": false
       }
     ]
   },
   "candytune": {
     "name": "CANDY TUNE",
     "videos": [
+      {
+        "title": "🍬🪎🩷【MV Teaser 村川緋杏】🩷🪎🍬CANDY TUNE New Music Video『総意♡So Free』🍬🎸🩷8/29(土) MV公開 🩷🥁 🍬",
+        "published_at": "2026-08-26T12:39:18Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/8_uXLRVqJ3o/hqdefault.jpg",
+        "video_id": "8_uXLRVqJ3o",
+        "url": "https://www.youtube.com/watch?v=8_uXLRVqJ3o",
+        "duration_seconds": 15,
+        "is_short": true
+      },
       {
         "title": "お久しぶりの【はっ！みぃて！】本なちにて紹介されたのは...🧸💚💚小川奈々子#CANDYTUNE #きゃんちゅー",
         "published_at": "2026-08-26T10:30:37Z",
@@ -357,21 +366,21 @@
         "url": "https://www.youtube.com/watch?v=BKbgG8s6d74",
         "duration_seconds": 23,
         "is_short": true
-      },
-      {
-        "title": "👑💃🎀 Princess Girls♡🎀💃👑ことなちにまつわる歌詞でできているこの曲🎶たくさん愛してあげてね🫶 💚小川奈々子  ♥️立花琴未#きゃんぱてぃさん#CANDYTUNE",
-        "published_at": "2026-08-19T11:58:08Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/g4rre7nf6lk/hqdefault.jpg",
-        "video_id": "g4rre7nf6lk",
-        "url": "https://www.youtube.com/watch?v=g4rre7nf6lk",
-        "duration_seconds": 36,
-        "is_short": true
       }
     ]
   },
   "sweetsteady": {
     "name": "SWEET STEADY",
     "videos": [
+      {
+        "title": "一歩一歩進もう💐 #すいれぼアリーナ #始まりの合図 #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-26T12:19:01Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ldfb0Xi38O8/hqdefault.jpg",
+        "video_id": "Ldfb0Xi38O8",
+        "url": "https://www.youtube.com/watch?v=Ldfb0Xi38O8",
+        "duration_seconds": 32,
+        "is_short": true
+      },
       {
         "title": "ピースいただきました✌️ #山内咲奈 #すいれぼアリーナ #ファンファーレ #SWEETSTEADY #すいすて",
         "published_at": "2026-08-26T09:00:03Z",
@@ -542,21 +551,30 @@
         "url": "https://www.youtube.com/watch?v=pu32wYTOjzA",
         "duration_seconds": 28,
         "is_short": true
-      },
-      {
-        "title": "#かわにしなつき さんとSWEET STEP🌕 #白石まゆみ #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-21T05:22:45Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/p-gyvHpYN6o/hqdefault.jpg",
-        "video_id": "p-gyvHpYN6o",
-        "url": "https://www.youtube.com/watch?v=p-gyvHpYN6o",
-        "duration_seconds": 23,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "【LIVE映像】キュートなキューたい📍日本武道館【CUTIE STREET】",
+        "published_at": "2026-08-26T14:04:50Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/g-mLDtJFpQo/hqdefault.jpg",
+        "video_id": "g-mLDtJFpQo",
+        "url": "https://www.youtube.com/watch?v=g-mLDtJFpQo",
+        "duration_seconds": 237,
+        "is_short": false
+      },
+      {
+        "title": "【ダイジェスト】CUTIE STREET in 日本武道館【ありがとう】",
+        "published_at": "2026-08-26T13:33:55Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/r6kf2HpfgrU/hqdefault.jpg",
+        "video_id": "r6kf2HpfgrU",
+        "url": "https://www.youtube.com/watch?v=r6kf2HpfgrU",
+        "duration_seconds": 86,
+        "is_short": false
+      },
       {
         "title": "【声‼️】日本武道館‼️満員‼️ありがとう‼️ #CUTIESTREET #きゅーすと #キュートなキューたい",
         "published_at": "2026-08-26T11:12:59Z",
@@ -717,24 +735,6 @@
         "video_id": "dgGFLilqHjo",
         "url": "https://www.youtube.com/watch?v=dgGFLilqHjo",
         "duration_seconds": 42,
-        "is_short": true
-      },
-      {
-        "title": "【KAWAII FOCUS】CUTIE STREET『Error404♡』",
-        "published_at": "2026-08-22T13:30:22Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/w8xfJYASmvE/hqdefault.jpg",
-        "video_id": "w8xfJYASmvE",
-        "url": "https://www.youtube.com/watch?v=w8xfJYASmvE",
-        "duration_seconds": 228,
-        "is_short": false
-      },
-      {
-        "title": "#キャップ と一緒に⚡️#アニポケ エンディングテーマ🌳「#キュートなキューたい」#CUTIESTREET #きゅーすと⁡",
-        "published_at": "2026-08-22T11:30:06Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/VGsxD2Pv7k4/hqdefault.jpg",
-        "video_id": "VGsxD2Pv7k4",
-        "url": "https://www.youtube.com/watch?v=VGsxD2Pv7k4",
-        "duration_seconds": 16,
         "is_short": true
       }
     ]
