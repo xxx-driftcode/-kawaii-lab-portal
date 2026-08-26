@@ -290,6 +290,15 @@
       },
       {
         "month": "08",
+        "day": "27",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "テレビ朝日ドラマ「大空港」＃6（鎮西）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88347",
+        "year": "2026"
+      },
+      {
+        "month": "08",
         "day": "28",
         "day_of_week": "FRI",
         "category": "RADIO",
@@ -695,6 +704,15 @@
       },
       {
         "month": "11",
+        "day": "03",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88343",
+        "year": "2026"
+      },
+      {
+        "month": "11",
         "day": "05",
         "day_of_week": "THU",
         "category": "LIVE",
@@ -713,11 +731,38 @@
       },
       {
         "month": "11",
+        "day": "06",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88339",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "10",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88344",
+        "year": "2026"
+      },
+      {
+        "month": "11",
         "day": "12",
         "day_of_week": "THU",
         "category": "LIVE",
         "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@札幌市民芸術劇場hitaru",
         "url": "https://fruitszipper.asobisystem.com/live_information/detail/40045",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "13",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88340",
         "year": "2026"
       },
       {
@@ -740,6 +785,24 @@
       },
       {
         "month": "11",
+        "day": "17",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88345",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "20",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88341",
+        "year": "2026"
+      },
+      {
+        "month": "11",
         "day": "21",
         "day_of_week": "SAT",
         "category": "LIVE",
@@ -758,11 +821,29 @@
       },
       {
         "month": "11",
+        "day": "24",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88346",
+        "year": "2026"
+      },
+      {
+        "month": "11",
         "day": "27",
         "day_of_week": "FRI",
         "category": "EVENT",
         "title": "GIFT〜Girls Idol Festival Tokyo〜 ＠SGC ホール有明",
         "url": "https://fruitszipper.asobisystem.com/live_information/detail/44009",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "27",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88342",
         "year": "2026"
       },
       {
