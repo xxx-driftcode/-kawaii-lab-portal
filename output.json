@@ -307,6 +307,15 @@
         "year": "2026"
       },
       {
+        "month": "08",
+        "day": "28",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "FM山形「RAMP.」（櫻井）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88406",
+        "year": "2026"
+      },
+      {
         "month": "09",
         "day": "01",
         "day_of_week": "TUE",
@@ -322,6 +331,15 @@
         "category": "LIVE",
         "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -＠よこすか芸術劇場（大劇場）",
         "url": "https://fruitszipper.asobisystem.com/live_information/detail/40026",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "03",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88412",
         "year": "2026"
       },
       {
@@ -349,6 +367,15 @@
         "category": "RADIO",
         "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
         "url": "https://fruitszipper.asobisystem.com/news/detail/88257",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "10",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88413",
         "year": "2026"
       },
       {
@@ -879,6 +906,11 @@
     "name": "CANDY TUNE",
     "info": [
       {
+        "date": "2026.08.26",
+        "title": "「CANDY TUNE  JAPAN TOUR 2026 - AUTUMN -\tCANDY CIRCUS\t」公演　 リセールサービスのお知らせ",
+        "url": "https://candytune.asobisystem.com/news/detail/88212"
+      },
+      {
         "date": "2026.08.25",
         "title": "9/5（土）CANDY TUNE 大特典会＠ベルサール汐留 特典会参加券2次販売が決定！",
         "url": "https://candytune.asobisystem.com/news/detail/88241"
@@ -922,11 +954,6 @@
         "date": "2026.08.15",
         "title": "4thシングル発売記念！9/5(土) CANDY TUNE大特典会をベルサール汐留にて開催決定！",
         "url": "https://candytune.asobisystem.com/news/detail/87439"
-      },
-      {
-        "date": "2026.08.14",
-        "title": "CANDY TUNE大特典会＠パシフィコ横浜　展示ホールBにて特別抽選会開催決定！",
-        "url": "https://candytune.asobisystem.com/news/detail/87384"
       }
     ],
     "schedule": [
@@ -1332,6 +1359,11 @@
     "name": "SWEET STEADY",
     "info": [
       {
+        "date": "2026.08.26",
+        "title": "【SWEET STEADY】  3rdシングル『SWEET STEP』発売記念リリースイベント @エミテラス所沢2F TOKOROZAWA e-CUBE",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/88315"
+      },
+      {
         "date": "2026.08.24",
         "title": "9/6(日)SWEET STEADY 大特典会をベルサール汐留にて開催決定！",
         "url": "https://sweetsteady.asobisystem.com/news/detail/88152"
@@ -1375,11 +1407,6 @@
         "date": "2026.08.18",
         "title": "SWEET STEADY ARENA LIVE 2026 -SUMMER-「STEADY→REVOLUTION」FC連動企画実施決定のお知らせ！",
         "url": "https://sweetsteady.asobisystem.com/news/detail/87375"
-      },
-      {
-        "date": "2026.08.17",
-        "title": "2026/8/18(火) 「ASOBISYSTEM 19th Anniversary ASOBIEXPO 2026＠TOYOTA ARENA TOKYO」にてFRUITS ZIPPER、CANDY TUNE、SWEET STEADY、CUTIE STREET、MORE STARの特別抽選会開催が決定！",
-        "url": "https://sweetsteady.asobisystem.com/news/detail/87561"
       }
     ],
     "schedule": [
