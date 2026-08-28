@@ -3,6 +3,11 @@
     "name": "FRUITS ZIPPER",
     "info": [
       {
+        "date": "2026.08.27",
+        "title": "【FRUITS ZIPPER OFFICIAL FANCLUB】「FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code」FC連動企画実施決定！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88111"
+      },
+      {
         "date": "2026.08.26",
         "title": "FRUITS ZIPPER 「4th Anniversary 超⭐︎観測展」グッズ＆OSHI API UNIFORMキッズサイズ 通販実施のお知らせ",
         "url": "https://fruitszipper.asobisystem.com/news/detail/88437"
@@ -46,11 +51,6 @@
         "date": "2026.08.21",
         "title": "8/23（日）MONSTER baSH 物販情報",
         "url": "https://fruitszipper.asobisystem.com/news/detail/87975"
-      },
-      {
-        "date": "2026.08.21",
-        "title": "8/22（土）PAMYU FES 物販情報",
-        "url": "https://fruitszipper.asobisystem.com/news/detail/87973"
       }
     ],
     "schedule": [
@@ -346,6 +346,15 @@
         "month": "09",
         "day": "04",
         "day_of_week": "FRI",
+        "category": "EVENT",
+        "title": "夏遊スペシャルイベント「KAWAII MANAFY LAND」（真中）",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/44246",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "04",
+        "day_of_week": "FRI",
         "category": "RADIO",
         "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
         "url": "https://fruitszipper.asobisystem.com/news/detail/88244",
@@ -367,15 +376,6 @@
         "category": "RADIO",
         "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
         "url": "https://fruitszipper.asobisystem.com/news/detail/88257",
-        "year": "2026"
-      },
-      {
-        "month": "09",
-        "day": "10",
-        "day_of_week": "THU",
-        "category": "TV",
-        "title": "テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
-        "url": "https://fruitszipper.asobisystem.com/news/detail/88413",
         "year": "2026"
       },
       {
@@ -412,15 +412,6 @@
         "category": "EVENT",
         "title": "ROCK IN JAPAN FESTIVAL 2026 ＠千葉市蘇我スポーツ公園",
         "url": "https://fruitszipper.asobisystem.com/live_information/detail/41145",
-        "year": "2026"
-      },
-      {
-        "month": "09",
-        "day": "15",
-        "day_of_week": "TUE",
-        "category": "RADIO",
-        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
-        "url": "https://fruitszipper.asobisystem.com/news/detail/88260",
         "year": "2026"
       },
       {
@@ -884,6 +875,15 @@
       },
       {
         "month": "12",
+        "day": "01",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88260",
+        "year": "2026"
+      },
+      {
+        "month": "12",
         "day": "12",
         "day_of_week": "SAT",
         "category": "EVENT",
@@ -905,6 +905,11 @@
   "candytune": {
     "name": "CANDY TUNE",
     "info": [
+      {
+        "date": "2026.08.27",
+        "title": "CANDY TUNE JAPAN TOUR 2026 -AUTUMN- CANDY CIRCUSにて、CD予約／購入者を対象とした特別抽選会の開催が決定！",
+        "url": "https://candytune.asobisystem.com/news/detail/88478"
+      },
       {
         "date": "2026.08.26",
         "title": "「KAWAII LAB. SESSION 2026 SUMMER」グッズ通販実施のお知らせ",
@@ -949,11 +954,6 @@
         "date": "2026.08.16",
         "title": "宮野静 個別2ショットチェキ撮影会 振替日程および払い戻しのご案内",
         "url": "https://candytune.asobisystem.com/news/detail/87491"
-      },
-      {
-        "date": "2026.08.16",
-        "title": "2026年10月1日(木) 「CANDY TUNE 小川奈々子 生誕祭 2026」開催決定！CANDY TUNE OFFICIAL FANCLUB会員先行開始！",
-        "url": "https://candytune.asobisystem.com/news/detail/87180"
       }
     ],
     "schedule": [
@@ -1301,6 +1301,15 @@
       },
       {
         "month": "11",
+        "day": "22",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "『WONDERLIVET 2026』",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44263",
+        "year": "2026"
+      },
+      {
+        "month": "11",
         "day": "24",
         "day_of_week": "TUE",
         "category": "LIVE",
@@ -1359,6 +1368,11 @@
     "name": "SWEET STEADY",
     "info": [
       {
+        "date": "2026.08.27",
+        "title": "9月21日(月・祝)「SWEET STEADY 単独公演 お花見会」＠Zepp Shinjuku (TOKYO)開催決定！FC先行受付開始！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/88352"
+      },
+      {
         "date": "2026.08.26",
         "title": "「KAWAII LAB. SESSION 2026 SUMMER」グッズ通販実施のお知らせ",
         "url": "https://sweetsteady.asobisystem.com/news/detail/88441"
@@ -1402,11 +1416,6 @@
         "date": "2026.08.22",
         "title": "「KAWAII LAB.  Christmas SESSION 2026」@有明アリーナ アップグレード抽選受付のお知らせ",
         "url": "https://sweetsteady.asobisystem.com/news/detail/87781"
-      },
-      {
-        "date": "2026.08.18",
-        "title": "SWEET STEADYぴあアリーナ単独公演グッズ情報",
-        "url": "https://sweetsteady.asobisystem.com/news/detail/87676"
       }
     ],
     "schedule": [
@@ -1870,6 +1879,15 @@
         "category": "MAGAZINE",
         "title": "雑誌『MAPS KOREA』『MAPS JAPAN』",
         "url": "https://cutiestreet.asobisystem.com/news/detail/87853",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "28",
+        "day_of_week": "FRI",
+        "category": "TV",
+        "title": "テレビアニメ『ポケットモンスター』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88543",
         "year": "2026"
       },
       {
