@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "# なぎゅとぎゅ〜〜、しよっ🧡 #庄司なぎさ #SWEETSTEADY #すいすて #SWEETSTEP",
+        "published_at": "2026-08-29T06:58:27Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/m9el5JWqP_o/hqdefault.jpg",
+        "video_id": "m9el5JWqP_o",
+        "url": "https://www.youtube.com/watch?v=m9el5JWqP_o",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "🇹🇭🌸バンコクでも #ちょーだいHAPPY！ 🌸🇯🇵 #すいすて #SWEETSTEADY #นิปปอนฮาคุ #NIPPONHAKUBANGKOK2026 #バンコク日本博",
         "published_at": "2026-08-29T03:39:23Z",
         "thumbnail_url": "https://i.ytimg.com/vi/73SnIZPeF8Q/hqdefault.jpg",
@@ -542,15 +551,6 @@
         "url": "https://www.youtube.com/watch?v=URyEER4doBk",
         "duration_seconds": 222,
         "is_short": false
-      },
-      {
-        "title": "『ちょーだいHAPPY！』フルライブ映像公開🪩💕 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-24T11:00:02Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/NBCTVc4U_1c/hqdefault.jpg",
-        "video_id": "NBCTVc4U_1c",
-        "url": "https://www.youtube.com/watch?v=NBCTVc4U_1c",
-        "duration_seconds": 20,
-        "is_short": true
       }
     ]
   },
