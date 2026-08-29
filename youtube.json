@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【テレビ23:00~】ⓃⒽⓀ #Venue101 生出演🌟🪄 #CUTIESTREET #きゅーすと #キュートなキューたい",
+        "published_at": "2026-08-29T03:22:25Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/UOj36xOG3rE/hqdefault.jpg",
+        "video_id": "UOj36xOG3rE",
+        "url": "https://www.youtube.com/watch?v=UOj36xOG3rE",
+        "duration_seconds": 17,
+        "is_short": true
+      },
+      {
         "title": "武道館で【ぶりっこ】しりとり #CUTIESTREET #きゅーすと",
         "published_at": "2026-08-28T13:30:10Z",
         "thumbnail_url": "https://i.ytimg.com/vi/tjnFxtAVYuA/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "QgTphdXE1AQ",
         "url": "https://www.youtube.com/watch?v=QgTphdXE1AQ",
         "duration_seconds": 31,
-        "is_short": true
-      },
-      {
-        "title": "かわいいだけじゃ、物足りない❣️🚗個性が際立つ世界に1台だけの #タフト🔥誰が運転してくれるの❔#かわいいだけじゃだめですか？#CUTIESTREET",
-        "published_at": "2026-08-24T07:18:48Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Dikbh7xgskk/hqdefault.jpg",
-        "video_id": "Dikbh7xgskk",
-        "url": "https://www.youtube.com/watch?v=Dikbh7xgskk",
-        "duration_seconds": 21,
         "is_short": true
       }
     ]
