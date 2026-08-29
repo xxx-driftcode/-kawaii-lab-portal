@@ -1292,6 +1292,15 @@
       },
       {
         "month": "11",
+        "day": "07",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "「LARMEFES’26」",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44335",
+        "year": "2026"
+      },
+      {
+        "month": "11",
         "day": "10",
         "day_of_week": "TUE",
         "category": "LIVE",
