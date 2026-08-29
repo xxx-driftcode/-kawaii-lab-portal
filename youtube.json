@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "すいすてとすいでぃーで作り上げたステージ✴︎˚✧ #すいれぼアリーナ #ぐっじょぶ！ #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-29T14:07:36Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/LZp73Vs6FGo/hqdefault.jpg",
+        "video_id": "LZp73Vs6FGo",
+        "url": "https://www.youtube.com/watch?v=LZp73Vs6FGo",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "ピースを振り回すHAPPY集団✌️🌈 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
         "published_at": "2026-08-29T12:30:12Z",
         "thumbnail_url": "https://i.ytimg.com/vi/Vu30U9IXASk/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "ZYZ6FZhG1Io",
         "url": "https://www.youtube.com/watch?v=ZYZ6FZhG1Io",
         "duration_seconds": 48,
-        "is_short": true
-      },
-      {
-        "title": "#ちょーだいHAPPY！ たくさん聴いてね🎧🌈 #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-25T05:00:14Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/xqYNUkpL_Bc/hqdefault.jpg",
-        "video_id": "xqYNUkpL_Bc",
-        "url": "https://www.youtube.com/watch?v=xqYNUkpL_Bc",
-        "duration_seconds": 37,
         "is_short": true
       }
     ]
