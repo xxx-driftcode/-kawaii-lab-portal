@@ -1763,7 +1763,422 @@
         "url": "https://cutiestreet.asobisystem.com/news/detail/87565"
       }
     ],
-    "schedule": []
+    "schedule": [
+      {
+        "month": "08",
+        "day": "01",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA- 📍大阪・舞洲スポーツアイランド ジャイガ特設会場",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/36762",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "04",
+        "day_of_week": "TUE",
+        "category": "EVENT",
+        "title": "#めざましWANGANフェス ～人気バラエティと夏の最強コラボ～ @豊洲PIT",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/39416",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "09",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "LuckyFes’26",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/35909",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "10",
+        "day_of_week": "MON",
+        "category": "MAGAZINE",
+        "title": "雑誌『sweet 』9月号",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87851",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "13",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "テレビ東京「真夏の怪奇ファイル2026 見えてしまった…招かれざるモノたち」",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87038",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "13",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "TBSテレビ「ニンゲン観察バラエティ モニタリング」",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/86324",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "14",
+        "day_of_week": "FRI",
+        "category": "TV",
+        "title": "日本テレビ『ZIP!』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87291",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "18",
+        "day_of_week": "TUE",
+        "category": "EVENT",
+        "title": "「ASOBISYSTEM 19th Anniversary ASOBIEXPO 2026」@TOYOTA ARENA TOKYO",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40666",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "18",
+        "day_of_week": "TUE",
+        "category": "TV",
+        "title": "テレビ朝日『START UP！ドリームエンタ』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87064",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "20",
+        "day_of_week": "THU",
+        "category": "MAGAZINE",
+        "title": "雑誌『non-no』10月号",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87850",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "21",
+        "day_of_week": "FRI",
+        "category": "MAGAZINE",
+        "title": "雑誌『VOCE』10月号",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87939",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "23",
+        "day_of_week": "SUN",
+        "category": "RADIO",
+        "title": "TOKYO FM「CUTIE STREET♡ KAWAII MAKERラジオ」",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88077",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "25",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "CUTIE STREET 2nd ANNIVERSARY LIVE 2026 Day1 @日本武道館",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/33046",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "25",
+        "day_of_week": "TUE",
+        "category": "TV",
+        "title": "テレビ朝日『START UP！ドリームエンタ』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87065",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "26",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "CUTIE STREET 2nd ANNIVERSARY LIVE 2026 Day2 @ 日本武道館",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/33047",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "28",
+        "day_of_week": "FRI",
+        "category": "MAGAZINE",
+        "title": "雑誌『MAPS KOREA』『MAPS JAPAN』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87853",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "28",
+        "day_of_week": "FRI",
+        "category": "TV",
+        "title": "テレビアニメ『ポケットモンスター』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88543",
+        "year": "2026"
+      },
+      {
+        "month": "08",
+        "day": "29",
+        "day_of_week": "SAT",
+        "category": "TV",
+        "title": "NHK音楽番組『Venue 101』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88036",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "01",
+        "day_of_week": "TUE",
+        "category": "TV",
+        "title": "テレビ朝日『START UP！ドリームエンタ』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87066",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "08",
+        "day_of_week": "TUE",
+        "category": "TV",
+        "title": "テレビ朝日『START UP！ドリームエンタ』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87067",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "12",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "『TOMAKOMAI MIRAI FEST 2026』@苫小牧・キラキラ公園",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/42446",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "13",
+        "day_of_week": "SUN",
+        "category": "OTHER",
+        "title": "🩵梅田みゆ BIRTHDAY🩵",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/56529",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "14",
+        "day_of_week": "MON",
+        "category": "LIVE",
+        "title": "梅田みゆ 生誕祭 2026＠ SGCホール有明",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/42328",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "15",
+        "day_of_week": "TUE",
+        "category": "TV",
+        "title": "テレビ朝日『START UP！ドリームエンタ』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87068",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "17",
+        "day_of_week": "THU",
+        "category": "MAGAZINE",
+        "title": "雑誌『LARME 070』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87940",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "19",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "ROCK IN JAPAN FESTIVAL 2026 @千葉市蘇我スポーツ公園",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/39827",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "23",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】 @横浜アリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40309",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "29",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】＠有明アリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40310",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "30",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@有明アリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40312",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "03",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】 @セキスイハイムスーパーアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40313",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "04",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@セキスイハイムスーパーアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40361",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "11",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "『STARフェス』＠ぴあアリーナMM",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/43487",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "12",
+        "day_of_week": "MON",
+        "category": "EVENT",
+        "title": "『KAWAII LAB. COLLECTION produced by TGC ~KAWAIIっちゃ in KITAKYUSH~』＠北九州メッセ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/43749",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "17",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "MIYAKO ISLAND ROCK FESTIVAL 2026 @宮古島コースタルリゾートヒララ トゥリバー地区ヘッドランド特設会場",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/39680",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "28",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@マリンメッセ福岡A館",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40362",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "29",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@マリンメッセ福岡A館",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40363",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "31",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@神戸ワールド記念ホール",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40364",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "01",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@神戸ワールド記念ホール",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40365",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "14",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@広島グリーンアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40366",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "15",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@広島グリーンアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40367",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "27",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "『GIFT〜Girls Idol Festival Tokyo〜』 @SGC ホール有明",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/43800",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "28",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@ IGアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40368",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "29",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@IGアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40369",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "05",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "『HIROSHIMA CONTI-NeW FeS 2026』@ 広島グリーンアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/42404",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "06",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "『HIROSHIMA CONTI-NeW FeS 2026』@ 広島グリーンアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/42405",
+        "year": "2026"
+      },
+      {
+        "month": "01",
+        "day": "23",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "『CUTIE STREET Live in Korea 2027 WINTER』@킨텍스 Hall 9A(KINTEX Hall 9A)",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/42855",
+        "year": "2027"
+      }
+    ]
   },
   "morestar": {
     "name": "MORE STAR",
