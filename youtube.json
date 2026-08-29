@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【テレビⓃⒽⓀ⚡️】#Venue101 観てますか〜❣️❣️ #キュートなキューたい #CUTIESTREET #きゅーすと",
+        "published_at": "2026-08-29T13:07:11Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/XWtPDE3f35I/hqdefault.jpg",
+        "video_id": "XWtPDE3f35I",
+        "url": "https://www.youtube.com/watch?v=XWtPDE3f35I",
+        "duration_seconds": 17,
+        "is_short": true
+      },
+      {
         "title": "#キャップ の後ろに隠れているのは…？👀💚板倉可奈🩵梅田みゆ#アニポケ エンディングテーマ🌳「#キュートなキューたい」#CUTIESTREET #きゅーすと",
         "published_at": "2026-08-29T12:02:08Z",
         "thumbnail_url": "https://i.ytimg.com/vi/oOthman3_V0/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=hPk6Kijlibk",
         "duration_seconds": 228,
         "is_short": false
-      },
-      {
-        "title": "イタズラっ子 何人いるでしょう #キュートなキューたい #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-24T10:36:21Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/1zh3GkHRG_0/hqdefault.jpg",
-        "video_id": "1zh3GkHRG_0",
-        "url": "https://www.youtube.com/watch?v=1zh3GkHRG_0",
-        "duration_seconds": 17,
-        "is_short": true
       }
     ]
   },
