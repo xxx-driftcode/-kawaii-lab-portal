@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "🇹🇭🌸バンコク日本博2026🌸🇯🇵ありがとうございました💐#นิปปอนฮาคุ #NIPPONHAKUBANGKOK2026 #バンコク日本博 #SWEETSTEADY",
+        "published_at": "2026-08-29T10:26:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/3dWpVo9bjss/hqdefault.jpg",
+        "video_id": "3dWpVo9bjss",
+        "url": "https://www.youtube.com/watch?v=3dWpVo9bjss",
+        "duration_seconds": 26,
+        "is_short": true
+      },
+      {
         "title": "# なぎゅとぎゅ〜〜、しよっ🧡 #庄司なぎさ #SWEETSTEADY #すいすて #SWEETSTEP",
         "published_at": "2026-08-29T06:58:27Z",
         "thumbnail_url": "https://i.ytimg.com/vi/m9el5JWqP_o/hqdefault.jpg",
@@ -542,15 +551,6 @@
         "url": "https://www.youtube.com/watch?v=4bsYoPziSB0",
         "duration_seconds": 22,
         "is_short": true
-      },
-      {
-        "title": "【フルライブ映像】SWEET STEADY『ちょーだいHAPPY！』",
-        "published_at": "2026-08-24T11:00:29Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/URyEER4doBk/hqdefault.jpg",
-        "video_id": "URyEER4doBk",
-        "url": "https://www.youtube.com/watch?v=URyEER4doBk",
-        "duration_seconds": 222,
-        "is_short": false
       }
     ]
   },
