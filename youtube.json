@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "【1日密着】8/26(水) MORE STAR 1st シングルCD リリース日 密着映像",
+        "published_at": "2026-08-29T06:00:01Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/7NQE2s-nvD0/hqdefault.jpg",
+        "video_id": "7NQE2s-nvD0",
+        "url": "https://www.youtube.com/watch?v=7NQE2s-nvD0",
+        "duration_seconds": 864,
+        "is_short": false
+      },
+      {
         "title": "【開封動画】MORE STAR はじめてのCD開封",
         "published_at": "2026-08-27T14:23:28Z",
         "thumbnail_url": "https://i.ytimg.com/vi/jiyp29SN_mY/hqdefault.jpg",
@@ -911,15 +920,6 @@
         "video_id": "hY31Ki3qqm0",
         "url": "https://www.youtube.com/watch?v=hY31Ki3qqm0",
         "duration_seconds": 50,
-        "is_short": true
-      },
-      {
-        "title": "パンを愛しパンに愛される中山こはく🩶#中山こはく#ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-08-11T02:04:10Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/GXpWACd2ot8/hqdefault.jpg",
-        "video_id": "GXpWACd2ot8",
-        "url": "https://www.youtube.com/watch?v=GXpWACd2ot8",
-        "duration_seconds": 13,
         "is_short": true
       }
     ]
