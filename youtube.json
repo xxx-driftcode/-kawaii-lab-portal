@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "#24時間テレビ49 ありがとうございました🌏💐 #SWEETSTEP #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-30T11:00:37Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/l737-lq8gd8/hqdefault.jpg",
+        "video_id": "l737-lq8gd8",
+        "url": "https://www.youtube.com/watch?v=l737-lq8gd8",
+        "duration_seconds": 23,
+        "is_short": true
+      },
+      {
         "title": "恋なの？怪なの？🖤🕯️ #気味が悪いんだからねっ #奥田彩友 #レッツゴー怪奇組 #こわかわ #こわかわダンス #SWEETSTEADY",
         "published_at": "2026-08-30T09:00:31Z",
         "thumbnail_url": "https://i.ytimg.com/vi/P84mBZUK-SA/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "I6Zo9vVrYMM",
         "url": "https://www.youtube.com/watch?v=I6Zo9vVrYMM",
         "duration_seconds": 20,
-        "is_short": true
-      },
-      {
-        "title": "一歩一歩進もう💐 #すいれぼアリーナ #始まりの合図 #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-26T12:19:01Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Ldfb0Xi38O8/hqdefault.jpg",
-        "video_id": "Ldfb0Xi38O8",
-        "url": "https://www.youtube.com/watch?v=Ldfb0Xi38O8",
-        "duration_seconds": 32,
         "is_short": true
       }
     ]
