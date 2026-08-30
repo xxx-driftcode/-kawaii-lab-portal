@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【LIVE映像】ひたむきシンデレラ！📍日本武道館【CUTIE STREET】",
+        "published_at": "2026-08-30T11:30:32Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/H87dEasUmSM/hqdefault.jpg",
+        "video_id": "H87dEasUmSM",
+        "url": "https://www.youtube.com/watch?v=H87dEasUmSM",
+        "duration_seconds": 237,
+        "is_short": false
+      },
+      {
         "title": "【武道館本番前】やばいwwwww #CUTIESTREET #きゅーすと #キュートなキューたい",
         "published_at": "2026-08-30T09:32:54Z",
         "thumbnail_url": "https://i.ytimg.com/vi/tTkmUZ6ySgg/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "TSVuhE_0ggo",
         "url": "https://www.youtube.com/watch?v=TSVuhE_0ggo",
         "duration_seconds": 21,
-        "is_short": true
-      },
-      {
-        "title": "遂に‼️日本武道館‼️頑張るね‼️ #CUTIESTREET #きゅーすと #キュートなキューたい",
-        "published_at": "2026-08-25T09:00:06Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/4upotSpok1U/hqdefault.jpg",
-        "video_id": "4upotSpok1U",
-        "url": "https://www.youtube.com/watch?v=4upotSpok1U",
-        "duration_seconds": 16,
         "is_short": true
       }
     ]
