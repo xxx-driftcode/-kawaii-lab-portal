@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "何人で踊ってもかわいい#ちょーだいHAPPY！ 🎀 #音井結衣 #栗田なつか #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-30T05:30:13Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/4xUzebjk--w/hqdefault.jpg",
+        "video_id": "4xUzebjk--w",
+        "url": "https://www.youtube.com/watch?v=4xUzebjk--w",
+        "duration_seconds": 20,
+        "is_short": true
+      },
+      {
         "title": "すいすてとすいでぃーで作り上げたステージ✴︎˚✧ #すいれぼアリーナ #ぐっじょぶ！ #SWEETSTEADY #すいすて",
         "published_at": "2026-08-29T14:07:36Z",
         "thumbnail_url": "https://i.ytimg.com/vi/LZp73Vs6FGo/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "kQSt3u-H45c",
         "url": "https://www.youtube.com/watch?v=kQSt3u-H45c",
         "duration_seconds": 44,
-        "is_short": true
-      },
-      {
-        "title": "強いていうなら...とびきりドラマティックなことになるかな〜💗　#とびきりドラマティカ #すいれぼアリーナ #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-25T07:00:33Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/ZYZ6FZhG1Io/hqdefault.jpg",
-        "video_id": "ZYZ6FZhG1Io",
-        "url": "https://www.youtube.com/watch?v=ZYZ6FZhG1Io",
-        "duration_seconds": 48,
         "is_short": true
       }
     ]
