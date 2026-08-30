@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【武道館本番前】やばいwwwww #CUTIESTREET #きゅーすと #キュートなキューたい",
+        "published_at": "2026-08-30T09:32:54Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/tTkmUZ6ySgg/hqdefault.jpg",
+        "video_id": "tTkmUZ6ySgg",
+        "url": "https://www.youtube.com/watch?v=tTkmUZ6ySgg",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "【怖マネ】愛花❤️とぱる🩷がずっと喋ってちゃんと歩かないのを注意したら『ぱるも喋ってたもん！』と言い訳するのでお姉ちゃんの愛花を先頭に連行(実況：梅田みゆ🩵 / 撮影：古澤里紗💛)",
         "published_at": "2026-08-30T07:14:57Z",
         "thumbnail_url": "https://i.ytimg.com/vi/daAo8HQkfpw/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=4upotSpok1U",
         "duration_seconds": 16,
         "is_short": true
-      },
-      {
-        "title": "【実演】CUTIE STREET「Top of the top」エール紹介動画",
-        "published_at": "2026-08-25T04:06:35Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/l66YG2t447o/hqdefault.jpg",
-        "video_id": "l66YG2t447o",
-        "url": "https://www.youtube.com/watch?v=l66YG2t447o",
-        "duration_seconds": 274,
-        "is_short": false
       }
     ]
   },
