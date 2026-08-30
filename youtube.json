@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "#24時間テレビ49 HAPPY届けられた？💞 #ちょーだいHAPPY #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-30T13:00:13Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/wZY4VQXq3Cc/hqdefault.jpg",
+        "video_id": "wZY4VQXq3Cc",
+        "url": "https://www.youtube.com/watch?v=wZY4VQXq3Cc",
+        "duration_seconds": 22,
+        "is_short": true
+      },
+      {
         "title": "#24時間テレビ49 ありがとうございました🌏💐 #SWEETSTEP #SWEETSTEADY #すいすて",
         "published_at": "2026-08-30T11:00:37Z",
         "thumbnail_url": "https://i.ytimg.com/vi/l737-lq8gd8/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "FS09W4U5-MY",
         "url": "https://www.youtube.com/watch?v=FS09W4U5-MY",
         "duration_seconds": 32,
-        "is_short": true
-      },
-      {
-        "title": "#キズナアイ さんと『KAMACHO』踊ってみた🎀 #KAMACHO #SWEETSTEADY #すいすて #音井結衣 #白石まゆみ #山内咲奈",
-        "published_at": "2026-08-27T05:00:37Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/I6Zo9vVrYMM/hqdefault.jpg",
-        "video_id": "I6Zo9vVrYMM",
-        "url": "https://www.youtube.com/watch?v=I6Zo9vVrYMM",
-        "duration_seconds": 20,
         "is_short": true
       }
     ]
