@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "ぱるとりさ、秘密になろ🩷💛 #恋はじめました #イコラブ さん #CUTIESTREET #桜庭遥花 #古澤里紗",
+        "published_at": "2026-08-30T04:18:55Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZFfWtbHDjlQ/hqdefault.jpg",
+        "video_id": "ZFfWtbHDjlQ",
+        "url": "https://www.youtube.com/watch?v=ZFfWtbHDjlQ",
+        "duration_seconds": 14,
+        "is_short": true
+      },
+      {
         "title": "【テレビⓃⒽⓀ⚡️】#Venue101 観てますか〜❣️❣️ #キュートなキューたい #CUTIESTREET #きゅーすと",
         "published_at": "2026-08-29T13:07:11Z",
         "thumbnail_url": "https://i.ytimg.com/vi/XWtPDE3f35I/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=u_zX0y_Gwmw",
         "duration_seconds": 34,
         "is_short": true
-      },
-      {
-        "title": "【KOREAN Choreography Video -MV edition-】CUTIE STREET「ぷりきゅきゅ（프리큐큐）」",
-        "published_at": "2026-08-24T12:00:10Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/hPk6Kijlibk/hqdefault.jpg",
-        "video_id": "hPk6Kijlibk",
-        "url": "https://www.youtube.com/watch?v=hPk6Kijlibk",
-        "duration_seconds": 228,
-        "is_short": false
       }
     ]
   },
