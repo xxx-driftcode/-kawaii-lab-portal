@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "恋なの？怪なの？🖤🕯️ #気味が悪いんだからねっ #奥田彩友 #レッツゴー怪奇組 #こわかわ #こわかわダンス #SWEETSTEADY",
+        "published_at": "2026-08-30T09:00:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/P84mBZUK-SA/hqdefault.jpg",
+        "video_id": "P84mBZUK-SA",
+        "url": "https://www.youtube.com/watch?v=P84mBZUK-SA",
+        "duration_seconds": 26,
+        "is_short": true
+      },
+      {
         "title": "「白石、やれます！舞えます！咲けまーーーすっ！」 #白石まゆみ #SWEETSTEADY #すいすて #SWEETSTEP",
         "published_at": "2026-08-30T07:07:25Z",
         "thumbnail_url": "https://i.ytimg.com/vi/8YgyGd4bdPY/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "Ldfb0Xi38O8",
         "url": "https://www.youtube.com/watch?v=Ldfb0Xi38O8",
         "duration_seconds": 32,
-        "is_short": true
-      },
-      {
-        "title": "ピースいただきました✌️ #山内咲奈 #すいれぼアリーナ #ファンファーレ #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-26T09:00:03Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/wirmB9LzLWE/hqdefault.jpg",
-        "video_id": "wirmB9LzLWE",
-        "url": "https://www.youtube.com/watch?v=wirmB9LzLWE",
-        "duration_seconds": 7,
         "is_short": true
       }
     ]
