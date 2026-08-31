@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "#センセーション Lyrics📰 #ふるっぱー #フルーツジッパー",
+        "published_at": "2026-08-31T09:39:19Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/--HIJmDnNJo/hqdefault.jpg",
+        "video_id": "--HIJmDnNJo",
+        "url": "https://www.youtube.com/watch?v=--HIJmDnNJo",
+        "duration_seconds": 40,
+        "is_short": true
+      },
+      {
         "title": "表情、何回変わった？💜💚 #仲川瑠夏 #櫻井優衣 #FRUITSZIPPER #ふるっぱー",
         "published_at": "2026-08-31T08:17:26Z",
         "thumbnail_url": "https://i.ytimg.com/vi/dd_Azf5Z_v8/hqdefault.jpg",
@@ -172,15 +181,6 @@
         "url": "https://www.youtube.com/watch?v=jqk92X_ToUU",
         "duration_seconds": 16,
         "is_short": true
-      },
-      {
-        "title": "FRUITS ZIPPER Station",
-        "published_at": "2026-08-21T09:00:26Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/1uupL1cyV00/hqdefault_live.jpg",
-        "video_id": "1uupL1cyV00",
-        "url": "https://www.youtube.com/watch?v=1uupL1cyV00",
-        "duration_seconds": 0,
-        "is_short": false
       }
     ]
   },
