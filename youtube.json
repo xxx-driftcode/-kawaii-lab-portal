@@ -373,15 +373,6 @@
     "name": "SWEET STEADY",
     "videos": [
       {
-        "title": "SWEET STEADY Station",
-        "published_at": "2026-08-31T10:00:21Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/OdOmFWb2w9A/hqdefault_live.jpg",
-        "video_id": "OdOmFWb2w9A",
-        "url": "https://www.youtube.com/watch?v=OdOmFWb2w9A",
-        "duration_seconds": 0,
-        "is_short": false
-      },
-      {
         "title": "すいすてとのお約束🖤（圧） #気味が悪いんだからねっ #こわかわ #レッツゴー怪奇組 #SWEETSTEADY #すいすて",
         "published_at": "2026-08-31T11:00:42Z",
         "thumbnail_url": "https://i.ytimg.com/vi/ZBAPhSJ2MjI/hqdefault.jpg",
@@ -389,6 +380,15 @@
         "url": "https://www.youtube.com/watch?v=ZBAPhSJ2MjI",
         "duration_seconds": 16,
         "is_short": true
+      },
+      {
+        "title": "SWEET STEADY Station",
+        "published_at": "2026-08-31T10:00:21Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/OdOmFWb2w9A/hqdefault_live.jpg",
+        "video_id": "OdOmFWb2w9A",
+        "url": "https://www.youtube.com/watch?v=OdOmFWb2w9A",
+        "duration_seconds": 0,
+        "is_short": false
       },
       {
         "title": "みなさん一緒に、「ふっふー！」🪩✨ #ちょーだいHAPPY！ #音井結衣 #塩川莉世 #SWEETSTEADY #すいすて",
@@ -557,6 +557,15 @@
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "【増田無双】ぶりっこの裏に隠された人間ドラマ #CUTIESTREET #きゅーすと",
+        "published_at": "2026-08-31T13:00:02Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/y0fK0bnKBOs/hqdefault.jpg",
+        "video_id": "y0fK0bnKBOs",
+        "url": "https://www.youtube.com/watch?v=y0fK0bnKBOs",
+        "duration_seconds": 40,
+        "is_short": true
+      },
       {
         "title": "【武道館】ここの映像あるの天才すぎ！！！！！！！ #CUTIESTREET #きゅーすと",
         "published_at": "2026-08-31T11:30:13Z",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=KGFOrSUL-uc",
         "duration_seconds": 270,
         "is_short": false
-      },
-      {
-        "title": "【武道館】え？目ぇあってるよね？ねえ？ #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-27T09:00:34Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/6f07GWUQ7Jw/hqdefault.jpg",
-        "video_id": "6f07GWUQ7Jw",
-        "url": "https://www.youtube.com/watch?v=6f07GWUQ7Jw",
-        "duration_seconds": 55,
-        "is_short": true
       }
     ]
   },
