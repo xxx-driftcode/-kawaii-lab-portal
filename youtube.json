@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "みなさん一緒に、「ふっふー！」🪩✨ #ちょーだいHAPPY！ #音井結衣 #塩川莉世 #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-31T09:09:12Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/PN361VkruS0/hqdefault.jpg",
+        "video_id": "PN361VkruS0",
+        "url": "https://www.youtube.com/watch?v=PN361VkruS0",
+        "duration_seconds": 21,
+        "is_short": true
+      },
+      {
         "title": "「ぜーいん、莉世についてきなさーい！」 #SWEETSTEADY #すいすて #SWEETSTEP",
         "published_at": "2026-08-31T07:00:01Z",
         "thumbnail_url": "https://i.ytimg.com/vi/Le5VZpz2P6k/hqdefault.jpg",
@@ -542,21 +551,21 @@
         "url": "https://www.youtube.com/watch?v=AGbTZyRGeJw",
         "duration_seconds": 22,
         "is_short": true
-      },
-      {
-        "title": "みんなとどこまでも”SWEETなSTEP”で💐🩰 #すいれぼアリーナ #SWEETSTEP #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-27T13:00:09Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/5AtLkntIkZw/hqdefault.jpg",
-        "video_id": "5AtLkntIkZw",
-        "url": "https://www.youtube.com/watch?v=5AtLkntIkZw",
-        "duration_seconds": 56,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "NHKになんか居たんですけど、親御さんはどこですか？？ #CUTIESTREET #きゅーすと #Venue101",
+        "published_at": "2026-08-31T09:06:05Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/ewaK8gL-rOQ/hqdefault.jpg",
+        "video_id": "ewaK8gL-rOQ",
+        "url": "https://www.youtube.com/watch?v=ewaK8gL-rOQ",
+        "duration_seconds": 11,
+        "is_short": true
+      },
       {
         "title": "【#キュートなキューたい】w/ ONE N’ ONLY🐶「Pick up!」鳴いて頂きました⚡️#HAYATO さん#EIKU さん&💚板倉可奈💜真鍋凪咲#CUTIESTREET #きゅーすと",
         "published_at": "2026-08-31T07:00:26Z",
@@ -726,15 +735,6 @@
         "video_id": "DMmv0vx1GaY",
         "url": "https://www.youtube.com/watch?v=DMmv0vx1GaY",
         "duration_seconds": 15,
-        "is_short": true
-      },
-      {
-        "title": "ポニーテール、、、、、 #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-27T01:09:30Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Ab7Zdlplx5w/hqdefault.jpg",
-        "video_id": "Ab7Zdlplx5w",
-        "url": "https://www.youtube.com/watch?v=Ab7Zdlplx5w",
-        "duration_seconds": 48,
         "is_short": true
       }
     ]
