@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "爆音だ #ぷりきゅきゅ #CUTIESTREET #きゅーすと",
+        "published_at": "2026-08-31T04:43:25Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/2vBUdg6ZEIo/hqdefault.jpg",
+        "video_id": "2vBUdg6ZEIo",
+        "url": "https://www.youtube.com/watch?v=2vBUdg6ZEIo",
+        "duration_seconds": 8,
+        "is_short": true
+      },
+      {
         "title": "【バトル】いけ❣️はかいこうせん☀️💚板倉可奈&カイリュー(川本笑瑠🧡)ポケモンバトルよ⚡️#アニポケ#キュートなキューたい#CUTIESTREET #きゅーすと",
         "published_at": "2026-08-31T01:00:36Z",
         "thumbnail_url": "https://i.ytimg.com/vi/85BauVj0hd0/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=r6kf2HpfgrU",
         "duration_seconds": 77,
         "is_short": false
-      },
-      {
-        "title": "【声‼️】日本武道館‼️満員‼️ありがとう‼️ #CUTIESTREET #きゅーすと #キュートなキューたい",
-        "published_at": "2026-08-26T11:12:59Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/45x5DIsGtTg/hqdefault.jpg",
-        "video_id": "45x5DIsGtTg",
-        "url": "https://www.youtube.com/watch?v=45x5DIsGtTg",
-        "duration_seconds": 24,
-        "is_short": true
       }
     ]
   },
