@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【バトル】いけ❣️はかいこうせん☀️💚板倉可奈&カイリュー(川本笑瑠🧡)ポケモンバトルよ⚡️#アニポケ#キュートなキューたい#CUTIESTREET #きゅーすと",
+        "published_at": "2026-08-31T01:00:36Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/85BauVj0hd0/hqdefault.jpg",
+        "video_id": "85BauVj0hd0",
+        "url": "https://www.youtube.com/watch?v=85BauVj0hd0",
+        "duration_seconds": 30,
+        "is_short": true
+      },
+      {
         "title": "神動画だ！！！！！！！！！！！！！！！ #真鍋凪咲 #HOTLIMIT #CUTIESTREET #きゅーすと",
         "published_at": "2026-08-30T13:15:09Z",
         "thumbnail_url": "https://i.ytimg.com/vi/VLYJzXq_r5M/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=45x5DIsGtTg",
         "duration_seconds": 24,
         "is_short": true
-      },
-      {
-        "title": "【LIVE映像】かわいいだけじゃだめですか？📍日本武道館【CUTIE STREET】",
-        "published_at": "2026-08-25T13:43:35Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Yygy6mM-MCs/hqdefault.jpg",
-        "video_id": "Yygy6mM-MCs",
-        "url": "https://www.youtube.com/watch?v=Yygy6mM-MCs",
-        "duration_seconds": 253,
-        "is_short": false
       }
     ]
   },
