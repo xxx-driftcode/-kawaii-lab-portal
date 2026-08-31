@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "すいすてのDo DANCE!!💃#CANDYTUNE #スペシャル感謝祭 #SWEETSTEADY #すいすて",
+        "published_at": "2026-08-31T06:30:41Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/9TvI2Jlg0ls/hqdefault.jpg",
+        "video_id": "9TvI2Jlg0ls",
+        "url": "https://www.youtube.com/watch?v=9TvI2Jlg0ls",
+        "duration_seconds": 10,
+        "is_short": true
+      },
+      {
         "title": "#24時間テレビ49 HAPPY届けられた？💞 #ちょーだいHAPPY #SWEETSTEADY #すいすて",
         "published_at": "2026-08-30T13:00:13Z",
         "thumbnail_url": "https://i.ytimg.com/vi/wZY4VQXq3Cc/hqdefault.jpg",
@@ -542,21 +551,21 @@
         "url": "https://www.youtube.com/watch?v=YH_-GBr-kUI",
         "duration_seconds": 10,
         "is_short": true
-      },
-      {
-        "title": "ないはずの夏の記憶が…🎐 #わたがし #backnumber さん #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-27T07:28:43Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/FS09W4U5-MY/hqdefault.jpg",
-        "video_id": "FS09W4U5-MY",
-        "url": "https://www.youtube.com/watch?v=FS09W4U5-MY",
-        "duration_seconds": 32,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "古澤里紗の主張",
+        "published_at": "2026-08-31T06:19:53Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/vk24ppxOtiM/hqdefault.jpg",
+        "video_id": "vk24ppxOtiM",
+        "url": "https://www.youtube.com/watch?v=vk24ppxOtiM",
+        "duration_seconds": 9,
+        "is_short": true
+      },
       {
         "title": "爆音だ #ぷりきゅきゅ #CUTIESTREET #きゅーすと",
         "published_at": "2026-08-31T04:43:25Z",
@@ -726,15 +735,6 @@
         "video_id": "g-mLDtJFpQo",
         "url": "https://www.youtube.com/watch?v=g-mLDtJFpQo",
         "duration_seconds": 237,
-        "is_short": false
-      },
-      {
-        "title": "【ダイジェスト】CUTIE STREET in 日本武道館【ありがとう】",
-        "published_at": "2026-08-26T13:33:55Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/r6kf2HpfgrU/hqdefault.jpg",
-        "video_id": "r6kf2HpfgrU",
-        "url": "https://www.youtube.com/watch?v=r6kf2HpfgrU",
-        "duration_seconds": 77,
         "is_short": false
       }
     ]
