@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "「ぜーいん、莉世についてきなさーい！」 #SWEETSTEADY #すいすて #SWEETSTEP",
+        "published_at": "2026-08-31T07:00:01Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Le5VZpz2P6k/hqdefault.jpg",
+        "video_id": "Le5VZpz2P6k",
+        "url": "https://www.youtube.com/watch?v=Le5VZpz2P6k",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "すいすてのDo DANCE!!💃#CANDYTUNE #スペシャル感謝祭 #SWEETSTEADY #すいすて",
         "published_at": "2026-08-31T06:30:41Z",
         "thumbnail_url": "https://i.ytimg.com/vi/9TvI2Jlg0ls/hqdefault.jpg",
@@ -542,21 +551,21 @@
         "url": "https://www.youtube.com/watch?v=5AtLkntIkZw",
         "duration_seconds": 56,
         "is_short": true
-      },
-      {
-        "title": "イヤモニ外してみんなの声をちゃんと聞くりせぴ💜 #塩川莉世 #DASH!!! #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-27T09:51:17Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/YH_-GBr-kUI/hqdefault.jpg",
-        "video_id": "YH_-GBr-kUI",
-        "url": "https://www.youtube.com/watch?v=YH_-GBr-kUI",
-        "duration_seconds": 10,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "【#キュートなキューたい】w/ ONE N’ ONLY🐶「Pick up!」鳴いて頂きました⚡️#HAYATO さん#EIKU さん&💚板倉可奈💜真鍋凪咲#CUTIESTREET #きゅーすと",
+        "published_at": "2026-08-31T07:00:26Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Fsp9qcXpZTs/hqdefault.jpg",
+        "video_id": "Fsp9qcXpZTs",
+        "url": "https://www.youtube.com/watch?v=Fsp9qcXpZTs",
+        "duration_seconds": 16,
+        "is_short": true
+      },
       {
         "title": "古澤里紗の主張",
         "published_at": "2026-08-31T06:19:53Z",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=Ab7Zdlplx5w",
         "duration_seconds": 48,
         "is_short": true
-      },
-      {
-        "title": "【LIVE映像】キュートなキューたい📍日本武道館【CUTIE STREET】",
-        "published_at": "2026-08-26T14:04:50Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/g-mLDtJFpQo/hqdefault.jpg",
-        "video_id": "g-mLDtJFpQo",
-        "url": "https://www.youtube.com/watch?v=g-mLDtJFpQo",
-        "duration_seconds": 237,
-        "is_short": false
       }
     ]
   },
