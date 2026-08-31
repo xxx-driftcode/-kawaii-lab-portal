@@ -1,27 +1,1565 @@
 {
   "fruitszipper": {
     "name": "FRUITS ZIPPER",
-    "info": [],
-    "schedule": []
+    "info": [
+      {
+        "date": "2026.09.01",
+        "title": "2027年1月23日（土）　「FRUITS ZIPPERのオールナイトニッポンX in 横浜アリーナ」開催決定！最速先行・FRUITS ZIPPER FC先行受付開始！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88520"
+      },
+      {
+        "date": "2026.08.31",
+        "title": "「FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code」公演　リセールサービスのお知らせ",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88139"
+      },
+      {
+        "date": "2026.08.31",
+        "title": "「ASOBIEXPO HAWAII 2027」開催決定！JTBオフィシャルファンクラブツアー発売開始！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88505"
+      },
+      {
+        "date": "2026.08.30",
+        "title": "9/6(日)開催 FRUITS ZIPPER大特典会＠ベルサール汐留 にて行われる、【6部】私物サイン会、TikTok撮影会を対象とした事前抽選会開催決定！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88724"
+      },
+      {
+        "date": "2026.08.29",
+        "title": "2026年10月12日(月・祝)「KAWAII LAB. COLLECTION produced by TGC ~KAWAIIっちゃ in KITAKYUSHU~」＠北九州メッセ 開催決定！FRUITS ZIPPER FC先行開始！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/87763"
+      },
+      {
+        "date": "2026.08.28",
+        "title": "9/6（日）FRUITS ZIPPER 大特典会 物販情報",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88613"
+      },
+      {
+        "date": "2026.08.27",
+        "title": "【FRUITS ZIPPER OFFICIAL FANCLUB】「FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code」FC連動企画実施決定！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88111"
+      },
+      {
+        "date": "2026.08.26",
+        "title": "FRUITS ZIPPER 「4th Anniversary 超⭐︎観測展」グッズ＆OSHI API UNIFORMキッズサイズ 通販実施のお知らせ",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88437"
+      },
+      {
+        "date": "2026.08.26",
+        "title": "「KAWAII LAB. SESSION 2026 SUMMER」グッズ通販実施のお知らせ",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88434"
+      },
+      {
+        "date": "2026.08.26",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Codeにて特別抽選会開催が決定！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88423"
+      }
+    ],
+    "schedule": [
+      {
+        "month": "09",
+        "day": "01",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88252",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "03",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -＠よこすか芸術劇場（大劇場）",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40026",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "03",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88412",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "04",
+        "day_of_week": "FRI",
+        "category": "EVENT",
+        "title": "夏遊スペシャルイベント「KAWAII MANAFY LAND」（真中）",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/44246",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "04",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88244",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "06",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "FRUITS ZIPPER 5thシングルCD発売記念イベント 大特典会＠ベルサール汐留",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/42630",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "08",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88257",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "11",
+        "day_of_week": "FRI",
+        "category": "EVENT",
+        "title": "CDTV ライブ！ライブ！秋の大感謝祭2026＠東京ガーデンシアター",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/42048",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "11",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88248",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "12",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "TOMAKOMAI MIRAI FEST 2026",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40606",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "13",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "ROCK IN JAPAN FESTIVAL 2026 ＠千葉市蘇我スポーツ公園",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/41145",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "16",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@大宮ソニックシティ 大ホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40027",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "18",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@松戸・森のホール21 大ホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40028",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "18",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88249",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "19",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "第 43 回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40145",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "20",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "IRC2026 A/W 出演",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/44151",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "21",
+        "day_of_week": "MON",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@三重県文化会館 大ホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40029",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "22",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88262",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "23",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@長良川国際会議場 メインホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40030",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "24",
+        "day_of_week": "THU",
+        "category": "MAGAZINE",
+        "title": "ViVi 11/12月号（鎮西）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88281",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "25",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@Niterra日本特殊陶業市民会館フォレストホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40032",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "25",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88251",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "29",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88263",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "30",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@グランキューブ大阪 メインホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40033",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "30",
+        "day_of_week": "WED",
+        "category": "MAGAZINE",
+        "title": "Zipper 秋号(早瀬)",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/87962",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "01",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@グランキューブ大阪 メインホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40034",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "02",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88253",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "04",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@宇都宮市文化会館 大ホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40035",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "06",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@仙台サンプラザホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40036",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "06",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88265",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "07",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@仙台サンプラザホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40037",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "09",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88254",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "11",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@本多の森北電ホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40038",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "12",
+        "day_of_week": "MON",
+        "category": "EVENT",
+        "title": "KAWAII LAB. COLLECTION produced by TGC＠北九州メッセ",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/44011",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "13",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@レクザムホール 大ホール（香川県県民ホール）",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40039",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "13",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88266",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "15",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@松山市民会館 大ホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40040",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "16",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88256",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "20",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88267",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "22",
+        "day_of_week": "THU",
+        "category": "MAGAZINE",
+        "title": "VOCE12月号（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88271",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "23",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88258",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "26",
+        "day_of_week": "MON",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@福岡サンパレス",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40041",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "27",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@熊本城ホール メインホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40042",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "27",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88268",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "30",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88259",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "31",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "FRUITS ZIPPER 4th Anniversary写真集 書店イベント＠ ベルサール渋谷ガーデン",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/44317",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "01",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "FRUITS ZIPPER 4th Anniversary写真集 オンライン特典会",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/44318",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "03",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88343",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "05",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@広島文化学園HBGホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40043",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "06",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@広島文化学園HBGホール",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40044",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "06",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88339",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "10",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88344",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "12",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@札幌市民芸術劇場hitaru",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40045",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "13",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88340",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "14",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -@東京ガーデンシアター",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40046",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "15",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -＠東京ガーデンシアター",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40047",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "17",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88345",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "20",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88341",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "21",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -＠沖縄コンベンションセンター 劇場棟",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40048",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "22",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -＠沖縄コンベンションセンター 劇場棟",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/40049",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "24",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88346",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "27",
+        "day_of_week": "FRI",
+        "category": "EVENT",
+        "title": "GIFT〜Girls Idol Festival Tokyo〜 ＠SGC ホール有明",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/44009",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "27",
+        "day_of_week": "FRI",
+        "category": "RADIO",
+        "title": "RKBラジオ「あまねきのねえ、聞いて？」（仮）（月足）",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88342",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "29",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "GIFT〜Girls Idol Festival Tokyo〜TOYOTA ARENA TOKYO",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/44010",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "01",
+        "day_of_week": "TUE",
+        "category": "RADIO",
+        "title": "ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88260",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "12",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "KAWAII LAB. Christmas SESSION 2026 @有明アリーナ",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/42961",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "13",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "KAWAII LAB. Christmas SESSION 2026 ＠有明アリーナ",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/42962",
+        "year": "2026"
+      }
+    ]
   },
   "candytune": {
     "name": "CANDY TUNE",
-    "info": [],
-    "schedule": []
+    "info": [
+      {
+        "date": "2026.08.31",
+        "title": "「ASOBIEXPO HAWAII 2027」開催決定！JTBオフィシャルファンクラブツアー発売開始！",
+        "url": "https://candytune.asobisystem.com/news/detail/88536"
+      },
+      {
+        "date": "2026.08.29",
+        "title": "【CANDY TUNE】撮影可能楽曲をTikTokに投稿する方法！",
+        "url": "https://candytune.asobisystem.com/news/detail/88689"
+      },
+      {
+        "date": "2026.08.29",
+        "title": "2026年10月12日(月・祝)「KAWAII LAB. COLLECTION produced by TGC ~KAWAIIっちゃ in KITAKYUSHU~」＠北九州メッセ 開催決定！CANDY TUNE FC先行開始！",
+        "url": "https://candytune.asobisystem.com/news/detail/87766"
+      },
+      {
+        "date": "2026.08.28",
+        "title": "CANDY TUNE JAPAN TOUR 2026 -AUTUMN- 「CANDY CIRCUS」FC連動企画＆CANDY TUNE OFFICIAL FANCLUB年会費コース新規入会・お友達紹介キャンペーン詳細決定のお知らせ！",
+        "url": "https://candytune.asobisystem.com/news/detail/87413"
+      },
+      {
+        "date": "2026.08.28",
+        "title": "CANDY TUNE 4thシングル『総意♡So Free / スペシャル感謝祭』発売記念リリースイベント @エミテラス所沢2F TOKOROZAWA e-CUBE",
+        "url": "https://candytune.asobisystem.com/news/detail/88563"
+      },
+      {
+        "date": "2026.08.27",
+        "title": "CANDY TUNE JAPAN TOUR 2026 -AUTUMN- CANDY CIRCUSにて、CD予約／購入者を対象とした特別抽選会の開催が決定！",
+        "url": "https://candytune.asobisystem.com/news/detail/88478"
+      },
+      {
+        "date": "2026.08.26",
+        "title": "「KAWAII LAB. SESSION 2026 SUMMER」グッズ通販実施のお知らせ",
+        "url": "https://candytune.asobisystem.com/news/detail/88432"
+      },
+      {
+        "date": "2026.08.26",
+        "title": "CANDY TUNE  JAPAN TOUR 2026 - AUTUMN -「CANDY CIRCUS」公演　 リセールサービスのお知らせ",
+        "url": "https://candytune.asobisystem.com/news/detail/88212"
+      },
+      {
+        "date": "2026.08.25",
+        "title": "9/5（土）CANDY TUNE 大特典会＠ベルサール汐留 特典会参加券2次販売が決定！",
+        "url": "https://candytune.asobisystem.com/news/detail/88241"
+      },
+      {
+        "date": "2026.08.24",
+        "title": "CANDY TUNE JAPAN TOUR 2026 - AUTUMN - 各会場グッズ販売情報・一部会場の会場受取のお知らせ",
+        "url": "https://candytune.asobisystem.com/news/detail/88070"
+      }
+    ],
+    "schedule": [
+      {
+        "month": "09",
+        "day": "01",
+        "day_of_week": "TUE",
+        "category": "WEB",
+        "title": "「りそなグループ B.LEAGUE 2026-27 SEASON TIPOFF CEREMONY」（福山梨乃）",
+        "url": "https://candytune.asobisystem.com/news/detail/88806",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "04",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」神奈川公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40723",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "09",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」大阪公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40724",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "10",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」大阪公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40725",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "19",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」千葉公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40726",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "20",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "「第4回 IDOL RUNWAY COLLECTION 2026 AUTUMN/WINTER Supported by TGC」",
+        "url": "https://candytune.asobisystem.com/live_information/detail/42260",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "21",
+        "day_of_week": "MON",
+        "category": "LIVE",
+        "title": "「ROCK IN JAPAN FESTIVAL 2026」",
+        "url": "https://candytune.asobisystem.com/live_information/detail/39819",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "01",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "💚🎂💚小川奈々子 生誕祭 2026 💚🎂💚",
+        "url": "https://candytune.asobisystem.com/live_information/detail/43376",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "02",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」北海道公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40727",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "04",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」北海道公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40728",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "08",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」宮城公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40729",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "09",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」栃木公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40730",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "26",
+        "day_of_week": "MON",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」愛知公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40731",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "27",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」愛知公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40732",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "29",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」三重公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40733",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "01",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "「atmoscon 2026」-夜- 3rd LIVE STAGE",
+        "url": "https://candytune.asobisystem.com/live_information/detail/43493",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "07",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "「LARMEFES’26」",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44335",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "10",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」鳥取公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40734",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "12",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」広島公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40735",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "17",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」新潟公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40736",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "19",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」石川公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40737",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "22",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "『WONDERLIVET 2026』",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44263",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "24",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」高知公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40738",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "26",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」香川公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40739",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "30",
+        "day_of_week": "MON",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」福岡公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40740",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "01",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」大分公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40741",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "08",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」東京公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40742",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "09",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」東京公演",
+        "url": "https://candytune.asobisystem.com/live_information/detail/40743",
+        "year": "2026"
+      }
+    ]
   },
   "sweetsteady": {
     "name": "SWEET STEADY",
-    "info": [],
-    "schedule": []
+    "info": [
+      {
+        "date": "2026.08.31",
+        "title": "FM AICHI公開録音イベント@ナガシマスパーランド",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/88756"
+      },
+      {
+        "date": "2026.08.31",
+        "title": "2026年10月26日(月)「SWEET STEADY 庄司なぎさ BIRTHDAY LIVE 2026」開催決定！FC先行受付開始！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/88494"
+      },
+      {
+        "date": "2026.08.29",
+        "title": "2026年10月12日(月・祝)「KAWAII LAB. COLLECTION produced by TGC ~KAWAIIっちゃ in KITAKYUSHU~」＠北九州メッセ 開催決定！SWEET STEADY FC先行開始！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/87767"
+      },
+      {
+        "date": "2026.08.29",
+        "title": "9/6（日）SWEET STEADY 大特典会 物販情報",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/88658"
+      },
+      {
+        "date": "2026.08.27",
+        "title": "9月21日(月・祝)「SWEET STEADY 単独公演 お花見会」＠Zepp Shinjuku (TOKYO)開催決定！FC先行受付開始！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/88352"
+      },
+      {
+        "date": "2026.08.26",
+        "title": "「KAWAII LAB. SESSION 2026 SUMMER」グッズ通販実施のお知らせ",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/88441"
+      },
+      {
+        "date": "2026.08.26",
+        "title": "【SWEET STEADY】  3rdシングル『SWEET STEP』発売記念リリースイベント @エミテラス所沢2F TOKOROZAWA e-CUBE",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/88315"
+      },
+      {
+        "date": "2026.08.24",
+        "title": "9/6(日)SWEET STEADY 大特典会をベルサール汐留にて開催決定！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/88152"
+      },
+      {
+        "date": "2026.08.24",
+        "title": "★SWEET STEADYチケット情報まとめ★",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/43699"
+      },
+      {
+        "date": "2026.08.23",
+        "title": "2027年3月4日(木)「SWEET STEADY 3rd ANNIVERSARY LIVE」@日本武道館 開催決定！FC先行スタート！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/87830"
+      }
+    ],
+    "schedule": [
+      {
+        "month": "09",
+        "day": "05",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "『3rdシングル SWEET STEP 発売記念リリースイベント』＠エミテラス所沢2F TOKOROZAWA e-CUBE",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43897",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "06",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "『3rdシングル SWEET STEP 発売記念リリースイベント』＠大特典会 ベルサール汐留",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43898",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "07",
+        "day_of_week": "MON",
+        "category": "EVENT",
+        "title": "『3rdシングル SWEET STEP 発売記念リリースイベント』＠都内某所",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43899",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "13",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "『TOMAKOMAI MIRAI FEST 2026』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/40599",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "19",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "『第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43901",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "20",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "『AGESTOCK2026 in 横浜アリーナ』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43902",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "22",
+        "day_of_week": "TUE",
+        "category": "EVENT",
+        "title": "『3rdシングル SWEET STEP 発売記念リリースイベント』＠大特典会 東京流通センター 第二展示場 Fホール",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43900",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "03",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "『MotoGP™ Night Live』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43904",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "04",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "『マグロック＆ポップ 2026』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43903",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "12",
+        "day_of_week": "MON",
+        "category": "LIVE",
+        "title": "『KAWAII LAB. COLLECTION produced by TGC』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43905",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "13",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "SWEET STEADY JAPAN TOUR 2026",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43906",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "03",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "『SWEET STEADY JAPAN TOUR 2026』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43907",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "06",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "『SWEET STEADY JAPAN TOUR 2026』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43908",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "18",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "『SWEET STEADY JAPAN TOUR 2026』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/43909",
+        "year": "2026"
+      }
+    ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
-    "info": [],
-    "schedule": []
+    "info": [
+      {
+        "date": "2026.08.31",
+        "title": "2026年11月26日(木) 「CUTIE STREET 佐野愛花 生誕祭 2026」開催決定！年会費コース会員限定先行受付開始！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88521"
+      },
+      {
+        "date": "2026.08.31",
+        "title": "2026年11月11日(水) 「CUTIE STREET 板倉可奈 生誕祭 2026」開催決定！年会費コース会員限定先行受付開始！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88514"
+      },
+      {
+        "date": "2026.08.31",
+        "title": "2026年11月9日(月) 「CUTIE STREET 古澤里紗 生誕祭 2026」開催決定！年会費コース会員限定先行受付開始！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88510"
+      },
+      {
+        "date": "2026.08.31",
+        "title": "「ASOBIEXPO HAWAII 2027」開催決定！JTBオフィシャルファンクラブツアー発売開始！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88537"
+      },
+      {
+        "date": "2026.08.29",
+        "title": "2026年10月12日(月・祝)「KAWAII LAB. COLLECTION produced by TGC ~KAWAIIっちゃ in KITAKYUSHU~」＠北九州メッセ 開催決定！CUTIE STREET FC先行開始！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87770"
+      },
+      {
+        "date": "2026.08.28",
+        "title": "【CUTIE STREET OFFICIAL FANCLUB】[年会費コース]会員証発送のお知らせ(～2026年2月28日までに入会orコース変更者)",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88617"
+      },
+      {
+        "date": "2026.08.28",
+        "title": "CUTIE STREET Live in Korea 2027 WINTER JTBオフィシャルファンツアー 8月28日(金) 12:00より販売開始！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88578"
+      },
+      {
+        "date": "2026.08.26",
+        "title": "「KAWAII LAB. SESSION 2026 SUMMER」グッズ通販実施のお知らせ",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88445"
+      },
+      {
+        "date": "2026.08.26",
+        "title": "CUTIE STREET 「2nd ANNIVERSARY LIVE 2026＠日本武道館」グッズ＆通販未発売の一部商品 通販実施のお知らせ",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88444"
+      },
+      {
+        "date": "2026.08.26",
+        "title": "2026年12月2日(水) CUTIE STREET 1stアルバムCD『CUTIE LAND』発売決定！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88397"
+      }
+    ],
+    "schedule": [
+      {
+        "month": "09",
+        "day": "01",
+        "day_of_week": "TUE",
+        "category": "TV",
+        "title": "テレビ朝日『START UP！ドリームエンタ』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87066",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "01",
+        "day_of_week": "TUE",
+        "category": "TV",
+        "title": "日本テレビ系『ヒルナンデス』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88701",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "03",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "TBSテレビ「ニンゲン観察バラエティ モニタリング」",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88668",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "08",
+        "day_of_week": "TUE",
+        "category": "TV",
+        "title": "テレビ朝日『START UP！ドリームエンタ』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87067",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "12",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "『TOMAKOMAI MIRAI FEST 2026』@苫小牧・キラキラ公園",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/42446",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "13",
+        "day_of_week": "SUN",
+        "category": "OTHER",
+        "title": "🩵梅田みゆ BIRTHDAY🩵",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/56529",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "14",
+        "day_of_week": "MON",
+        "category": "LIVE",
+        "title": "梅田みゆ 生誕祭 2026＠ SGCホール有明",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/42328",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "15",
+        "day_of_week": "TUE",
+        "category": "TV",
+        "title": "テレビ朝日『START UP！ドリームエンタ』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87068",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "17",
+        "day_of_week": "THU",
+        "category": "MAGAZINE",
+        "title": "雑誌『LARME 070』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/87940",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "19",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "ROCK IN JAPAN FESTIVAL 2026 @千葉市蘇我スポーツ公園",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/39827",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "23",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】 @横浜アリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40309",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "26",
+        "day_of_week": "SAT",
+        "category": "TV",
+        "title": "テレビ朝日「芸能人格付けチェック 秋の3時間半スペシャル」",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88664",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "29",
+        "day_of_week": "TUE",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】＠有明アリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40310",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "30",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@有明アリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40312",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "03",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】 @セキスイハイムスーパーアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40313",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "04",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@セキスイハイムスーパーアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40361",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "11",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "『STARフェス』＠ぴあアリーナMM",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/43487",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "12",
+        "day_of_week": "MON",
+        "category": "EVENT",
+        "title": "『KAWAII LAB. COLLECTION produced by TGC ~KAWAIIっちゃ in KITAKYUSH~』＠北九州メッセ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/43749",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "17",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "MIYAKO ISLAND ROCK FESTIVAL 2026 @宮古島コースタルリゾートヒララ トゥリバー地区ヘッドランド特設会場",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/39680",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "28",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@マリンメッセ福岡A館",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40362",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "29",
+        "day_of_week": "THU",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@マリンメッセ福岡A館",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40363",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "31",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@神戸ワールド記念ホール",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40364",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "01",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@神戸ワールド記念ホール",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40365",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "14",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@広島グリーンアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40366",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "15",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@広島グリーンアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40367",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "27",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "『GIFT〜Girls Idol Festival Tokyo〜』 @SGC ホール有明",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/43800",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "28",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@ IGアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40368",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "29",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@IGアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/40369",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "05",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "『HIROSHIMA CONTI-NeW FeS 2026』@ 広島グリーンアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/42404",
+        "year": "2026"
+      },
+      {
+        "month": "12",
+        "day": "06",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "『HIROSHIMA CONTI-NeW FeS 2026』@ 広島グリーンアリーナ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/42405",
+        "year": "2026"
+      },
+      {
+        "month": "01",
+        "day": "23",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "『CUTIE STREET Live in Korea 2027 WINTER』@킨텍스 Hall 9A(KINTEX Hall 9A)",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/42855",
+        "year": "2027"
+      }
+    ]
   },
   "morestar": {
     "name": "MORE STAR",
-    "info": [],
-    "schedule": []
+    "info": [
+      {
+        "date": "2026.08.29",
+        "title": "「MORE STAR 単独ライブ 5th STAR」開催決定！FC先行受付開始！",
+        "url": "https://morestar.asobisystem.com/news/detail/88498"
+      },
+      {
+        "date": "2026.08.29",
+        "title": "2026年10月12日(月・祝)「KAWAII LAB. COLLECTION produced by TGC ~KAWAIIっちゃ in KITAKYUSHU~」＠北九州メッセ 開催決定！MORE STAR FC先行開始！",
+        "url": "https://morestar.asobisystem.com/news/detail/87772"
+      },
+      {
+        "date": "2026.08.26",
+        "title": "「KAWAII LAB. SESSION 2026 SUMMER」グッズ通販実施のお知らせ",
+        "url": "https://morestar.asobisystem.com/news/detail/88440"
+      },
+      {
+        "date": "2026.08.22",
+        "title": "8/26発売　MORE STAR 1stシングル『サマーゴー！！ / WITH KAWAII論』 発売記念店頭キャンペーンが決定！",
+        "url": "https://morestar.asobisystem.com/news/detail/88024"
+      },
+      {
+        "date": "2026.08.22",
+        "title": "「KAWAII LAB.  Christmas SESSION 2026」@有明アリーナ アップグレード抽選受付のお知らせ",
+        "url": "https://morestar.asobisystem.com/news/detail/87783"
+      },
+      {
+        "date": "2026.08.17",
+        "title": "2026/8/18(火) 「ASOBISYSTEM 19th Anniversary ASOBIEXPO 2026＠TOYOTA ARENA TOKYO」にてFRUITS ZIPPER、CANDY TUNE、SWEET STEADY、CUTIE STREET、MORE STARの特別抽選会開催が決定！",
+        "url": "https://morestar.asobisystem.com/news/detail/87573"
+      },
+      {
+        "date": "2026.08.14",
+        "title": "CANDY TUNE／MORE STAR大特典会＠東京流通センター　第二展示場Fホールにて特別抽選会開催決定！",
+        "url": "https://morestar.asobisystem.com/news/detail/87393"
+      },
+      {
+        "date": "2026.08.14",
+        "title": "8/18（火）ASOBIEXPO 2026 物販情報",
+        "url": "https://morestar.asobisystem.com/news/detail/87383"
+      },
+      {
+        "date": "2026.08.13",
+        "title": "CANDY TUNE　4thシングル／MORE STAR　1stシングル発売記念 大特典会@東京流通センター　第二展示場Fホール　8/15(土)の特典会参加券当日販売が決定！",
+        "url": "https://morestar.asobisystem.com/news/detail/87235"
+      },
+      {
+        "date": "2026.08.11",
+        "title": "8/15（土）MORE STAR 大特典会 物販情報",
+        "url": "https://morestar.asobisystem.com/news/detail/87047"
+      }
+    ],
+    "schedule": [
+      {
+        "month": "09",
+        "day": "19",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER（中山）",
+        "url": "https://morestar.asobisystem.com/live_information/detail/41309",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "03",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "MotoGPTM Night Live",
+        "url": "https://morestar.asobisystem.com/live_information/detail/39519",
+        "year": "2026"
+      }
+    ]
   }
 }
