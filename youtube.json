@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "表情、何回変わった？💜💚 #仲川瑠夏 #櫻井優衣 #FRUITSZIPPER #ふるっぱー",
+        "published_at": "2026-08-31T08:17:26Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/dd_Azf5Z_v8/hqdefault.jpg",
+        "video_id": "dd_Azf5Z_v8",
+        "url": "https://www.youtube.com/watch?v=dd_Azf5Z_v8",
+        "duration_seconds": 9,
+        "is_short": true
+      },
+      {
         "title": "クールなブルーレッド置いときます🩵❤️#真中まな #月足天音 #センセーション #FRUITSZIPPER #ふるっぱー",
         "published_at": "2026-08-30T11:04:51Z",
         "thumbnail_url": "https://i.ytimg.com/vi/MdYXlPF86wY/hqdefault.jpg",
@@ -172,21 +181,21 @@
         "url": "https://www.youtube.com/watch?v=1uupL1cyV00",
         "duration_seconds": 0,
         "is_short": false
-      },
-      {
-        "title": "これはキュン不可避💘#ぱわーオブらぶ#FRUITSZIPPER #ふるっぱー #フルーツジッパー",
-        "published_at": "2026-08-21T08:28:30Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/2Muv8hOCwXI/hqdefault.jpg",
-        "video_id": "2Muv8hOCwXI",
-        "url": "https://www.youtube.com/watch?v=2Muv8hOCwXI",
-        "duration_seconds": 19,
-        "is_short": true
       }
     ]
   },
   "candytune": {
     "name": "CANDY TUNE",
     "videos": [
+      {
+        "title": "⚡️🎙️本日19時からは…❗️🎙️⚡️TBS「CDTVライブ！ライブ！」みんなテレビの前に集合❗️《《《💥❗️総意❗️💥》》》💃踊って🪩💡叫んで🗣️テレビ初披露を楽しんでね🤩",
+        "published_at": "2026-08-31T08:16:45Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Q5GJWpQFEcM/hqdefault.jpg",
+        "video_id": "Q5GJWpQFEcM",
+        "url": "https://www.youtube.com/watch?v=Q5GJWpQFEcM",
+        "duration_seconds": 17,
+        "is_short": true
+      },
       {
         "title": "きゃんちゅーと一緒に総意してこ✊❤️‍🔥TikTokでも踊ってね🎶🩵福山梨乃 💚小川奈々子 🩷村川緋杏 🧡南なつ ♥️立花琴未💜宮野静 💙桐原美月 #総意SoFree",
         "published_at": "2026-08-30T13:30:04Z",
@@ -356,15 +365,6 @@
         "video_id": "ud9RP1wRfK8",
         "url": "https://www.youtube.com/watch?v=ud9RP1wRfK8",
         "duration_seconds": 13,
-        "is_short": true
-      },
-      {
-        "title": "📢『MARQUEE Vol.163』発売中❗️CANDY TUNEが表紙を務めています📚びびちゃんの連載もあわせてチェックしてね🍀 #スペシャル感謝祭#CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-08-26T05:03:19Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/yseurzilJxU/hqdefault.jpg",
-        "video_id": "yseurzilJxU",
-        "url": "https://www.youtube.com/watch?v=yseurzilJxU",
-        "duration_seconds": 15,
         "is_short": true
       }
     ]
