@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【武道館】ここの映像あるの天才すぎ！！！！！！！ #CUTIESTREET #きゅーすと",
+        "published_at": "2026-08-31T11:30:13Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/lbC_0yIR2mo/hqdefault.jpg",
+        "video_id": "lbC_0yIR2mo",
+        "url": "https://www.youtube.com/watch?v=lbC_0yIR2mo",
+        "duration_seconds": 15,
+        "is_short": true
+      },
+      {
         "title": "NHKになんか居たんですけど、親御さんはどこですか？？ #CUTIESTREET #きゅーすと #Venue101",
         "published_at": "2026-08-31T09:06:05Z",
         "thumbnail_url": "https://i.ytimg.com/vi/ewaK8gL-rOQ/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "6f07GWUQ7Jw",
         "url": "https://www.youtube.com/watch?v=6f07GWUQ7Jw",
         "duration_seconds": 55,
-        "is_short": true
-      },
-      {
-        "title": "【声声声声声】日本武道館1曲目から凄かった #キュートなキューたい #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-27T03:45:14Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/DMmv0vx1GaY/hqdefault.jpg",
-        "video_id": "DMmv0vx1GaY",
-        "url": "https://www.youtube.com/watch?v=DMmv0vx1GaY",
-        "duration_seconds": 15,
         "is_short": true
       }
     ]
