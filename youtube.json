@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "❓🥹きゃんちゅーかわいい🥹❓🎧 #総意SoFree #CANDYTUNE #きゃんちゅー",
+        "published_at": "2026-08-31T11:56:04Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/L9z6l2xVsfw/hqdefault.jpg",
+        "video_id": "L9z6l2xVsfw",
+        "url": "https://www.youtube.com/watch?v=L9z6l2xVsfw",
+        "duration_seconds": 20,
+        "is_short": true
+      },
+      {
         "title": "棒を落としたら即終了！？協力バランスゲーム「YUBIBO」に挑戦！【放課後きゃんちゅー部】",
         "published_at": "2026-08-31T08:30:34Z",
         "thumbnail_url": "https://i.ytimg.com/vi/MKkwLoE3L6Y/hqdefault.jpg",
@@ -356,15 +365,6 @@
         "video_id": "5tu1nvPNpV0",
         "url": "https://www.youtube.com/watch?v=5tu1nvPNpV0",
         "duration_seconds": 26,
-        "is_short": true
-      },
-      {
-        "title": "🍬🪎🩷【MV Teaser 村川緋杏】🩷🪎🍬CANDY TUNE New Music Video『総意♡So Free』🍬🎸🩷8/29(土) MV公開 🩷🥁 🍬",
-        "published_at": "2026-08-26T12:39:18Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/8_uXLRVqJ3o/hqdefault.jpg",
-        "video_id": "8_uXLRVqJ3o",
-        "url": "https://www.youtube.com/watch?v=8_uXLRVqJ3o",
-        "duration_seconds": 15,
         "is_short": true
       }
     ]
