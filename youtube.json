@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "【9月生まれおめでとう】CANDY TUNE 『HAPPY BOUNCE BIRTHDAY』",
+        "published_at": "2026-09-01T01:00:30Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/cPmMoPq6UwE/hqdefault.jpg",
+        "video_id": "cPmMoPq6UwE",
+        "url": "https://www.youtube.com/watch?v=cPmMoPq6UwE",
+        "duration_seconds": 38,
+        "is_short": true
+      },
+      {
         "title": "『意見、まとめてこ？』 #CANDYTUNE #きゃんちゅー",
         "published_at": "2026-08-31T13:30:59Z",
         "thumbnail_url": "https://i.ytimg.com/vi/Phn7c6wS2w0/hqdefault.jpg",
@@ -356,15 +365,6 @@
         "video_id": "y7IdI6r4iv4",
         "url": "https://www.youtube.com/watch?v=y7IdI6r4iv4",
         "duration_seconds": 15,
-        "is_short": true
-      },
-      {
-        "title": "🍩みんなでキスパティ🎂いつもとちがった雰囲気のきゃんちゅー🍬『MARQUEE Vol.163』かわいすぎて目を引く表紙です🎀絶対にチェックしてね❤️‍🔥#CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-08-27T08:32:22Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Jco0G28ckXQ/hqdefault.jpg",
-        "video_id": "Jco0G28ckXQ",
-        "url": "https://www.youtube.com/watch?v=Jco0G28ckXQ",
-        "duration_seconds": 12,
         "is_short": true
       }
     ]
