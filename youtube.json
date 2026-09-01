@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "数回、歌った事がある曲 #CUTIESTREET #きゅーすと #かわいいだけじゃだめですか？",
+        "published_at": "2026-09-01T04:34:56Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/DxO6t1P7hcc/hqdefault.jpg",
+        "video_id": "DxO6t1P7hcc",
+        "url": "https://www.youtube.com/watch?v=DxO6t1P7hcc",
+        "duration_seconds": 15,
+        "is_short": true
+      },
+      {
         "title": "【増田無双】ぶりっこの裏に隠された人間ドラマ #CUTIESTREET #きゅーすと",
         "published_at": "2026-08-31T13:00:02Z",
         "thumbnail_url": "https://i.ytimg.com/vi/y0fK0bnKBOs/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=uaw77swU6ZE",
         "duration_seconds": 17,
         "is_short": true
-      },
-      {
-        "title": "【LIVE映像】Top of the top📍日本武道館【CUTIE STREET】",
-        "published_at": "2026-08-27T12:30:01Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/KGFOrSUL-uc/hqdefault.jpg",
-        "video_id": "KGFOrSUL-uc",
-        "url": "https://www.youtube.com/watch?v=KGFOrSUL-uc",
-        "duration_seconds": 270,
-        "is_short": false
       }
     ]
   },
