@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "2027年1月23日 韓国で単独LIVEあるって #梅田みゆ #川本笑瑠 #CUTIESTREET #きゅーすと #ぷりきゅきゅ",
+        "published_at": "2026-09-01T07:42:55Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/NefpJy9igbA/hqdefault.jpg",
+        "video_id": "NefpJy9igbA",
+        "url": "https://www.youtube.com/watch?v=NefpJy9igbA",
+        "duration_seconds": 21,
+        "is_short": true
+      },
+      {
         "title": "数回、歌った事がある曲 #CUTIESTREET #きゅーすと #かわいいだけじゃだめですか？",
         "published_at": "2026-09-01T04:34:56Z",
         "thumbnail_url": "https://i.ytimg.com/vi/DxO6t1P7hcc/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "--PfygDWMCo",
         "url": "https://www.youtube.com/watch?v=--PfygDWMCo",
         "duration_seconds": 30,
-        "is_short": true
-      },
-      {
-        "title": "みんな武道館のハイライトはどこ？ #キュートなキューたい #梅田みゆ #真鍋凪咲 #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-28T09:00:30Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/uaw77swU6ZE/hqdefault.jpg",
-        "video_id": "uaw77swU6ZE",
-        "url": "https://www.youtube.com/watch?v=uaw77swU6ZE",
-        "duration_seconds": 17,
         "is_short": true
       }
     ]
