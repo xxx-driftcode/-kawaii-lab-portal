@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "本当はもっとコーラが飲みたかった、夏… 💙#遠藤まりん #ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-01T03:43:14Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/dP1F8PcjHOE/hqdefault.jpg",
+        "video_id": "dP1F8PcjHOE",
+        "url": "https://www.youtube.com/watch?v=dP1F8PcjHOE",
+        "duration_seconds": 14,
+        "is_short": true
+      },
+      {
         "title": "【1日密着】8/26(水) MORE STAR 1st シングルCD リリース日 密着映像",
         "published_at": "2026-08-29T06:00:01Z",
         "thumbnail_url": "https://i.ytimg.com/vi/7NQE2s-nvD0/hqdefault.jpg",
@@ -911,15 +920,6 @@
         "video_id": "r5Nh6BqI6AM",
         "url": "https://www.youtube.com/watch?v=r5Nh6BqI6AM",
         "duration_seconds": 13,
-        "is_short": true
-      },
-      {
-        "title": "初めての #LuckyFes 🌈たくさんのうぃずもあ🌟#うぃずもあ#MORESTAR#もあすた",
-        "published_at": "2026-08-11T05:49:43Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/hY31Ki3qqm0/hqdefault.jpg",
-        "video_id": "hY31Ki3qqm0",
-        "url": "https://www.youtube.com/watch?v=hY31Ki3qqm0",
-        "duration_seconds": 50,
         "is_short": true
       }
     ]
