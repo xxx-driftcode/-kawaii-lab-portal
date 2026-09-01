@@ -110,6 +110,15 @@
       },
       {
         "month": "09",
+        "day": "07",
+        "day_of_week": "MON",
+        "category": "TV",
+        "title": "テレビ東京「プレミアMelodiX!」(早瀬)",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/88885",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "08",
         "day_of_week": "TUE",
         "category": "RADIO",
@@ -515,6 +524,15 @@
       },
       {
         "month": "11",
+        "day": "07",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "LARME FES'26@東京ガーデンシアター",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/44469",
+        "year": "2026"
+      },
+      {
+        "month": "11",
         "day": "10",
         "day_of_week": "TUE",
         "category": "RADIO",
@@ -656,6 +674,15 @@
         "title": "KAWAII LAB. Christmas SESSION 2026 ＠有明アリーナ",
         "url": "https://fruitszipper.asobisystem.com/live_information/detail/42962",
         "year": "2026"
+      },
+      {
+        "month": "01",
+        "day": "23",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "FRUITS ZIPPERのオールナイトニッポンX in 横浜アリーナ",
+        "url": "https://fruitszipper.asobisystem.com/live_information/detail/44470",
+        "year": "2027"
       }
     ]
   },
