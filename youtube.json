@@ -192,6 +192,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "BNK48 #Janry さん・CGM48 #JingJing さんとSWEET STEP♡ #NIPPONHAKUBANGKOK2026 #バンコク日本博 #SWEETSTEADY",
+        "published_at": "2026-09-01T10:00:23Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/g8fYhBidfDg/hqdefault.jpg",
+        "video_id": "g8fYhBidfDg",
+        "url": "https://www.youtube.com/watch?v=g8fYhBidfDg",
+        "duration_seconds": 22,
+        "is_short": true
+      },
+      {
         "title": "「なあなあ、ほんまにだいすきやで〜！」 #SWEETSTEADY #すいすて #SWEETSTEP",
         "published_at": "2026-09-01T05:00:08Z",
         "thumbnail_url": "https://i.ytimg.com/vi/bWvv2gBjQ3s/hqdefault.jpg",
@@ -360,15 +369,6 @@
         "video_id": "csgIPRW0qfY",
         "url": "https://www.youtube.com/watch?v=csgIPRW0qfY",
         "duration_seconds": 37,
-        "is_short": true
-      },
-      {
-        "title": "やっほー！きょうもがんばっちゃお💛  #山内咲奈 #SWEETSTEADY #すいすて #SWEETSTEP",
-        "published_at": "2026-08-28T08:57:30Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/h2OffGNGja0/hqdefault.jpg",
-        "video_id": "h2OffGNGja0",
-        "url": "https://www.youtube.com/watch?v=h2OffGNGja0",
-        "duration_seconds": 18,
         "is_short": true
       }
     ]
