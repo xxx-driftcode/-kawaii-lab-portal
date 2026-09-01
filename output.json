@@ -1034,6 +1034,15 @@
     "schedule": [
       {
         "month": "09",
+        "day": "02",
+        "day_of_week": "WED",
+        "category": "EVENT",
+        "title": "『福岡ソフトバンクホークス戦』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/44454",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "05",
         "day_of_week": "SAT",
         "category": "EVENT",
@@ -1070,6 +1079,15 @@
       },
       {
         "month": "09",
+        "day": "14",
+        "day_of_week": "MON",
+        "category": "EVENT",
+        "title": "『3rdシングル SWEET STEP 発売記念リリースイベント』＠北海道 サッポロファクトリー アトリウム",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/44456",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "19",
         "day_of_week": "SAT",
         "category": "EVENT",
@@ -1084,6 +1102,15 @@
         "category": "EVENT",
         "title": "『AGESTOCK2026 in 横浜アリーナ』",
         "url": "https://sweetsteady.asobisystem.com/live_information/detail/43902",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "21",
+        "day_of_week": "MON",
+        "category": "LIVE",
+        "title": "『SWEET STEADY 単独公演 お花見会 第一回/第二回』",
+        "url": "https://sweetsteady.asobisystem.com/live_information/detail/44458",
         "year": "2026"
       },
       {
