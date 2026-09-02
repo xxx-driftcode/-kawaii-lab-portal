@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "おっきすぎて困っちゃうよ、、、 #キュートなキューたい #CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-02T09:00:25Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/pMxupUFVGJU/hqdefault.jpg",
+        "video_id": "pMxupUFVGJU",
+        "url": "https://www.youtube.com/watch?v=pMxupUFVGJU",
+        "duration_seconds": 29,
+        "is_short": true
+      },
+      {
         "title": "【엔딩 요정】か\"わ\"い\"い\"い\"い\"い\"い\"いいい #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-02T07:00:27Z",
         "thumbnail_url": "https://i.ytimg.com/vi/ti9Ze8T-rZw/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "ZFfWtbHDjlQ",
         "url": "https://www.youtube.com/watch?v=ZFfWtbHDjlQ",
         "duration_seconds": 14,
-        "is_short": true
-      },
-      {
-        "title": "【テレビⓃⒽⓀ⚡️】#Venue101 観てますか〜❣️❣️ #キュートなキューたい #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-29T13:07:11Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/XWtPDE3f35I/hqdefault.jpg",
-        "video_id": "XWtPDE3f35I",
-        "url": "https://www.youtube.com/watch?v=XWtPDE3f35I",
-        "duration_seconds": 17,
         "is_short": true
       }
     ]
