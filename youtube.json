@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "エスコンフィールドで#ちょーだいHAPPY！⚾️🌈 #lovefighters #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-02T12:00:20Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/X1N5zyG8JAw/hqdefault.jpg",
+        "video_id": "X1N5zyG8JAw",
+        "url": "https://www.youtube.com/watch?v=X1N5zyG8JAw",
+        "duration_seconds": 20,
+        "is_short": true
+      },
+      {
         "title": "すいすてのコスメ番長・なつか🩷が、おゆい🩵にメイクしてみた💄✨ #SWEETSTEADY #すいすて",
         "published_at": "2026-09-02T10:00:31Z",
         "thumbnail_url": "https://i.ytimg.com/vi/MsuArnEkPZ0/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "4xUzebjk--w",
         "url": "https://www.youtube.com/watch?v=4xUzebjk--w",
         "duration_seconds": 20,
-        "is_short": true
-      },
-      {
-        "title": "すいすてとすいでぃーで作り上げたステージ✴︎˚✧ #すいれぼアリーナ #ぐっじょぶ！ #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-29T14:07:36Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/LZp73Vs6FGo/hqdefault.jpg",
-        "video_id": "LZp73Vs6FGo",
-        "url": "https://www.youtube.com/watch?v=LZp73Vs6FGo",
-        "duration_seconds": 16,
         "is_short": true
       }
     ]
