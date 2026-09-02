@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "#CDTVライブライブ にて #TOMORROW_X_TOGETHER さん✨🙌《総意♡So Free》🙌✨SOOBINさん🎆ありがとうございました🥳💚小川奈々子♥️立花琴未",
+        "published_at": "2026-09-02T09:59:02Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/MKtv_OjQDuU/hqdefault.jpg",
+        "video_id": "MKtv_OjQDuU",
+        "url": "https://www.youtube.com/watch?v=MKtv_OjQDuU",
+        "duration_seconds": 21,
+        "is_short": true
+      },
+      {
         "title": "総意！びびなつリリースイベント inエミテラス所沢ありがとうございました🩷🧡総意！#CANDYTUNE #きゃんちゅー",
         "published_at": "2026-09-01T10:25:33Z",
         "thumbnail_url": "https://i.ytimg.com/vi/MtEeVKTJR7s/hqdefault.jpg",
@@ -357,21 +366,30 @@
         "url": "https://www.youtube.com/watch?v=UaON_8qXBHg",
         "duration_seconds": 15,
         "is_short": true
-      },
-      {
-        "title": "🎉💚 #スペシャル感謝祭 💚🎉みんなのNが頭文字で始まる言葉といえば…❓💚小川奈々子 #スペシャル感謝祭#CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-08-28T06:55:14Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/0UlviukzdOY/hqdefault.jpg",
-        "video_id": "0UlviukzdOY",
-        "url": "https://www.youtube.com/watch?v=0UlviukzdOY",
-        "duration_seconds": 22,
-        "is_short": true
       }
     ]
   },
   "sweetsteady": {
     "name": "SWEET STEADY",
     "videos": [
+      {
+        "title": "すいすてのコスメ番長・なつか🩷が、おゆい🩵にメイクしてみた💄✨ #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-02T10:00:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/MsuArnEkPZ0/hqdefault.jpg",
+        "video_id": "MsuArnEkPZ0",
+        "url": "https://www.youtube.com/watch?v=MsuArnEkPZ0",
+        "duration_seconds": 27,
+        "is_short": true
+      },
+      {
+        "title": "【永久保存版】現役アイドルの盛れメイク",
+        "published_at": "2026-09-02T10:00:23Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/YeOirmMW2bs/hqdefault.jpg",
+        "video_id": "YeOirmMW2bs",
+        "url": "https://www.youtube.com/watch?v=YeOirmMW2bs",
+        "duration_seconds": 1353,
+        "is_short": false
+      },
       {
         "title": "みんなは何％で踊る❔ #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
         "published_at": "2026-09-02T08:00:11Z",
@@ -532,24 +550,6 @@
         "video_id": "LZp73Vs6FGo",
         "url": "https://www.youtube.com/watch?v=LZp73Vs6FGo",
         "duration_seconds": 16,
-        "is_short": true
-      },
-      {
-        "title": "ピースを振り回すHAPPY集団✌️🌈 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-29T12:30:12Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Vu30U9IXASk/hqdefault.jpg",
-        "video_id": "Vu30U9IXASk",
-        "url": "https://www.youtube.com/watch?v=Vu30U9IXASk",
-        "duration_seconds": 21,
-        "is_short": true
-      },
-      {
-        "title": "🇹🇭🌸バンコク日本博2026🌸🇯🇵ありがとうございました💐#นิปปอนฮาคุ #NIPPONHAKUBANGKOK2026 #バンコク日本博 #SWEETSTEADY",
-        "published_at": "2026-08-29T10:26:31Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/3dWpVo9bjss/hqdefault.jpg",
-        "video_id": "3dWpVo9bjss",
-        "url": "https://www.youtube.com/watch?v=3dWpVo9bjss",
-        "duration_seconds": 26,
         "is_short": true
       }
     ]
