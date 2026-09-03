@@ -1505,6 +1505,15 @@
       },
       {
         "month": "10",
+        "day": "10",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "「SBI証券 presents TGC 北九州 2026」@北九州メッセ",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/44575",
+        "year": "2026"
+      },
+      {
+        "month": "10",
         "day": "11",
         "day_of_week": "SUN",
         "category": "LIVE",
