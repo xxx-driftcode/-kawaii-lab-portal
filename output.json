@@ -770,6 +770,15 @@
       },
       {
         "month": "09",
+        "day": "03",
+        "day_of_week": "THU",
+        "category": "EVENT",
+        "title": "『SBI証券 presents TGC 北九州 2026』（村川緋杏・立花琴未）",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44547",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "04",
         "day_of_week": "FRI",
         "category": "LIVE",
@@ -1299,6 +1308,11 @@
     "name": "CUTIE STREET",
     "info": [
       {
+        "date": "2026.09.03",
+        "title": "「CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-」<宮城・福岡・兵庫>アップグレード抽選受付のお知らせ",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/88758"
+      },
+      {
         "date": "2026.09.01",
         "title": "「CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-」＜神奈川・東京＞ アップグレード抽選受付のお知らせ",
         "url": "https://cutiestreet.asobisystem.com/news/detail/88614"
@@ -1342,11 +1356,6 @@
         "date": "2026.08.26",
         "title": "「KAWAII LAB. SESSION 2026 SUMMER」グッズ通販実施のお知らせ",
         "url": "https://cutiestreet.asobisystem.com/news/detail/88445"
-      },
-      {
-        "date": "2026.08.26",
-        "title": "CUTIE STREET 「2nd ANNIVERSARY LIVE 2026＠日本武道館」グッズ＆通販未発売の一部商品 通販実施のお知らせ",
-        "url": "https://cutiestreet.asobisystem.com/news/detail/88444"
       }
     ],
     "schedule": [
