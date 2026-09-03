@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "焦った #板倉可奈 #古澤里紗 #キュートなキューたい",
+        "published_at": "2026-09-03T11:30:25Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/4NMuVJvjHj0/hqdefault.jpg",
+        "video_id": "4NMuVJvjHj0",
+        "url": "https://www.youtube.com/watch?v=4NMuVJvjHj0",
+        "duration_seconds": 8,
+        "is_short": true
+      },
+      {
         "title": "⚠️MV撮影中です #桜庭遥花 #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-03T09:30:26Z",
         "thumbnail_url": "https://i.ytimg.com/vi/kgdM0-XaTnc/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=VLYJzXq_r5M",
         "duration_seconds": 17,
         "is_short": true
-      },
-      {
-        "title": "【LIVE映像】ひたむきシンデレラ！📍日本武道館【CUTIE STREET】",
-        "published_at": "2026-08-30T11:30:32Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/H87dEasUmSM/hqdefault.jpg",
-        "video_id": "H87dEasUmSM",
-        "url": "https://www.youtube.com/watch?v=H87dEasUmSM",
-        "duration_seconds": 237,
-        "is_short": false
       }
     ]
   },
