@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "🚪『秘密のアティチュード』MV公開🗝️#FRUITSZIPPER #フルーツジッパー#ふるっぱー",
+        "published_at": "2026-09-03T12:29:37Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/buOuBKx0io0/hqdefault.jpg",
+        "video_id": "buOuBKx0io0",
+        "url": "https://www.youtube.com/watch?v=buOuBKx0io0",
+        "duration_seconds": 39,
+        "is_short": true
+      },
+      {
         "title": "#月足天音 『センセーション』Performance #センセーション#FRUITSZIPPER#ふるっぱー #フルーツジッパー",
         "published_at": "2026-09-02T12:31:22Z",
         "thumbnail_url": "https://i.ytimg.com/vi/rY-T_YtNBPk/hqdefault.jpg",
@@ -172,15 +181,6 @@
         "url": "https://www.youtube.com/watch?v=gIpK4cIl_7c",
         "duration_seconds": 9,
         "is_short": true
-      },
-      {
-        "title": "【9/6（日）まで予約受付】FRUITS ZIPPER 東京ドーム公演 Blu-ray / DVD発売決定！",
-        "published_at": "2026-08-26T11:42:17Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Kt144bzmRaM/hqdefault.jpg",
-        "video_id": "Kt144bzmRaM",
-        "url": "https://www.youtube.com/watch?v=Kt144bzmRaM",
-        "duration_seconds": 83,
-        "is_short": false
       }
     ]
   },
