@@ -797,6 +797,15 @@
       },
       {
         "month": "09",
+        "day": "05",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "4th single 大特典会",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44613",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "09",
         "day_of_week": "WED",
         "category": "LIVE",
@@ -811,6 +820,33 @@
         "category": "LIVE",
         "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」大阪公演",
         "url": "https://candytune.asobisystem.com/live_information/detail/40725",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "11",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "4th single リリースイベント",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44614",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "12",
+        "day_of_week": "SAT",
+        "category": "LIVE",
+        "title": "4th single ユニットリリースイベント（小川奈々子・立花琴未）",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44615",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "16",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "4th single 大特典会ユニットリリースイベント（福山梨乃・宮野静・桐原美月）",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44616",
         "year": "2026"
       },
       {
@@ -838,6 +874,15 @@
         "category": "LIVE",
         "title": "「ROCK IN JAPAN FESTIVAL 2026」",
         "url": "https://candytune.asobisystem.com/live_information/detail/39819",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "22",
+        "day_of_week": "TUE",
+        "category": "EVENT",
+        "title": "4th single 大特典会",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44617",
         "year": "2026"
       },
       {
