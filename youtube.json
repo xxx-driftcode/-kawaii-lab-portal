@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "皆さんの脳内を #ちょーだいHAPPY！ が侵略します👽🛸💫 #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-04T09:00:22Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Hya8b89BWGk/hqdefault.jpg",
+        "video_id": "Hya8b89BWGk",
+        "url": "https://www.youtube.com/watch?v=Hya8b89BWGk",
+        "duration_seconds": 17,
+        "is_short": true
+      },
+      {
         "title": "すいすてに応援されたいあなたへ🕺📣 #YMCAダンス #youngman #SWEETSTEADY #すいすて",
         "published_at": "2026-09-04T07:00:15Z",
         "thumbnail_url": "https://i.ytimg.com/vi/RMm-ZU01c5w/hqdefault.jpg",
@@ -542,21 +551,21 @@
         "url": "https://www.youtube.com/watch?v=ZBAPhSJ2MjI",
         "duration_seconds": 16,
         "is_short": true
-      },
-      {
-        "title": "SWEET STEADY Station",
-        "published_at": "2026-08-31T10:00:21Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/OdOmFWb2w9A/hqdefault_live.jpg",
-        "video_id": "OdOmFWb2w9A",
-        "url": "https://www.youtube.com/watch?v=OdOmFWb2w9A",
-        "duration_seconds": 0,
-        "is_short": false
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "この可愛さに免じて ゆるして！おねがい！♡（でも可愛いって言われるとくしゃみが出ます）⚡️キャップ🩷桜庭遥花💛古澤里紗#アニポケ#かわいいだけじゃだめですか？#CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-04T09:00:20Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/59zbviRTGCQ/hqdefault.jpg",
+        "video_id": "59zbviRTGCQ",
+        "url": "https://www.youtube.com/watch?v=59zbviRTGCQ",
+        "duration_seconds": 6,
+        "is_short": true
+      },
       {
         "title": "やわらかい。。。。",
         "published_at": "2026-09-04T05:24:27Z",
@@ -726,15 +735,6 @@
         "video_id": "Fsp9qcXpZTs",
         "url": "https://www.youtube.com/watch?v=Fsp9qcXpZTs",
         "duration_seconds": 16,
-        "is_short": true
-      },
-      {
-        "title": "古澤里紗の主張",
-        "published_at": "2026-08-31T06:19:53Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/vk24ppxOtiM/hqdefault.jpg",
-        "video_id": "vk24ppxOtiM",
-        "url": "https://www.youtube.com/watch?v=vk24ppxOtiM",
-        "duration_seconds": 9,
         "is_short": true
       }
     ]
