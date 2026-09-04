@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "優衣ちゃん、後ろ！後ろ！#櫻井優衣 #仲川瑠夏 #センセーション #FRUITSZIPPER #ふるっぱー",
+        "published_at": "2026-09-04T13:10:23Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/14vUK-yeM6M/hqdefault.jpg",
+        "video_id": "14vUK-yeM6M",
+        "url": "https://www.youtube.com/watch?v=14vUK-yeM6M",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "早瀬ノエル「#秘密のアティチュード」Visual Film. 🚪🗝️💛#FRUITSZIPPER#ふるっぱー #フルーツジッパー",
         "published_at": "2026-09-04T12:00:29Z",
         "thumbnail_url": "https://i.ytimg.com/vi/8fBerdqBlWw/hqdefault.jpg",
@@ -172,21 +181,21 @@
         "url": "https://www.youtube.com/watch?v=Fw3vax8B_5k",
         "duration_seconds": 61,
         "is_short": false
-      },
-      {
-        "title": "首ってこんなに動くの？😳#鎮西寿々歌 #櫻井優衣 #センセーション #FRUITSZIPPER #ふるっぱー",
-        "published_at": "2026-08-28T11:32:05Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/psTo89f1404/hqdefault.jpg",
-        "video_id": "psTo89f1404",
-        "url": "https://www.youtube.com/watch?v=psTo89f1404",
-        "duration_seconds": 13,
-        "is_short": true
       }
     ]
   },
   "candytune": {
     "name": "CANDY TUNE",
     "videos": [
+      {
+        "title": "意見、まとめてこ❓#CANDYTUNE #きゃんちゅー #きゃーかす",
+        "published_at": "2026-09-04T13:17:37Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/K6zgR77QQ6k/hqdefault.jpg",
+        "video_id": "K6zgR77QQ6k",
+        "url": "https://www.youtube.com/watch?v=K6zgR77QQ6k",
+        "duration_seconds": 16,
+        "is_short": true
+      },
       {
         "title": "#きゃーかす 神奈川公演🎪ありがとうございました🍬 #CANDYTUNE #きゃんちゅー",
         "published_at": "2026-09-04T12:00:59Z",
@@ -356,15 +365,6 @@
         "video_id": "C615bICQ8l8",
         "url": "https://www.youtube.com/watch?v=C615bICQ8l8",
         "duration_seconds": 30,
-        "is_short": true
-      },
-      {
-        "title": "きゃんちゅーかわいい？🥹💗 #総意SoFree #CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-08-29T14:41:01Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/a0-5NesPqwk/hqdefault.jpg",
-        "video_id": "a0-5NesPqwk",
-        "url": "https://www.youtube.com/watch?v=a0-5NesPqwk",
-        "duration_seconds": 14,
         "is_short": true
       }
     ]
