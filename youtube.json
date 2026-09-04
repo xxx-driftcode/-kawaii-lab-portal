@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "すいすてに応援されたいあなたへ🕺📣 #YMCAダンス #youngman #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-04T07:00:15Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/RMm-ZU01c5w/hqdefault.jpg",
+        "video_id": "RMm-ZU01c5w",
+        "url": "https://www.youtube.com/watch?v=RMm-ZU01c5w",
+        "duration_seconds": 51,
+        "is_short": true
+      },
+      {
         "title": "こわかわなりせぴに怒られてください💜  #気味が悪いんだからねっ #塩川莉世 #SWEETSTEADY #すいすて",
         "published_at": "2026-09-03T11:00:15Z",
         "thumbnail_url": "https://i.ytimg.com/vi/3h8Ykdp1psk/hqdefault.jpg",
@@ -542,15 +551,6 @@
         "url": "https://www.youtube.com/watch?v=OdOmFWb2w9A",
         "duration_seconds": 0,
         "is_short": false
-      },
-      {
-        "title": "みなさん一緒に、「ふっふー！」🪩✨ #ちょーだいHAPPY！ #音井結衣 #塩川莉世 #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-31T09:09:12Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/PN361VkruS0/hqdefault.jpg",
-        "video_id": "PN361VkruS0",
-        "url": "https://www.youtube.com/watch?v=PN361VkruS0",
-        "duration_seconds": 21,
-        "is_short": true
       }
     ]
   },
