@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "ｲﾁﾆｻﾝ…じゃなくてわんつーすりー❕ #ちょーだいHAPPY！ #奥田彩友 #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-04T11:00:38Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/t6BPPefOA5c/hqdefault.jpg",
+        "video_id": "t6BPPefOA5c",
+        "url": "https://www.youtube.com/watch?v=t6BPPefOA5c",
+        "duration_seconds": 21,
+        "is_short": true
+      },
+      {
         "title": "皆さんの脳内を #ちょーだいHAPPY！ が侵略します👽🛸💫 #SWEETSTEADY #すいすて",
         "published_at": "2026-09-04T09:00:22Z",
         "thumbnail_url": "https://i.ytimg.com/vi/Hya8b89BWGk/hqdefault.jpg",
@@ -542,21 +551,21 @@
         "url": "https://www.youtube.com/watch?v=bWvv2gBjQ3s",
         "duration_seconds": 18,
         "is_short": true
-      },
-      {
-        "title": "すいすてとのお約束🖤（圧） #気味が悪いんだからねっ #こわかわ #レッツゴー怪奇組 #SWEETSTEADY #すいすて",
-        "published_at": "2026-08-31T11:00:42Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/ZBAPhSJ2MjI/hqdefault.jpg",
-        "video_id": "ZBAPhSJ2MjI",
-        "url": "https://www.youtube.com/watch?v=ZBAPhSJ2MjI",
-        "duration_seconds": 16,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "【LIVE映像】Shooting Star📍日本武道館【CUTIE STREET】",
+        "published_at": "2026-09-04T11:00:23Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/UeZGVygmcrk/hqdefault.jpg",
+        "video_id": "UeZGVygmcrk",
+        "url": "https://www.youtube.com/watch?v=UeZGVygmcrk",
+        "duration_seconds": 372,
+        "is_short": false
+      },
       {
         "title": "この可愛さに免じて ゆるして！おねがい！♡（でも可愛いって言われるとくしゃみが出ます）⚡️キャップ🩷桜庭遥花💛古澤里紗#アニポケ#かわいいだけじゃだめですか？#CUTIESTREET #きゅーすと",
         "published_at": "2026-09-04T09:00:20Z",
@@ -726,15 +735,6 @@
         "video_id": "ewaK8gL-rOQ",
         "url": "https://www.youtube.com/watch?v=ewaK8gL-rOQ",
         "duration_seconds": 11,
-        "is_short": true
-      },
-      {
-        "title": "【#キュートなキューたい】w/ ONE N’ ONLY🐶「Pick up!」鳴いて頂きました⚡️#HAYATO さん#EIKU さん&💚板倉可奈💜真鍋凪咲#CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-31T07:00:26Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Fsp9qcXpZTs/hqdefault.jpg",
-        "video_id": "Fsp9qcXpZTs",
-        "url": "https://www.youtube.com/watch?v=Fsp9qcXpZTs",
-        "duration_seconds": 16,
         "is_short": true
       }
     ]
