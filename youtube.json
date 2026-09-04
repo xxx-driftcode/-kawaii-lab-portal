@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "やわらかい。。。。",
+        "published_at": "2026-09-04T05:24:27Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/wxlhS00i-1k/hqdefault.jpg",
+        "video_id": "wxlhS00i-1k",
+        "url": "https://www.youtube.com/watch?v=wxlhS00i-1k",
+        "duration_seconds": 48,
+        "is_short": true
+      },
+      {
         "title": "【バトル】いけ❣️じだんだ🔥💙増田彩乃＆ホゲータ(佐野愛花❤️)ポケモンバトルよ⚡️#アニポケ#キュートなキューたい#CUTIESTREET #きゅーすと",
         "published_at": "2026-09-04T01:00:04Z",
         "thumbnail_url": "https://i.ytimg.com/vi/5_YmMeanuo4/hqdefault.jpg",
@@ -727,21 +736,21 @@
         "url": "https://www.youtube.com/watch?v=vk24ppxOtiM",
         "duration_seconds": 9,
         "is_short": true
-      },
-      {
-        "title": "爆音だ #ぷりきゅきゅ #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-31T04:43:25Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/2vBUdg6ZEIo/hqdefault.jpg",
-        "video_id": "2vBUdg6ZEIo",
-        "url": "https://www.youtube.com/watch?v=2vBUdg6ZEIo",
-        "duration_seconds": 8,
-        "is_short": true
       }
     ]
   },
   "morestar": {
     "name": "MORE STAR",
     "videos": [
+      {
+        "title": "宿題終わった人とツーショット撮ってた人です🙂‍↕️#中山こはく#WITHKAWAII論#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-04T05:25:29Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/IX3XYAdr_ss/hqdefault.jpg",
+        "video_id": "IX3XYAdr_ss",
+        "url": "https://www.youtube.com/watch?v=IX3XYAdr_ss",
+        "duration_seconds": 25,
+        "is_short": true
+      },
       {
         "title": "こちらが、カステラを紙ごと食べちゃった人です😌#高梨ゆな #WITHKAWAII論#MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-03T08:09:09Z",
@@ -912,15 +921,6 @@
         "url": "https://www.youtube.com/watch?v=tS30z25Fg-U",
         "duration_seconds": 11791,
         "is_short": false
-      },
-      {
-        "title": "高梨ゆな！みんなの角煮ネキだよ！ふぁ〜🩵#高梨ゆな #ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-08-14T02:54:51Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/KqpZEnXl0a8/hqdefault.jpg",
-        "video_id": "KqpZEnXl0a8",
-        "url": "https://www.youtube.com/watch?v=KqpZEnXl0a8",
-        "duration_seconds": 13,
-        "is_short": true
       }
     ]
   }
