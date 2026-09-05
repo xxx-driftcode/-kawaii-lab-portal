@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "あみちゃんまる🩷#森田あみ#WITHKAWAII論#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-05T12:17:36Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/DpWB70_zO1M/hqdefault.jpg",
+        "video_id": "DpWB70_zO1M",
+        "url": "https://www.youtube.com/watch?v=DpWB70_zO1M",
+        "duration_seconds": 25,
+        "is_short": true
+      },
+      {
         "title": "この秋、コーラをたくさん飲もうか！🦥#遠藤まりん#WITHKAWAII論#MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-04T14:13:58Z",
         "thumbnail_url": "https://i.ytimg.com/vi/B8tTb-HzWMk/hqdefault.jpg",
@@ -912,15 +921,6 @@
         "url": "https://www.youtube.com/watch?v=IxMrn_27xnw",
         "duration_seconds": 13,
         "is_short": true
-      },
-      {
-        "title": "8月14日(金) MORE STAR 萩田そら 生誕オンライン特典会",
-        "published_at": "2026-08-14T12:08:22Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/-h2UGhzsgoE/hqdefault.jpg",
-        "video_id": "-h2UGhzsgoE",
-        "url": "https://www.youtube.com/watch?v=-h2UGhzsgoE",
-        "duration_seconds": 10903,
-        "is_short": false
       }
     ]
   }
