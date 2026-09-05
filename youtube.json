@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "かわいすぎるのでやっぱり白石が悪いです❤️ #気味が悪いんだからねっ #白石まゆみ #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-05T13:00:00Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/U5E0pntP810/hqdefault.jpg",
+        "video_id": "U5E0pntP810",
+        "url": "https://www.youtube.com/watch?v=U5E0pntP810",
+        "duration_seconds": 27,
+        "is_short": true
+      },
+      {
         "title": "SWEETでSTEADY放題🪩🌈 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
         "published_at": "2026-09-05T11:00:31Z",
         "thumbnail_url": "https://i.ytimg.com/vi/dnzjMvcFz1g/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "WyAwv6ZmOag",
         "url": "https://www.youtube.com/watch?v=WyAwv6ZmOag",
         "duration_seconds": 24,
-        "is_short": true
-      },
-      {
-        "title": "またしてもカウントの罠に...❗️🕺 #ちょーだいHAPPY！ #奥田彩友 #塩川莉世 #白石まゆみ #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-02T05:00:27Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/PQOYNj8QC3I/hqdefault.jpg",
-        "video_id": "PQOYNj8QC3I",
-        "url": "https://www.youtube.com/watch?v=PQOYNj8QC3I",
-        "duration_seconds": 28,
         "is_short": true
       }
     ]
