@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "最後の一曲は… #始まりの合図 💐✨ #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-05T09:00:35Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/qWJzr217sOs/hqdefault.jpg",
+        "video_id": "qWJzr217sOs",
+        "url": "https://www.youtube.com/watch?v=qWJzr217sOs",
+        "duration_seconds": 50,
+        "is_short": true
+      },
+      {
         "title": "【リリイベin埼玉】に集まってくれたみんなとSWEET STEP🌈 #SWEETSTEADY #すいすて #SWEETSTEP",
         "published_at": "2026-09-05T07:00:21Z",
         "thumbnail_url": "https://i.ytimg.com/vi/vhezosYWfLY/hqdefault.jpg",
@@ -542,21 +551,84 @@
         "url": "https://www.youtube.com/watch?v=c-8OdJC5WNU",
         "duration_seconds": 18,
         "is_short": true
-      },
-      {
-        "title": "キミが悪いんだからねっ🩵👻 #気味が悪いんだからねっ #音井結衣  #SWEETSTEADY #すいすて #こわかわ #レッツゴー怪奇組",
-        "published_at": "2026-09-01T13:00:13Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/ajjsf-6nfKo/hqdefault.jpg",
-        "video_id": "ajjsf-6nfKo",
-        "url": "https://www.youtube.com/watch?v=ajjsf-6nfKo",
-        "duration_seconds": 26,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "【#20】ツアーファイナル!!【CUTIE STREET SHORT DOCUMENTARY】",
+        "published_at": "2026-09-05T08:57:43Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/PIuMSiO63Jc/hqdefault.jpg",
+        "video_id": "PIuMSiO63Jc",
+        "url": "https://www.youtube.com/watch?v=PIuMSiO63Jc",
+        "duration_seconds": 243,
+        "is_short": false
+      },
+      {
+        "title": "【#21】彩乃のペット【CUTIE STREET SHORT DOCUMENTARY】",
+        "published_at": "2026-09-05T08:57:39Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/x2fWv4MrWz8/hqdefault.jpg",
+        "video_id": "x2fWv4MrWz8",
+        "url": "https://www.youtube.com/watch?v=x2fWv4MrWz8",
+        "duration_seconds": 60,
+        "is_short": true
+      },
+      {
+        "title": "【#26】ぶちかまし【CUTIE STREET SHORT DOCUMENTARY】",
+        "published_at": "2026-09-05T08:57:35Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/c6ixry9Q9_M/hqdefault.jpg",
+        "video_id": "c6ixry9Q9_M",
+        "url": "https://www.youtube.com/watch?v=c6ixry9Q9_M",
+        "duration_seconds": 217,
+        "is_short": false
+      },
+      {
+        "title": "【#28】1週間あったら【CUTIE STREET SHORT DOCUMENTARY】",
+        "published_at": "2026-09-05T08:57:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/nCI1sG9JmV8/hqdefault.jpg",
+        "video_id": "nCI1sG9JmV8",
+        "url": "https://www.youtube.com/watch?v=nCI1sG9JmV8",
+        "duration_seconds": 126,
+        "is_short": false
+      },
+      {
+        "title": "【#24】新曲が楽しみ【CUTIE STREET SHORT DOCUMENTARY】",
+        "published_at": "2026-09-05T08:57:00Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/g2gWhfx96JQ/hqdefault.jpg",
+        "video_id": "g2gWhfx96JQ",
+        "url": "https://www.youtube.com/watch?v=g2gWhfx96JQ",
+        "duration_seconds": 112,
+        "is_short": false
+      },
+      {
+        "title": "【#29】サイアク!!【CUTIE STREET SHORT DOCUMENTARY】",
+        "published_at": "2026-09-05T08:56:55Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/LEQYof0yYlY/hqdefault.jpg",
+        "video_id": "LEQYof0yYlY",
+        "url": "https://www.youtube.com/watch?v=LEQYof0yYlY",
+        "duration_seconds": 100,
+        "is_short": false
+      },
+      {
+        "title": "【#23】ばぁ【CUTIE STREET SHORT DOCUMENTARY】",
+        "published_at": "2026-09-05T08:56:26Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/0CY8o466NYw/hqdefault.jpg",
+        "video_id": "0CY8o466NYw",
+        "url": "https://www.youtube.com/watch?v=0CY8o466NYw",
+        "duration_seconds": 100,
+        "is_short": false
+      },
+      {
+        "title": "【#22】密着っすか？【CUTIE STREET SHORT DOCUMENTARY】",
+        "published_at": "2026-09-05T08:56:03Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/1rfI9QpVruc/hqdefault.jpg",
+        "video_id": "1rfI9QpVruc",
+        "url": "https://www.youtube.com/watch?v=1rfI9QpVruc",
+        "duration_seconds": 286,
+        "is_short": false
+      },
       {
         "title": "【寝坊】ばっっっっか煽られてるんですけど #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-05T07:23:51Z",
@@ -663,78 +735,6 @@
         "video_id": "ti9Ze8T-rZw",
         "url": "https://www.youtube.com/watch?v=ti9Ze8T-rZw",
         "duration_seconds": 46,
-        "is_short": true
-      },
-      {
-        "title": "【バトル】いけ❣️たたきつける🌸🩵梅田みゆ＆カヌチャン(桜庭遥花🩷)バトルはｱﾝﾏﾘﾄｸｲｼﾞｬﾅｲｶﾓ…💭#アニポケ#キュートなキューたい#CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-02T03:30:36Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/5F3N8eqhngw/hqdefault.jpg",
-        "video_id": "5F3N8eqhngw",
-        "url": "https://www.youtube.com/watch?v=5F3N8eqhngw",
-        "duration_seconds": 30,
-        "is_short": true
-      },
-      {
-        "title": "【予選】暖色チーム🧡💛❤️🩷 #キュートなキューたい #CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-01T13:00:39Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/170rmbjgoFQ/hqdefault.jpg",
-        "video_id": "170rmbjgoFQ",
-        "url": "https://www.youtube.com/watch?v=170rmbjgoFQ",
-        "duration_seconds": 24,
-        "is_short": true
-      },
-      {
-        "title": "【生きている】躍動感か #キュートなキューたい #川本笑瑠 #真鍋凪咲",
-        "published_at": "2026-09-01T11:16:35Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/80XbT8Ss1cQ/hqdefault.jpg",
-        "video_id": "80XbT8Ss1cQ",
-        "url": "https://www.youtube.com/watch?v=80XbT8Ss1cQ",
-        "duration_seconds": 7,
-        "is_short": true
-      },
-      {
-        "title": "【#キュートなキューたい】w/ BUDDiiS💎ぶりっこ2人＆怒り狂う2人…🔥#FUMINORI さん#FUMIYA さん&💙増田彩乃💜真鍋凪咲#CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-01T09:34:34Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/i08WP3kyBOM/hqdefault.jpg",
-        "video_id": "i08WP3kyBOM",
-        "url": "https://www.youtube.com/watch?v=i08WP3kyBOM",
-        "duration_seconds": 16,
-        "is_short": true
-      },
-      {
-        "title": "2027年1月23日 韓国で単独LIVEあるって #梅田みゆ #川本笑瑠 #CUTIESTREET #きゅーすと #ぷりきゅきゅ",
-        "published_at": "2026-09-01T07:42:55Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/NefpJy9igbA/hqdefault.jpg",
-        "video_id": "NefpJy9igbA",
-        "url": "https://www.youtube.com/watch?v=NefpJy9igbA",
-        "duration_seconds": 21,
-        "is_short": true
-      },
-      {
-        "title": "数回、歌った事がある曲 #CUTIESTREET #きゅーすと #かわいいだけじゃだめですか？",
-        "published_at": "2026-09-01T04:34:56Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/DxO6t1P7hcc/hqdefault.jpg",
-        "video_id": "DxO6t1P7hcc",
-        "url": "https://www.youtube.com/watch?v=DxO6t1P7hcc",
-        "duration_seconds": 15,
-        "is_short": true
-      },
-      {
-        "title": "【増田無双】ぶりっこの裏に隠された人間ドラマ #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-31T13:00:02Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/y0fK0bnKBOs/hqdefault.jpg",
-        "video_id": "y0fK0bnKBOs",
-        "url": "https://www.youtube.com/watch?v=y0fK0bnKBOs",
-        "duration_seconds": 40,
-        "is_short": true
-      },
-      {
-        "title": "【武道館】ここの映像あるの天才すぎ！！！！！！！ #CUTIESTREET #きゅーすと",
-        "published_at": "2026-08-31T11:30:13Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/lbC_0yIR2mo/hqdefault.jpg",
-        "video_id": "lbC_0yIR2mo",
-        "url": "https://www.youtube.com/watch?v=lbC_0yIR2mo",
-        "duration_seconds": 15,
         "is_short": true
       }
     ]
