@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【寝坊】ばっっっっか煽られてるんですけど #CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-05T07:23:51Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/uuzAn1JQ4Oc/hqdefault.jpg",
+        "video_id": "uuzAn1JQ4Oc",
+        "url": "https://www.youtube.com/watch?v=uuzAn1JQ4Oc",
+        "duration_seconds": 60,
+        "is_short": true
+      },
+      {
         "title": "【LIVE映像】Shooting Star📍日本武道館【CUTIE STREET】",
         "published_at": "2026-09-04T11:00:23Z",
         "thumbnail_url": "https://i.ytimg.com/vi/UeZGVygmcrk/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "lbC_0yIR2mo",
         "url": "https://www.youtube.com/watch?v=lbC_0yIR2mo",
         "duration_seconds": 15,
-        "is_short": true
-      },
-      {
-        "title": "NHKになんか居たんですけど、親御さんはどこですか？？ #CUTIESTREET #きゅーすと #Venue101",
-        "published_at": "2026-08-31T09:06:05Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/ewaK8gL-rOQ/hqdefault.jpg",
-        "video_id": "ewaK8gL-rOQ",
-        "url": "https://www.youtube.com/watch?v=ewaK8gL-rOQ",
-        "duration_seconds": 11,
         "is_short": true
       }
     ]
