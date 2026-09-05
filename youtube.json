@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "SWEETでSTEADY放題🪩🌈 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-05T11:00:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/dnzjMvcFz1g/hqdefault.jpg",
+        "video_id": "dnzjMvcFz1g",
+        "url": "https://www.youtube.com/watch?v=dnzjMvcFz1g",
+        "duration_seconds": 17,
+        "is_short": true
+      },
+      {
         "title": "最後の一曲は… #始まりの合図 💐✨ #SWEETSTEADY #すいすて",
         "published_at": "2026-09-05T09:00:35Z",
         "thumbnail_url": "https://i.ytimg.com/vi/qWJzr217sOs/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "PQOYNj8QC3I",
         "url": "https://www.youtube.com/watch?v=PQOYNj8QC3I",
         "duration_seconds": 28,
-        "is_short": true
-      },
-      {
-        "title": "「原宿もおつゆも君も、よしよし〜」🩵 #SWEETSTEADY #すいすて #SWEETSTEP",
-        "published_at": "2026-09-02T03:01:42Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/c-8OdJC5WNU/hqdefault.jpg",
-        "video_id": "c-8OdJC5WNU",
-        "url": "https://www.youtube.com/watch?v=c-8OdJC5WNU",
-        "duration_seconds": 18,
         "is_short": true
       }
     ]
