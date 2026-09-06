@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "いいえ、産んだのはあたし。 #CUTIESTREET #きゅーすと #桜庭遥花 #川本笑瑠",
+        "published_at": "2026-09-06T11:05:25Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/MGVp7Biuq-c/hqdefault.jpg",
+        "video_id": "MGVp7Biuq-c",
+        "url": "https://www.youtube.com/watch?v=MGVp7Biuq-c",
+        "duration_seconds": 29,
+        "is_short": true
+      },
+      {
         "title": "【MV裏側密着】CUTIE STREET「Error404♡」メイキング映像",
         "published_at": "2026-09-06T11:00:07Z",
         "thumbnail_url": "https://i.ytimg.com/vi/B4q-aHghAro/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "YGXxO-8mK60",
         "url": "https://www.youtube.com/watch?v=YGXxO-8mK60",
         "duration_seconds": 25,
-        "is_short": true
-      },
-      {
-        "title": "焦った #板倉可奈 #古澤里紗 #キュートなキューたい",
-        "published_at": "2026-09-03T11:30:25Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/4NMuVJvjHj0/hqdefault.jpg",
-        "video_id": "4NMuVJvjHj0",
-        "url": "https://www.youtube.com/watch?v=4NMuVJvjHj0",
-        "duration_seconds": 8,
         "is_short": true
       }
     ]
