@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "みんなで作るHAPPYな時間🌈🎶 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-06T03:00:27Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/bVTRl7qRx04/hqdefault.jpg",
+        "video_id": "bVTRl7qRx04",
+        "url": "https://www.youtube.com/watch?v=bVTRl7qRx04",
+        "duration_seconds": 44,
+        "is_short": true
+      },
+      {
         "title": "【ダイジェスト】9/5(土)『3rdシングル SWEET STEP 発売記念リリースイベント』📍埼玉県 エミテラス所沢2F TOKOROZAWA e-CUBE",
         "published_at": "2026-09-06T00:30:13Z",
         "thumbnail_url": "https://i.ytimg.com/vi/iRpoAVmb8Ek/hqdefault.jpg",
@@ -542,15 +551,6 @@
         "url": "https://www.youtube.com/watch?v=MsuArnEkPZ0",
         "duration_seconds": 27,
         "is_short": true
-      },
-      {
-        "title": "【永久保存版】現役アイドルの盛れメイク",
-        "published_at": "2026-09-02T10:00:23Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/YeOirmMW2bs/hqdefault.jpg",
-        "video_id": "YeOirmMW2bs",
-        "url": "https://www.youtube.com/watch?v=YeOirmMW2bs",
-        "duration_seconds": 1353,
-        "is_short": false
       }
     ]
   },
