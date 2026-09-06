@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【大特典会】本日の衣装を #回転界隈 でお届け👗💫 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-06T13:00:19Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/1m0qK4b5-GY/hqdefault.jpg",
+        "video_id": "1m0qK4b5-GY",
+        "url": "https://www.youtube.com/watch?v=1m0qK4b5-GY",
+        "duration_seconds": 23,
+        "is_short": true
+      },
+      {
         "title": "君カワイイね なんてねっ👻👐 #気味が悪いんだからねっ #庄司なぎさ #こわかわ #SWEETSTEADY #すいすて #レッツゴー怪奇組",
         "published_at": "2026-09-06T09:00:33Z",
         "thumbnail_url": "https://i.ytimg.com/vi/htWlehE9ZNE/hqdefault.jpg",
@@ -542,15 +551,6 @@
         "url": "https://www.youtube.com/watch?v=6VQQOerpt1s",
         "duration_seconds": 27,
         "is_short": true
-      },
-      {
-        "title": "【ダイジェスト⚾️】北海道日本ハムファイターズ『福岡ソフトバンクホークス戦』📍エスコンフィールドHOKKAIDO",
-        "published_at": "2026-09-03T02:33:19Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Jb0T2lESc2w/hqdefault.jpg",
-        "video_id": "Jb0T2lESc2w",
-        "url": "https://www.youtube.com/watch?v=Jb0T2lESc2w",
-        "duration_seconds": 151,
-        "is_short": false
       }
     ]
   },
