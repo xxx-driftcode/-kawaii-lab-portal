@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "#秘密のアティチュード 櫻井優衣💚🗝️#FRUITSZIPPER#ふるっぱー #フルーツジッパー",
+        "published_at": "2026-09-06T09:11:20Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Mf8n3Iz1bRE/hqdefault.jpg",
+        "video_id": "Mf8n3Iz1bRE",
+        "url": "https://www.youtube.com/watch?v=Mf8n3Iz1bRE",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "秘密の始まり 秘密のたくらみ 秘密の呪い 秘密明かすの #秘密のアティチュード #FRUITSZIPPER #フルーツジッパー#ふるっぱー",
         "published_at": "2026-09-06T01:09:11Z",
         "thumbnail_url": "https://i.ytimg.com/vi/ciMIYXqio58/hqdefault.jpg",
@@ -172,15 +181,6 @@
         "url": "https://www.youtube.com/watch?v=9uFi9MxSYEQ",
         "duration_seconds": 481,
         "is_short": false
-      },
-      {
-        "title": "わたし達と一緒にアソぼ？ w/  #CANDYTUNE 👻🍬#FRUITSZIPPER #ふるっぱー #きゃんちゅー#センセーション",
-        "published_at": "2026-08-31T12:09:44Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/eKz5MAYLLN4/hqdefault.jpg",
-        "video_id": "eKz5MAYLLN4",
-        "url": "https://www.youtube.com/watch?v=eKz5MAYLLN4",
-        "duration_seconds": 14,
-        "is_short": true
       }
     ]
   },
