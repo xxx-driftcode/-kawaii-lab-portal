@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "『わんつーすりー』誰が歌ってるでしょうか❔😆 #ちょーだいHAPPY！  #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-06T07:00:23Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/KvgZ_kCArNo/hqdefault.jpg",
+        "video_id": "KvgZ_kCArNo",
+        "url": "https://www.youtube.com/watch?v=KvgZ_kCArNo",
+        "duration_seconds": 26,
+        "is_short": true
+      },
+      {
         "title": "#ちょーだいHAPPY！ で目覚める信号チーム⏰🚦 #奥田彩友 #山内咲奈 #白石まゆみ #SWEETSTEADY #すいすて",
         "published_at": "2026-09-06T05:00:02Z",
         "thumbnail_url": "https://i.ytimg.com/vi/rbsCibysGYU/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "vlDayffYIhw",
         "url": "https://www.youtube.com/watch?v=vlDayffYIhw",
         "duration_seconds": 29,
-        "is_short": true
-      },
-      {
-        "title": "エスコンフィールドで#ちょーだいHAPPY！⚾️🌈 #lovefighters #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-02T12:00:20Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/X1N5zyG8JAw/hqdefault.jpg",
-        "video_id": "X1N5zyG8JAw",
-        "url": "https://www.youtube.com/watch?v=X1N5zyG8JAw",
-        "duration_seconds": 20,
         "is_short": true
       }
     ]
