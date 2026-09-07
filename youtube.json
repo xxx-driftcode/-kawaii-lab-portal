@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "【期間限定公開】CANDY TUNE 「総意♡So Free」【CDTVライブ!ライブ!】",
+        "published_at": "2026-09-07T12:00:12Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/CANL2p_5h-U/hqdefault.jpg",
+        "video_id": "CANL2p_5h-U",
+        "url": "https://www.youtube.com/watch?v=CANL2p_5h-U",
+        "duration_seconds": 172,
+        "is_short": false
+      },
+      {
         "title": "【完全爆弾解除マニュアル】協力して爆弾を解除せよ！【放課後きゃんちゅー部】",
         "published_at": "2026-09-07T09:30:01Z",
         "thumbnail_url": "https://i.ytimg.com/vi/jC97YNLhcRo/hqdefault.jpg",
@@ -356,15 +365,6 @@
         "video_id": "R6LOZbuiANg",
         "url": "https://www.youtube.com/watch?v=R6LOZbuiANg",
         "duration_seconds": 21,
-        "is_short": true
-      },
-      {
-        "title": "✨🙏埼玉公演スペシャル感謝でした🙏✨イニシャルが 𝓝 であるなちさんはたくさん 𝓝 をしてくれました🥳そしてきゃんちゅーはこのあとこのまま退勤していきました...😶‍🌫️",
-        "published_at": "2026-08-30T13:14:43Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/OOg47ttgsGA/hqdefault.jpg",
-        "video_id": "OOg47ttgsGA",
-        "url": "https://www.youtube.com/watch?v=OOg47ttgsGA",
-        "duration_seconds": 28,
         "is_short": true
       }
     ]
@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "最高いいじゃんの時のめろが、最高いい！！🩶#中山こはく#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-07T12:00:34Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/ua45bH9KBAA/hqdefault.jpg",
+        "video_id": "ua45bH9KBAA",
+        "url": "https://www.youtube.com/watch?v=ua45bH9KBAA",
+        "duration_seconds": 23,
+        "is_short": true
+      },
+      {
         "title": "表情管理の天才にゃんこ🧡#新井心菜 #MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-07T08:59:12Z",
         "thumbnail_url": "https://i.ytimg.com/vi/WM71DHPPGls/hqdefault.jpg",
@@ -912,15 +921,6 @@
         "url": "https://www.youtube.com/watch?v=3DZqsfx09aI",
         "duration_seconds": 14,
         "is_short": true
-      },
-      {
-        "title": "8月17日 MORE STAR 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念オンラインサイン会",
-        "published_at": "2026-08-17T10:02:31Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/-B33AzLGQlE/hqdefault.jpg",
-        "video_id": "-B33AzLGQlE",
-        "url": "https://www.youtube.com/watch?v=-B33AzLGQlE",
-        "duration_seconds": 6422,
-        "is_short": false
       }
     ]
   }
