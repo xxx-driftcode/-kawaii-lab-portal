@@ -708,6 +708,11 @@
     "name": "CANDY TUNE",
     "info": [
       {
+        "date": "2026.09.07",
+        "title": "CANDY TUNE 4thシングル『総意♡So Free / スペシャル感謝祭』発売記念リリースイベント @神戸ハーバーランド スペースシアター",
+        "url": "https://candytune.asobisystem.com/news/detail/89368"
+      },
+      {
         "date": "2026.09.04",
         "title": "「CANDY TUNE 小川奈々子 生誕祭 2026」 アップグレード抽選受付のお知らせ",
         "url": "https://candytune.asobisystem.com/news/detail/88933"
@@ -751,11 +756,6 @@
         "date": "2026.08.29",
         "title": "2026年10月12日(月・祝)「KAWAII LAB. COLLECTION produced by TGC ~KAWAIIっちゃ in KITAKYUSHU~」＠北九州メッセ 開催決定！CANDY TUNE FC先行開始！",
         "url": "https://candytune.asobisystem.com/news/detail/87766"
-      },
-      {
-        "date": "2026.08.28",
-        "title": "CANDY TUNE JAPAN TOUR 2026 -AUTUMN- 「CANDY CIRCUS」FC連動企画＆CANDY TUNE OFFICIAL FANCLUB年会費コース新規入会・お友達紹介キャンペーン詳細決定のお知らせ！",
-        "url": "https://candytune.asobisystem.com/news/detail/87413"
       }
     ],
     "schedule": [
@@ -829,6 +829,15 @@
         "category": "LIVE",
         "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」大阪公演",
         "url": "https://candytune.asobisystem.com/live_information/detail/40725",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "11",
+        "day_of_week": "FRI",
+        "category": "LIVE",
+        "title": "4th single リリースイベント",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44614",
         "year": "2026"
       },
       {

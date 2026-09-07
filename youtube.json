@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "一緒に並んでスキップで🎶💞 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-07T11:02:27Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/v13oxmaHUms/hqdefault.jpg",
+        "video_id": "v13oxmaHUms",
+        "url": "https://www.youtube.com/watch?v=v13oxmaHUms",
+        "duration_seconds": 45,
+        "is_short": true
+      },
+      {
         "title": "【リリイベ in池袋】のみんなと #ちょーだいHAPPY！ 😆🌈 #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-07T09:04:32Z",
         "thumbnail_url": "https://i.ytimg.com/vi/OimbMR2dEns/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "RMm-ZU01c5w",
         "url": "https://www.youtube.com/watch?v=RMm-ZU01c5w",
         "duration_seconds": 51,
-        "is_short": true
-      },
-      {
-        "title": "こわかわなりせぴに怒られてください💜  #気味が悪いんだからねっ #塩川莉世 #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-03T11:00:15Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/3h8Ykdp1psk/hqdefault.jpg",
-        "video_id": "3h8Ykdp1psk",
-        "url": "https://www.youtube.com/watch?v=3h8Ykdp1psk",
-        "duration_seconds": 28,
         "is_short": true
       }
     ]
