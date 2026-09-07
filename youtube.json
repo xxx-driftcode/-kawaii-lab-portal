@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "彩乃ちゃん、何があったの？？？😭 #増田彩乃 #キュートなキューたい #CUTIESTREET",
+        "published_at": "2026-09-07T13:30:19Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/dlcgNSLuL-k/hqdefault.jpg",
+        "video_id": "dlcgNSLuL-k",
+        "url": "https://www.youtube.com/watch?v=dlcgNSLuL-k",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "ドパみゆwwww #梅田みゆ #佐野愛花 #Error404♡ #CUTIESTREET #きゅーす",
         "published_at": "2026-09-07T11:10:11Z",
         "thumbnail_url": "https://i.ytimg.com/vi/Btg0ubd1r2Q/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=1rfI9QpVruc",
         "duration_seconds": 286,
         "is_short": false
-      },
-      {
-        "title": "【寝坊】ばっっっっか煽られてるんですけど #CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-05T07:23:51Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/uuzAn1JQ4Oc/hqdefault.jpg",
-        "video_id": "uuzAn1JQ4Oc",
-        "url": "https://www.youtube.com/watch?v=uuzAn1JQ4Oc",
-        "duration_seconds": 60,
-        "is_short": true
       }
     ]
   },
