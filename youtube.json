@@ -4,11 +4,11 @@
     "videos": [
       {
         "title": "#31 ㊗️番組4周年🎉櫻井・松本・早瀬でぷっくりシールづくり💚🩷💛【集まれ☆ふるっぱー！】",
-        "published_at": "2026-09-07T09:00:31Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Cz9Ud-KUzBc/hqdefault_live.jpg",
+        "published_at": "2026-09-07T09:32:14Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Cz9Ud-KUzBc/hqdefault.jpg",
         "video_id": "Cz9Ud-KUzBc",
         "url": "https://www.youtube.com/watch?v=Cz9Ud-KUzBc",
-        "duration_seconds": 0,
+        "duration_seconds": 1736,
         "is_short": false
       },
       {
@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "【完全爆弾解除マニュアル】協力して爆弾を解除せよ！【放課後きゃんちゅー部】",
+        "published_at": "2026-09-07T09:30:01Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/jC97YNLhcRo/hqdefault.jpg",
+        "video_id": "jC97YNLhcRo",
+        "url": "https://www.youtube.com/watch?v=jC97YNLhcRo",
+        "duration_seconds": 1094,
+        "is_short": false
+      },
+      {
         "title": "意見、まとめてこ？🤔MVもたくさん見てね🙌👀 #総意SoFree#CANDYTUNE #きゃんちゅー",
         "published_at": "2026-09-07T08:30:33Z",
         "thumbnail_url": "https://i.ytimg.com/vi/HkkpmYd4zSI/hqdefault.jpg",
@@ -356,15 +365,6 @@
         "video_id": "OOg47ttgsGA",
         "url": "https://www.youtube.com/watch?v=OOg47ttgsGA",
         "duration_seconds": 28,
-        "is_short": true
-      },
-      {
-        "title": "【#きゃーかす 即出しチッケム】相違も SO 良い 総意♡Free➰💞 #きゃーかす#CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-08-30T13:13:12Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/x0swwkzN2I0/hqdefault.jpg",
-        "video_id": "x0swwkzN2I0",
-        "url": "https://www.youtube.com/watch?v=x0swwkzN2I0",
-        "duration_seconds": 26,
         "is_short": true
       }
     ]
