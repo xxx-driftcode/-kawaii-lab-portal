@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "さ！早速ちゃんまると踊ってみよう🩷#森田あみ#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-07T06:37:49Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/wwim2Wc3DBM/hqdefault.jpg",
+        "video_id": "wwim2Wc3DBM",
+        "url": "https://www.youtube.com/watch?v=wwim2Wc3DBM",
+        "duration_seconds": 24,
+        "is_short": true
+      },
+      {
         "title": "🎊㊗️オリコン週間シングル３位㊗️🎊記念！！そらちゃんのダンスレクチャー💜#うぃずもあ のみなさん🌟たくさん踊ってね〜#MORESTAR#もあすた #WITHKAWAII",
         "published_at": "2026-09-07T03:27:14Z",
         "thumbnail_url": "https://i.ytimg.com/vi/fu_A72i_hdI/hqdefault.jpg",
@@ -912,15 +921,6 @@
         "url": "https://www.youtube.com/watch?v=_UyDVIdUXzc",
         "duration_seconds": 215,
         "is_short": false
-      },
-      {
-        "title": "大緊張の#もあすた 初めての私物サイン会✨🖍️#うぃずもあ#MORESTAR #WITHKAWAII",
-        "published_at": "2026-08-15T13:48:26Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/snPaE2ZBVHE/hqdefault.jpg",
-        "video_id": "snPaE2ZBVHE",
-        "url": "https://www.youtube.com/watch?v=snPaE2ZBVHE",
-        "duration_seconds": 17,
-        "is_short": true
       }
     ]
   }
