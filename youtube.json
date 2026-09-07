@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "#31 ㊗️番組4周年🎉櫻井・松本・早瀬でぷっくりシールづくり💚🩷💛【集まれ☆ふるっぱー！】",
+        "published_at": "2026-09-07T08:20:22Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Cz9Ud-KUzBc/hqdefault_live.jpg",
+        "video_id": "Cz9Ud-KUzBc",
+        "url": "https://www.youtube.com/watch?v=Cz9Ud-KUzBc",
+        "duration_seconds": 0,
+        "is_short": false
+      },
+      {
         "title": "日常会話の様子です。いつも同じタイミングで話し出します。#真中まな #松本かれん #FRUITSZIPPER #ふるっぱー",
         "published_at": "2026-09-07T08:03:39Z",
         "thumbnail_url": "https://i.ytimg.com/vi/WNvBGlDFNao/hqdefault.jpg",
@@ -171,15 +180,6 @@
         "video_id": "eYScYsuCHeo",
         "url": "https://www.youtube.com/watch?v=eYScYsuCHeo",
         "duration_seconds": 29,
-        "is_short": true
-      },
-      {
-        "title": "3姉妹の名前は？❤️🩷🩵#月足天音 #松本かれん #真中まな#FRUITSZIPPER #ふるっぱー",
-        "published_at": "2026-09-01T12:14:10Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/q0nua7VRL_c/hqdefault.jpg",
-        "video_id": "q0nua7VRL_c",
-        "url": "https://www.youtube.com/watch?v=q0nua7VRL_c",
-        "duration_seconds": 20,
         "is_short": true
       }
     ]
