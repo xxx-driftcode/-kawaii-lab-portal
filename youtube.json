@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "CANDY TUNE Station🍬",
+        "published_at": "2026-09-07T04:00:28Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/qoMeaJYRJhk/hqdefault_live.jpg",
+        "video_id": "qoMeaJYRJhk",
+        "url": "https://www.youtube.com/watch?v=qoMeaJYRJhk",
+        "duration_seconds": 0,
+        "is_short": false
+      },
+      {
         "title": "【Cheering Guide】CANDY TUNE「総意♡So Free」",
         "published_at": "2026-09-05T12:00:11Z",
         "thumbnail_url": "https://i.ytimg.com/vi/jsL-V4TxQKQ/hqdefault.jpg",
@@ -356,15 +365,6 @@
         "video_id": "IcZ2IreAdjY",
         "url": "https://www.youtube.com/watch?v=IcZ2IreAdjY",
         "duration_seconds": 39,
-        "is_short": true
-      },
-      {
-        "title": "【#きゃーかす 即出しチッケム】うちらが総意❗️🩵💚🩷🧡♥️💜💙#CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-08-30T11:41:09Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/r-tHz8WiLTQ/hqdefault.jpg",
-        "video_id": "r-tHz8WiLTQ",
-        "url": "https://www.youtube.com/watch?v=r-tHz8WiLTQ",
-        "duration_seconds": 24,
         "is_short": true
       }
     ]
