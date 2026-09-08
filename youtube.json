@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【バトル】いけ❣️ねんりき💎🩷桜庭遥花＆テブリム(梅田みゆ🩵)ｼｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ🫧#アニポケ#キュートなキューたい#CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-08T03:00:29Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/5rvgbn-Nrvk/hqdefault.jpg",
+        "video_id": "5rvgbn-Nrvk",
+        "url": "https://www.youtube.com/watch?v=5rvgbn-Nrvk",
+        "duration_seconds": 30,
+        "is_short": true
+      },
+      {
         "title": "Untitled video",
         "published_at": "2026-09-08T01:00:00Z",
         "thumbnail_url": "https://i.ytimg.com/vi/-0WbBUzP1pc/hqdefault.jpg",
@@ -725,15 +734,6 @@
         "thumbnail_url": "https://i.ytimg.com/vi/LEQYof0yYlY/hqdefault.jpg",
         "video_id": "LEQYof0yYlY",
         "url": "https://www.youtube.com/watch?v=LEQYof0yYlY",
-        "duration_seconds": 100,
-        "is_short": false
-      },
-      {
-        "title": "【#23】ばぁ【CUTIE STREET SHORT DOCUMENTARY】",
-        "published_at": "2026-09-05T08:56:26Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/0CY8o466NYw/hqdefault.jpg",
-        "video_id": "0CY8o466NYw",
-        "url": "https://www.youtube.com/watch?v=0CY8o466NYw",
         "duration_seconds": 100,
         "is_short": false
       }
