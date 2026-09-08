@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "Untitled video",
+        "published_at": "2026-09-08T01:00:00Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/-0WbBUzP1pc/hqdefault.jpg",
+        "video_id": "-0WbBUzP1pc",
+        "url": "https://www.youtube.com/watch?v=-0WbBUzP1pc",
+        "duration_seconds": 13,
+        "is_short": true
+      },
+      {
         "title": "彩乃ちゃん、何があったの？？？😭 #増田彩乃 #キュートなキューたい #CUTIESTREET",
         "published_at": "2026-09-07T13:30:19Z",
         "thumbnail_url": "https://i.ytimg.com/vi/dlcgNSLuL-k/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "0CY8o466NYw",
         "url": "https://www.youtube.com/watch?v=0CY8o466NYw",
         "duration_seconds": 100,
-        "is_short": false
-      },
-      {
-        "title": "【#22】密着っすか？【CUTIE STREET SHORT DOCUMENTARY】",
-        "published_at": "2026-09-05T08:56:03Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/1rfI9QpVruc/hqdefault.jpg",
-        "video_id": "1rfI9QpVruc",
-        "url": "https://www.youtube.com/watch?v=1rfI9QpVruc",
-        "duration_seconds": 286,
         "is_short": false
       }
     ]
