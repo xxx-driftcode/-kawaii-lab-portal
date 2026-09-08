@@ -188,9 +188,18 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "ライブってみんな一緒じゃドキドキしないよねいろんななったんを観にきてね✨🧡南なつ チッケム🧡🍬CANDY TUNE🍬『総意♡So Free』　#きゃーかす　#CANDYTUNE #きゃんちゅー",
+        "published_at": "2026-09-08T11:56:54Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/DBrU4PI_6uc/hqdefault.jpg",
+        "video_id": "DBrU4PI_6uc",
+        "url": "https://www.youtube.com/watch?v=DBrU4PI_6uc",
+        "duration_seconds": 12,
+        "is_short": true
+      },
+      {
         "title": "9月8日(火)  CANDY TUNE 4thシングル『総意♡So Free / スペシャル感謝祭』オンラインサイン会",
-        "published_at": "2026-09-08T11:41:35Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/HGEKbMnVF04/hqdefault_live.jpg",
+        "published_at": "2026-09-08T11:53:59Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/HGEKbMnVF04/hqdefault.jpg",
         "video_id": "HGEKbMnVF04",
         "url": "https://www.youtube.com/watch?v=HGEKbMnVF04",
         "duration_seconds": 13344,
@@ -356,15 +365,6 @@
         "video_id": "cPmMoPq6UwE",
         "url": "https://www.youtube.com/watch?v=cPmMoPq6UwE",
         "duration_seconds": 38,
-        "is_short": true
-      },
-      {
-        "title": "『意見、まとめてこ？』 #CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-08-31T13:30:59Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Phn7c6wS2w0/hqdefault.jpg",
-        "video_id": "Phn7c6wS2w0",
-        "url": "https://www.youtube.com/watch?v=Phn7c6wS2w0",
-        "duration_seconds": 29,
         "is_short": true
       }
     ]
