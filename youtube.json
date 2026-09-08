@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "こっち見ないで…(/// ^///) #古澤里紗 #CUTIESTREET #キュートなキューたい #きゅーすと",
+        "published_at": "2026-09-08T13:30:02Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/dmQ4ho74P78/hqdefault.jpg",
+        "video_id": "dmQ4ho74P78",
+        "url": "https://www.youtube.com/watch?v=dmQ4ho74P78",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "みんなは #きゅーすと のどんな動画が見たいのー？ #キュートなキューたい #CUTIESTREET",
         "published_at": "2026-09-08T11:27:30Z",
         "thumbnail_url": "https://i.ytimg.com/vi/Dj5EePCLoDU/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=x2fWv4MrWz8",
         "duration_seconds": 60,
         "is_short": true
-      },
-      {
-        "title": "【#26】ぶちかまし【CUTIE STREET SHORT DOCUMENTARY】",
-        "published_at": "2026-09-05T08:57:35Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/c6ixry9Q9_M/hqdefault.jpg",
-        "video_id": "c6ixry9Q9_M",
-        "url": "https://www.youtube.com/watch?v=c6ixry9Q9_M",
-        "duration_seconds": 217,
-        "is_short": false
       }
     ]
   },
