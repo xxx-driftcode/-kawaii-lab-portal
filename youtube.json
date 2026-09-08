@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "みんなは #きゅーすと のどんな動画が見たいのー？ #キュートなキューたい #CUTIESTREET",
+        "published_at": "2026-09-08T11:27:30Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Dj5EePCLoDU/hqdefault.jpg",
+        "video_id": "Dj5EePCLoDU",
+        "url": "https://www.youtube.com/watch?v=Dj5EePCLoDU",
+        "duration_seconds": 17,
+        "is_short": true
+      },
+      {
         "title": "今の世の中に足りないもの #ホメマクリズム #板倉可奈 #佐野愛花 #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-08T09:12:22Z",
         "thumbnail_url": "https://i.ytimg.com/vi/zWXKI2omyoA/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "c6ixry9Q9_M",
         "url": "https://www.youtube.com/watch?v=c6ixry9Q9_M",
         "duration_seconds": 217,
-        "is_short": false
-      },
-      {
-        "title": "【#28】1週間あったら【CUTIE STREET SHORT DOCUMENTARY】",
-        "published_at": "2026-09-05T08:57:31Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/nCI1sG9JmV8/hqdefault.jpg",
-        "video_id": "nCI1sG9JmV8",
-        "url": "https://www.youtube.com/watch?v=nCI1sG9JmV8",
-        "duration_seconds": 126,
         "is_short": false
       }
     ]
