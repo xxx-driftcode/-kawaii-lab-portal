@@ -743,6 +743,24 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "#12【4人回🌙】中山🩶森田🩷萩田💜高梨🩵食欲の秋SP🍔【キラッと！もあすた】",
+        "published_at": "2026-09-08T09:35:43Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Hfvur7px0yc/hqdefault_live.jpg",
+        "video_id": "Hfvur7px0yc",
+        "url": "https://www.youtube.com/watch?v=Hfvur7px0yc",
+        "duration_seconds": 0,
+        "is_short": false
+      },
+      {
+        "title": "なな花って笑うとこれ☺️💛#笹原なな花 #MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-08T09:35:37Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/APJdTYq3xmU/hqdefault.jpg",
+        "video_id": "APJdTYq3xmU",
+        "url": "https://www.youtube.com/watch?v=APJdTYq3xmU",
+        "duration_seconds": 23,
+        "is_short": true
+      },
+      {
         "title": "角煮ネキだよ！！🩵#高梨ゆな #MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-08T07:30:44Z",
         "thumbnail_url": "https://i.ytimg.com/vi/jhjO9WzIQsw/hqdefault.jpg",
@@ -903,24 +921,6 @@
         "url": "https://www.youtube.com/watch?v=H0Eg8maoF48",
         "duration_seconds": 297,
         "is_short": false
-      },
-      {
-        "title": "ひよこちゃん🐣💜#萩田そら #ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-08-24T05:42:32Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/k3bu-c-ZakQ/hqdefault.jpg",
-        "video_id": "k3bu-c-ZakQ",
-        "url": "https://www.youtube.com/watch?v=k3bu-c-ZakQ",
-        "duration_seconds": 14,
-        "is_short": true
-      },
-      {
-        "title": "もあすたいようのここにゃん☀️🧡#新井心菜(MORESTAR) #ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-08-22T23:26:41Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/BUFKspPpLR0/hqdefault.jpg",
-        "video_id": "BUFKspPpLR0",
-        "url": "https://www.youtube.com/watch?v=BUFKspPpLR0",
-        "duration_seconds": 14,
-        "is_short": true
       }
     ]
   }
