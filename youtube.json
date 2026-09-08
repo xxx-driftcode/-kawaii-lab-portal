@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "なにしてるの？ #板倉可奈 #川本笑瑠",
+        "published_at": "2026-09-08T07:13:21Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/StqRnLWvh4E/hqdefault.jpg",
+        "video_id": "StqRnLWvh4E",
+        "url": "https://www.youtube.com/watch?v=StqRnLWvh4E",
+        "duration_seconds": 13,
+        "is_short": true
+      },
+      {
         "title": "【バトル】いけ❣️ねんりき💎🩷桜庭遥花＆テブリム(梅田みゆ🩵)ｼｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰｰ🫧#アニポケ#キュートなキューたい#CUTIESTREET #きゅーすと",
         "published_at": "2026-09-08T03:00:29Z",
         "thumbnail_url": "https://i.ytimg.com/vi/5rvgbn-Nrvk/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "g2gWhfx96JQ",
         "url": "https://www.youtube.com/watch?v=g2gWhfx96JQ",
         "duration_seconds": 112,
-        "is_short": false
-      },
-      {
-        "title": "【#29】サイアク!!【CUTIE STREET SHORT DOCUMENTARY】",
-        "published_at": "2026-09-05T08:56:55Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/LEQYof0yYlY/hqdefault.jpg",
-        "video_id": "LEQYof0yYlY",
-        "url": "https://www.youtube.com/watch?v=LEQYof0yYlY",
-        "duration_seconds": 100,
         "is_short": false
       }
     ]
