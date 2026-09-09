@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "【ハムハム共和国】本日も国王が麗しい👑🐹💜 #仲川瑠夏#センセーション#FRUITSZIPPER#ふるっぱー",
+        "published_at": "2026-09-09T09:27:53Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/X3ZN5k1S1TQ/hqdefault.jpg",
+        "video_id": "X3ZN5k1S1TQ",
+        "url": "https://www.youtube.com/watch?v=X3ZN5k1S1TQ",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "月足天音「#秘密のアティチュード」Visual Film🗝️#FRUITSZIPPER#ふるっぱー #フルーツジッパー",
         "published_at": "2026-09-09T07:28:02Z",
         "thumbnail_url": "https://i.ytimg.com/vi/Ey4Wr71t7js/hqdefault.jpg",
@@ -171,15 +180,6 @@
         "video_id": "14vUK-yeM6M",
         "url": "https://www.youtube.com/watch?v=14vUK-yeM6M",
         "duration_seconds": 18,
-        "is_short": true
-      },
-      {
-        "title": "早瀬ノエル「#秘密のアティチュード」Visual Film. 🚪🗝️💛#FRUITSZIPPER#ふるっぱー #フルーツジッパー",
-        "published_at": "2026-09-04T12:00:29Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/8fBerdqBlWw/hqdefault.jpg",
-        "video_id": "8fBerdqBlWw",
-        "url": "https://www.youtube.com/watch?v=8fBerdqBlWw",
-        "duration_seconds": 17,
         "is_short": true
       }
     ]
