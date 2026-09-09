@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "機嫌がいい日の歩き方これ#DASH!!! #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-09T13:00:05Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZHYtt2gROI8/hqdefault.jpg",
+        "video_id": "ZHYtt2gROI8",
+        "url": "https://www.youtube.com/watch?v=ZHYtt2gROI8",
+        "duration_seconds": 9,
+        "is_short": true
+      },
+      {
         "title": "こんなにおしゃれなアイドル楽曲が❕🪩 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-09T09:00:34Z",
         "thumbnail_url": "https://i.ytimg.com/vi/1Q2tRet_MYA/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "dnzjMvcFz1g",
         "url": "https://www.youtube.com/watch?v=dnzjMvcFz1g",
         "duration_seconds": 17,
-        "is_short": true
-      },
-      {
-        "title": "最後の一曲は… #始まりの合図 💐✨ #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-05T09:00:35Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/qWJzr217sOs/hqdefault.jpg",
-        "video_id": "qWJzr217sOs",
-        "url": "https://www.youtube.com/watch?v=qWJzr217sOs",
-        "duration_seconds": 50,
         "is_short": true
       }
     ]
