@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "あし長っっっ #増田彩乃 #桜庭遥花 #キュートなキューたい",
+        "published_at": "2026-09-09T08:38:49Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/ikKOaIqvE20/hqdefault.jpg",
+        "video_id": "ikKOaIqvE20",
+        "url": "https://www.youtube.com/watch?v=ikKOaIqvE20",
+        "duration_seconds": 38,
+        "is_short": true
+      },
+      {
         "title": "こっち見ないで…(/// ^///) #古澤里紗 #CUTIESTREET #キュートなキューたい #きゅーすと",
         "published_at": "2026-09-08T13:30:02Z",
         "thumbnail_url": "https://i.ytimg.com/vi/dmQ4ho74P78/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=PIuMSiO63Jc",
         "duration_seconds": 243,
         "is_short": false
-      },
-      {
-        "title": "【#21】彩乃のペット【CUTIE STREET SHORT DOCUMENTARY】",
-        "published_at": "2026-09-05T08:57:39Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/x2fWv4MrWz8/hqdefault.jpg",
-        "video_id": "x2fWv4MrWz8",
-        "url": "https://www.youtube.com/watch?v=x2fWv4MrWz8",
-        "duration_seconds": 60,
-        "is_short": true
       }
     ]
   },
