@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "こんなにおしゃれなアイドル楽曲が❕🪩 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-09T09:00:34Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/1Q2tRet_MYA/hqdefault.jpg",
+        "video_id": "1Q2tRet_MYA",
+        "url": "https://www.youtube.com/watch?v=1Q2tRet_MYA",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "学校に住み着く可愛すぎる悪霊？👻🖤 #気味が悪いんだからねっ #奥田彩友 #栗田なつか #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-09T07:00:13Z",
         "thumbnail_url": "https://i.ytimg.com/vi/P0bGDNSB6ts/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "qWJzr217sOs",
         "url": "https://www.youtube.com/watch?v=qWJzr217sOs",
         "duration_seconds": 50,
-        "is_short": true
-      },
-      {
-        "title": "【リリイベin埼玉】に集まってくれたみんなとSWEET STEP🌈 #SWEETSTEADY #すいすて #SWEETSTEP",
-        "published_at": "2026-09-05T07:00:21Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/vhezosYWfLY/hqdefault.jpg",
-        "video_id": "vhezosYWfLY",
-        "url": "https://www.youtube.com/watch?v=vhezosYWfLY",
-        "duration_seconds": 24,
         "is_short": true
       }
     ]
