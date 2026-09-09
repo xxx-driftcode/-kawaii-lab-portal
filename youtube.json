@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "FRUITS ZIPPERの楽屋、覗いちゃう？【裏側】",
+        "published_at": "2026-09-09T11:00:34Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/CQim9dc-zXQ/hqdefault.jpg",
+        "video_id": "CQim9dc-zXQ",
+        "url": "https://www.youtube.com/watch?v=CQim9dc-zXQ",
+        "duration_seconds": 277,
+        "is_short": false
+      },
+      {
         "title": "【ハムハム共和国】本日も国王が麗しい👑🐹💜 #仲川瑠夏#センセーション#FRUITSZIPPER#ふるっぱー",
         "published_at": "2026-09-09T09:27:53Z",
         "thumbnail_url": "https://i.ytimg.com/vi/X3ZN5k1S1TQ/hqdefault.jpg",
@@ -171,15 +180,6 @@
         "video_id": "iYrb-mjaZJM",
         "url": "https://www.youtube.com/watch?v=iYrb-mjaZJM",
         "duration_seconds": 16,
-        "is_short": true
-      },
-      {
-        "title": "優衣ちゃん、後ろ！後ろ！#櫻井優衣 #仲川瑠夏 #センセーション #FRUITSZIPPER #ふるっぱー",
-        "published_at": "2026-09-04T13:10:23Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/14vUK-yeM6M/hqdefault.jpg",
-        "video_id": "14vUK-yeM6M",
-        "url": "https://www.youtube.com/watch?v=14vUK-yeM6M",
-        "duration_seconds": 18,
         "is_short": true
       }
     ]
@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "機嫌が悪い赤ちゃん #板倉可奈 #キュートなキューたい #CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-09T11:00:01Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/1ESzYM0T2ag/hqdefault.jpg",
+        "video_id": "1ESzYM0T2ag",
+        "url": "https://www.youtube.com/watch?v=1ESzYM0T2ag",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "あし長っっっ #増田彩乃 #桜庭遥花 #キュートなキューたい",
         "published_at": "2026-09-09T08:38:49Z",
         "thumbnail_url": "https://i.ytimg.com/vi/ikKOaIqvE20/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=-89Fg0TQ3MM",
         "duration_seconds": 51,
         "is_short": true
-      },
-      {
-        "title": "【#20】ツアーファイナル!!【CUTIE STREET SHORT DOCUMENTARY】",
-        "published_at": "2026-09-05T08:57:43Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/PIuMSiO63Jc/hqdefault.jpg",
-        "video_id": "PIuMSiO63Jc",
-        "url": "https://www.youtube.com/watch?v=PIuMSiO63Jc",
-        "duration_seconds": 243,
-        "is_short": false
       }
     ]
   },
