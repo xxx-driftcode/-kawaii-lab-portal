@@ -373,6 +373,24 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "「気味が悪いんだからねっ」MVメイキング映像公開👻🖤 #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-10T11:00:33Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/0Ea4fhtf48E/hqdefault.jpg",
+        "video_id": "0Ea4fhtf48E",
+        "url": "https://www.youtube.com/watch?v=0Ea4fhtf48E",
+        "duration_seconds": 33,
+        "is_short": true
+      },
+      {
+        "title": "【MV裏側】SWEET STEADY「気味が悪いんだからねっ」MVメイキング映像",
+        "published_at": "2026-09-10T11:00:07Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/aq8W9ylZs6w/hqdefault.jpg",
+        "video_id": "aq8W9ylZs6w",
+        "url": "https://www.youtube.com/watch?v=aq8W9ylZs6w",
+        "duration_seconds": 1142,
+        "is_short": false
+      },
+      {
         "title": "aoen 琉楓( #RUKA )さん・雅久( #GAKU )さんとSWEET STEP💙 #aoen #SWEETSTEADY #SWEETSTEP #庄司なぎさ #栗田なつか",
         "published_at": "2026-09-10T07:00:28Z",
         "thumbnail_url": "https://i.ytimg.com/vi/dLjA4J8bKi8/hqdefault.jpg",
@@ -533,24 +551,6 @@
         "url": "https://www.youtube.com/watch?v=rbsCibysGYU",
         "duration_seconds": 17,
         "is_short": true
-      },
-      {
-        "title": "みんなで作るHAPPYな時間🌈🎶 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-06T03:00:27Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/bVTRl7qRx04/hqdefault.jpg",
-        "video_id": "bVTRl7qRx04",
-        "url": "https://www.youtube.com/watch?v=bVTRl7qRx04",
-        "duration_seconds": 44,
-        "is_short": true
-      },
-      {
-        "title": "【ダイジェスト】9/5(土)『3rdシングル SWEET STEP 発売記念リリースイベント』📍埼玉県 エミテラス所沢2F TOKOROZAWA e-CUBE",
-        "published_at": "2026-09-06T00:30:13Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/iRpoAVmb8Ek/hqdefault.jpg",
-        "video_id": "iRpoAVmb8Ek",
-        "url": "https://www.youtube.com/watch?v=iRpoAVmb8Ek",
-        "duration_seconds": 84,
-        "is_short": false
       }
     ]
   },
