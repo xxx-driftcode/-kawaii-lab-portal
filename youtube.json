@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "ぐるぐるな #ちょーだいHAPPY！ 💫 #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-10T13:00:06Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/rVJ7MZoZptM/hqdefault.jpg",
+        "video_id": "rVJ7MZoZptM",
+        "url": "https://www.youtube.com/watch?v=rVJ7MZoZptM",
+        "duration_seconds": 21,
+        "is_short": true
+      },
+      {
         "title": "「気味が悪いんだからねっ」MVメイキング映像公開👻🖤 #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-10T11:00:33Z",
         "thumbnail_url": "https://i.ytimg.com/vi/0Ea4fhtf48E/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "KvgZ_kCArNo",
         "url": "https://www.youtube.com/watch?v=KvgZ_kCArNo",
         "duration_seconds": 26,
-        "is_short": true
-      },
-      {
-        "title": "#ちょーだいHAPPY！ で目覚める信号チーム⏰🚦 #奥田彩友 #山内咲奈 #白石まゆみ #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-06T05:00:02Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/rbsCibysGYU/hqdefault.jpg",
-        "video_id": "rbsCibysGYU",
-        "url": "https://www.youtube.com/watch?v=rbsCibysGYU",
-        "duration_seconds": 17,
         "is_short": true
       }
     ]
