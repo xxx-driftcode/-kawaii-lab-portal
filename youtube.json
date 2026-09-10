@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【Shooting LIVE】ぷりきゅきゅ KOREAN ver【CUTIE STREET】",
+        "published_at": "2026-09-10T13:28:26Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/hWnIk0yTHag/hqdefault.jpg",
+        "video_id": "hWnIk0yTHag",
+        "url": "https://www.youtube.com/watch?v=hWnIk0yTHag",
+        "duration_seconds": 233,
+        "is_short": false
+      },
+      {
         "title": "かなちゃんwwwww #キュートなキューたい #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-10T08:35:14Z",
         "thumbnail_url": "https://i.ytimg.com/vi/7IkbI91GjVI/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=B4q-aHghAro",
         "duration_seconds": 1383,
         "is_short": false
-      },
-      {
-        "title": "ﾋﾟｷﾞｬｱｱｱｱｱｱｱｱ!!!  #Error404♡ #CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-06T07:04:59Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/qt_abBe1cbM/hqdefault.jpg",
-        "video_id": "qt_abBe1cbM",
-        "url": "https://www.youtube.com/watch?v=qt_abBe1cbM",
-        "duration_seconds": 14,
-        "is_short": true
       }
     ]
   },
