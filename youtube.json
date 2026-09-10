@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "🐙なにわの意見、まとめてこ？🐙 #きゃーかす #総意SoFree#CANDYTUNE #きゃんちゅー",
+        "published_at": "2026-09-10T01:38:11Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/dNYZKQewQfM/hqdefault.jpg",
+        "video_id": "dNYZKQewQfM",
+        "url": "https://www.youtube.com/watch?v=dNYZKQewQfM",
+        "duration_seconds": 30,
+        "is_short": true
+      },
+      {
         "title": "創意で描く未来✨みんなライブで未来創っちゃお💪💙桐原美月 チッケム💙🍬CANDY TUNE🍬『総意♡So Free』#きゃーかす#CANDYTUNE #きゃんちゅー",
         "published_at": "2026-09-09T02:00:42Z",
         "thumbnail_url": "https://i.ytimg.com/vi/8KprDmuWO1A/hqdefault.jpg",
@@ -356,15 +365,6 @@
         "video_id": "MLoab9LGNS0",
         "url": "https://www.youtube.com/watch?v=MLoab9LGNS0",
         "duration_seconds": 35,
-        "is_short": true
-      },
-      {
-        "title": "#CDTVライブライブ にて #TOMORROW_X_TOGETHER さん✨🙌《総意♡So Free》🙌✨SOOBINさん🎆ありがとうございました🥳💚小川奈々子♥️立花琴未",
-        "published_at": "2026-09-02T09:59:02Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/MKtv_OjQDuU/hqdefault.jpg",
-        "video_id": "MKtv_OjQDuU",
-        "url": "https://www.youtube.com/watch?v=MKtv_OjQDuU",
-        "duration_seconds": 21,
         "is_short": true
       }
     ]
