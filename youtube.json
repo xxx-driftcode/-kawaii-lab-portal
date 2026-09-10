@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "めろからのお願い🩶#中山こはく#ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-10T02:22:18Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/vlU0uIaiq_E/hqdefault.jpg",
+        "video_id": "vlU0uIaiq_E",
+        "url": "https://www.youtube.com/watch?v=vlU0uIaiq_E",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "ちょっと跳ねるゆなしにかわいいちょーだい？🩵#高梨ゆな #ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-09T05:27:19Z",
         "thumbnail_url": "https://i.ytimg.com/vi/QDtx-GhX_0I/hqdefault.jpg",
@@ -911,15 +920,6 @@
         "video_id": "7NQE2s-nvD0",
         "url": "https://www.youtube.com/watch?v=7NQE2s-nvD0",
         "duration_seconds": 864,
-        "is_short": false
-      },
-      {
-        "title": "【開封動画】MORE STAR はじめてのCD開封",
-        "published_at": "2026-08-27T14:23:28Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/jiyp29SN_mY/hqdefault.jpg",
-        "video_id": "jiyp29SN_mY",
-        "url": "https://www.youtube.com/watch?v=jiyp29SN_mY",
-        "duration_seconds": 508,
         "is_short": false
       }
     ]
