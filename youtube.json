@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "櫻井優衣「#秘密のアティチュード」Visual Film🗝️ #FRUITSZIPPER#ふるっぱー #フルーツジッパー",
+        "published_at": "2026-09-10T06:00:24Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/QKWRMhMfxOc/hqdefault.jpg",
+        "video_id": "QKWRMhMfxOc",
+        "url": "https://www.youtube.com/watch?v=QKWRMhMfxOc",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "ノエちゃん遊びたいシリーズ🕺✨#櫻井優衣 #早瀬ノエル #FRUITSZIPPER #ふるっぱー",
         "published_at": "2026-09-09T12:01:22Z",
         "thumbnail_url": "https://i.ytimg.com/vi/PEew5Bx2OE8/hqdefault.jpg",
@@ -172,15 +181,6 @@
         "url": "https://www.youtube.com/watch?v=up71C_jt_Lw",
         "duration_seconds": 848,
         "is_short": false
-      },
-      {
-        "title": "かえる組センセーション🐸🩷💛 #松本かれん #早瀬ノエル #FRUITSZIPPER#ふるっぱー #フルーツジッパー",
-        "published_at": "2026-09-05T09:05:58Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/I2a_O2fnKJI/hqdefault.jpg",
-        "video_id": "I2a_O2fnKJI",
-        "url": "https://www.youtube.com/watch?v=I2a_O2fnKJI",
-        "duration_seconds": 13,
-        "is_short": true
       }
     ]
   },
