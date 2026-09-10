@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "てゆうか横顔キレイ #増田彩乃 #真鍋凪咲 #CUTIESTREET",
+        "published_at": "2026-09-10T01:00:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/edRguW2AaSM/hqdefault.jpg",
+        "video_id": "edRguW2AaSM",
+        "url": "https://www.youtube.com/watch?v=edRguW2AaSM",
+        "duration_seconds": 50,
+        "is_short": true
+      },
+      {
         "title": "機嫌が悪い赤ちゃん #板倉可奈 #キュートなキューたい #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-09T11:00:01Z",
         "thumbnail_url": "https://i.ytimg.com/vi/1ESzYM0T2ag/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "Jo3ekGX5kXw",
         "url": "https://www.youtube.com/watch?v=Jo3ekGX5kXw",
         "duration_seconds": 23,
-        "is_short": true
-      },
-      {
-        "title": "【対決】数字当てゲームやってみたら…www #増田彩乃 #佐野愛花 #CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-05T09:20:09Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/-89Fg0TQ3MM/hqdefault.jpg",
-        "video_id": "-89Fg0TQ3MM",
-        "url": "https://www.youtube.com/watch?v=-89Fg0TQ3MM",
-        "duration_seconds": 51,
         "is_short": true
       }
     ]
