@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "ここにゃんに、かわいいちょうだい🧡#新井心菜#ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-10T09:43:11Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/ybycUJVLEfY/hqdefault.jpg",
+        "video_id": "ybycUJVLEfY",
+        "url": "https://www.youtube.com/watch?v=ybycUJVLEfY",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "めろからのお願い🩶#中山こはく#ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-10T02:22:18Z",
         "thumbnail_url": "https://i.ytimg.com/vi/vlU0uIaiq_E/hqdefault.jpg",
@@ -912,15 +921,6 @@
         "url": "https://www.youtube.com/watch?v=dP1F8PcjHOE",
         "duration_seconds": 14,
         "is_short": true
-      },
-      {
-        "title": "【1日密着】8/26(水) MORE STAR 1st シングルCD リリース日 密着映像",
-        "published_at": "2026-08-29T06:00:01Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/7NQE2s-nvD0/hqdefault.jpg",
-        "video_id": "7NQE2s-nvD0",
-        "url": "https://www.youtube.com/watch?v=7NQE2s-nvD0",
-        "duration_seconds": 864,
-        "is_short": false
       }
     ]
   }
