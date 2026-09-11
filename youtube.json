@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "それでも私は凪咲を愛してる #キュートなキューたい #CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-11T10:13:57Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/zQ6tLz35X3k/hqdefault.jpg",
+        "video_id": "zQ6tLz35X3k",
+        "url": "https://www.youtube.com/watch?v=zQ6tLz35X3k",
+        "duration_seconds": 14,
+        "is_short": true
+      },
+      {
         "title": "【Shooting LIVE】ぷりきゅきゅ KOREAN ver【CUTIE STREET】",
         "published_at": "2026-09-10T13:28:26Z",
         "thumbnail_url": "https://i.ytimg.com/vi/hWnIk0yTHag/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=MGVp7Biuq-c",
         "duration_seconds": 29,
         "is_short": true
-      },
-      {
-        "title": "【MV裏側密着】CUTIE STREET「Error404♡」メイキング映像",
-        "published_at": "2026-09-06T11:00:07Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/B4q-aHghAro/hqdefault.jpg",
-        "video_id": "B4q-aHghAro",
-        "url": "https://www.youtube.com/watch?v=B4q-aHghAro",
-        "duration_seconds": 1383,
-        "is_short": false
       }
     ]
   },
