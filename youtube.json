@@ -373,6 +373,24 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【ライブ映像公開】『気味が悪いんだからねっ』👻🖤 #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-11T11:00:29Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/88kx2FvKca4/hqdefault.jpg",
+        "video_id": "88kx2FvKca4",
+        "url": "https://www.youtube.com/watch?v=88kx2FvKca4",
+        "duration_seconds": 34,
+        "is_short": true
+      },
+      {
+        "title": "【ライブ映像】SWEET STEADY『気味が悪いんだからねっ』",
+        "published_at": "2026-09-11T11:00:25Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Oj3aE8CmaNg/hqdefault.jpg",
+        "video_id": "Oj3aE8CmaNg",
+        "url": "https://www.youtube.com/watch?v=Oj3aE8CmaNg",
+        "duration_seconds": 222,
+        "is_short": false
+      },
+      {
         "title": "#ちょーだいHAPPY！ 永遠⁉️ ver. #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-11T09:00:32Z",
         "thumbnail_url": "https://i.ytimg.com/vi/3F5-3pTpVY0/hqdefault.jpg",
@@ -532,24 +550,6 @@
         "video_id": "POKLTzxwoFE",
         "url": "https://www.youtube.com/watch?v=POKLTzxwoFE",
         "duration_seconds": 22,
-        "is_short": true
-      },
-      {
-        "title": "ハーッ！？💛👻 #気味が悪いんだからねっ #山内咲奈 #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-07T07:00:37Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/4LVayObvLys/hqdefault.jpg",
-        "video_id": "4LVayObvLys",
-        "url": "https://www.youtube.com/watch?v=4LVayObvLys",
-        "duration_seconds": 27,
-        "is_short": true
-      },
-      {
-        "title": "特別に見せてあげる❕📸💞 #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-07T05:30:15Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/oEaLa6RZm0I/hqdefault.jpg",
-        "video_id": "oEaLa6RZm0I",
-        "url": "https://www.youtube.com/watch?v=oEaLa6RZm0I",
-        "duration_seconds": 9,
         "is_short": true
       }
     ]
