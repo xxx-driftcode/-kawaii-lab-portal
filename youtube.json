@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "マネキンチャレンジ #CUTIESTREET #きゅーすと #キュートなキューたい",
+        "published_at": "2026-09-11T12:50:43Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/sASfVxYC2cc/hqdefault.jpg",
+        "video_id": "sASfVxYC2cc",
+        "url": "https://www.youtube.com/watch?v=sASfVxYC2cc",
+        "duration_seconds": 59,
+        "is_short": true
+      },
+      {
         "title": "それでも私は凪咲を愛してる #キュートなキューたい #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-11T10:13:57Z",
         "thumbnail_url": "https://i.ytimg.com/vi/zQ6tLz35X3k/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "U92JSAl_pEE",
         "url": "https://www.youtube.com/watch?v=U92JSAl_pEE",
         "duration_seconds": 37,
-        "is_short": true
-      },
-      {
-        "title": "いいえ、産んだのはあたし。 #CUTIESTREET #きゅーすと #桜庭遥花 #川本笑瑠",
-        "published_at": "2026-09-06T11:05:25Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/MGVp7Biuq-c/hqdefault.jpg",
-        "video_id": "MGVp7Biuq-c",
-        "url": "https://www.youtube.com/watch?v=MGVp7Biuq-c",
-        "duration_seconds": 29,
         "is_short": true
       }
     ]
