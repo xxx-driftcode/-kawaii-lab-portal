@@ -761,15 +761,6 @@
       },
       {
         "month": "09",
-        "day": "03",
-        "day_of_week": "THU",
-        "category": "EVENT",
-        "title": "『SBI証券 presents TGC 北九州 2026』（村川緋杏・立花琴未）",
-        "url": "https://candytune.asobisystem.com/live_information/detail/44547",
-        "year": "2026"
-      },
-      {
-        "month": "09",
         "day": "04",
         "day_of_week": "FRI",
         "category": "LIVE",
@@ -964,6 +955,15 @@
         "category": "LIVE",
         "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」栃木公演",
         "url": "https://candytune.asobisystem.com/live_information/detail/40730",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "10",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "『SBI証券 presents TGC 北九州 2026』（村川緋杏・立花琴未）",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44547",
         "year": "2026"
       },
       {
