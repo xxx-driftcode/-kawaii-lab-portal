@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "#NiziU の #MAYUKA さんとセンセーション👻ありがとうございました💛#FRUITSZIPPER #ふるっぱー#早瀬ノエル",
+        "published_at": "2026-09-12T10:13:37Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Bvo0HYLBynA/hqdefault.jpg",
+        "video_id": "Bvo0HYLBynA",
+        "url": "https://www.youtube.com/watch?v=Bvo0HYLBynA",
+        "duration_seconds": 19,
+        "is_short": true
+      },
+      {
         "title": "TOMAKOMAI MIRAI FEST 2026 ありがとうございました✨#TMF2026#ミライフェスト#FRUITSZIPPER #フルーツジッパー #ふるっぱー",
         "published_at": "2026-09-12T08:47:02Z",
         "thumbnail_url": "https://i.ytimg.com/vi/mXO7Z_e5iaQ/hqdefault.jpg",
@@ -172,21 +181,21 @@
         "url": "https://www.youtube.com/watch?v=vF363PsjQa4",
         "duration_seconds": 16,
         "is_short": true
-      },
-      {
-        "title": "#31 ㊗️番組4周年🎉櫻井・松本・早瀬でぷっくりシールづくり💚🩷💛【集まれ☆ふるっぱー！】",
-        "published_at": "2026-09-07T09:32:14Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Cz9Ud-KUzBc/hqdefault.jpg",
-        "video_id": "Cz9Ud-KUzBc",
-        "url": "https://www.youtube.com/watch?v=Cz9Ud-KUzBc",
-        "duration_seconds": 1736,
-        "is_short": false
       }
     ]
   },
   "candytune": {
     "name": "CANDY TUNE",
     "videos": [
+      {
+        "title": "ユニットリリースイベントありがとうございました♥️💚 《意見、まとめてこ？》 #CANDYTUNE #きゃんちゅー",
+        "published_at": "2026-09-12T10:08:11Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/2LVxQP5gPac/hqdefault.jpg",
+        "video_id": "2LVxQP5gPac",
+        "url": "https://www.youtube.com/watch?v=2LVxQP5gPac",
+        "duration_seconds": 25,
+        "is_short": true
+      },
       {
         "title": "🎪🎠 #きゃーかす 集合TikTok🎠🎪🗓️9/9(水)公演 大阪公演 Day1📍グランキューブ大阪 メインホール#CANDYTUNE #きゃんちゅー",
         "published_at": "2026-09-10T04:04:16Z",
@@ -356,15 +365,6 @@
         "video_id": "K6zgR77QQ6k",
         "url": "https://www.youtube.com/watch?v=K6zgR77QQ6k",
         "duration_seconds": 16,
-        "is_short": true
-      },
-      {
-        "title": "#きゃーかす 神奈川公演🎪ありがとうございました🍬 #CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-09-04T12:00:59Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/moV8XWreeA0/hqdefault.jpg",
-        "video_id": "moV8XWreeA0",
-        "url": "https://www.youtube.com/watch?v=moV8XWreeA0",
-        "duration_seconds": 25,
         "is_short": true
       }
     ]
