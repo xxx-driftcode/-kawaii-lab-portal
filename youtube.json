@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【MV Teaser】9/21(月)解禁New Music Video『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-12T11:00:04Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/wVKJ8l60Fh4/hqdefault.jpg",
+        "video_id": "wVKJ8l60Fh4",
+        "url": "https://www.youtube.com/watch?v=wVKJ8l60Fh4",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "金夜仕事から帰る時の歩き方これ #奥田彩友 #山内咲奈 #DASH!!! #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-12T09:00:28Z",
         "thumbnail_url": "https://i.ytimg.com/vi/FEAWZ_i4uzA/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "HvIHZiS8BFg",
         "url": "https://www.youtube.com/watch?v=HvIHZiS8BFg",
         "duration_seconds": 27,
-        "is_short": true
-      },
-      {
-        "title": "#センセーション ねぇ、アソぼ？🌹 #FRUITSZIPPER さん #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-08T09:16:47Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/GZKZm1zjUDQ/hqdefault.jpg",
-        "video_id": "GZKZm1zjUDQ",
-        "url": "https://www.youtube.com/watch?v=GZKZm1zjUDQ",
-        "duration_seconds": 13,
         "is_short": true
       }
     ]
