@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "なんでガラケーだけでこんな可愛いわけさ #桜庭遥花 #CUTIESTREET #Error404♡",
+        "published_at": "2026-09-12T04:00:36Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/cDhl2kPwO3w/hqdefault.jpg",
+        "video_id": "cDhl2kPwO3w",
+        "url": "https://www.youtube.com/watch?v=cDhl2kPwO3w",
+        "duration_seconds": 25,
+        "is_short": true
+      },
+      {
         "title": "マネキンチャレンジ #CUTIESTREET #きゅーすと #キュートなキューたい",
         "published_at": "2026-09-11T12:50:43Z",
         "thumbnail_url": "https://i.ytimg.com/vi/sASfVxYC2cc/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "QPBNqVSAVy4",
         "url": "https://www.youtube.com/watch?v=QPBNqVSAVy4",
         "duration_seconds": 30,
-        "is_short": true
-      },
-      {
-        "title": "これ言っちゃマズイよ…‼️‼️ #CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-06T13:17:43Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/U92JSAl_pEE/hqdefault.jpg",
-        "video_id": "U92JSAl_pEE",
-        "url": "https://www.youtube.com/watch?v=U92JSAl_pEE",
-        "duration_seconds": 37,
         "is_short": true
       }
     ]
