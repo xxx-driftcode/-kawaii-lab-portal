@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "なんで力いれんの❕ #ちょーだいHAPPY！ #塩川莉世 #山内咲奈  #SWEETSTEADY #すいすて #こけみ",
+        "published_at": "2026-09-12T07:00:19Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Uwr-QFj2Ljo/hqdefault.jpg",
+        "video_id": "Uwr-QFj2Ljo",
+        "url": "https://www.youtube.com/watch?v=Uwr-QFj2Ljo",
+        "duration_seconds": 21,
+        "is_short": true
+      },
+      {
         "title": "【 #Setlog 】MV撮影の1日🏫👻 #気味が悪いんだからねっ #こわかわ #SWEETSTEADY #すいすて #レッツゴー怪奇組",
         "published_at": "2026-09-12T05:00:39Z",
         "thumbnail_url": "https://i.ytimg.com/vi/3zfUGmF7xes/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "Pbbd1PvZuEk",
         "url": "https://www.youtube.com/watch?v=Pbbd1PvZuEk",
         "duration_seconds": 19,
-        "is_short": true
-      },
-      {
-        "title": "一緒に並んでスキップで🎶💞 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-07T11:02:27Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/v13oxmaHUms/hqdefault.jpg",
-        "video_id": "v13oxmaHUms",
-        "url": "https://www.youtube.com/watch?v=v13oxmaHUms",
-        "duration_seconds": 45,
         "is_short": true
       }
     ]
