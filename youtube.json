@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "金夜仕事から帰る時の歩き方これ #奥田彩友 #山内咲奈 #DASH!!! #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-12T09:00:28Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/FEAWZ_i4uzA/hqdefault.jpg",
+        "video_id": "FEAWZ_i4uzA",
+        "url": "https://www.youtube.com/watch?v=FEAWZ_i4uzA",
+        "duration_seconds": 12,
+        "is_short": true
+      },
+      {
         "title": "なんで力いれんの❕ #ちょーだいHAPPY！ #塩川莉世 #山内咲奈  #SWEETSTEADY #すいすて #こけみ",
         "published_at": "2026-09-12T07:00:19Z",
         "thumbnail_url": "https://i.ytimg.com/vi/Uwr-QFj2Ljo/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "GZKZm1zjUDQ",
         "url": "https://www.youtube.com/watch?v=GZKZm1zjUDQ",
         "duration_seconds": 13,
-        "is_short": true
-      },
-      {
-        "title": "学校で #こわかわダンス をしているお二人に遭遇🏫👻 #気味が悪いんだからねっ #音井結衣 #庄司なぎさ  #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-08T07:00:12Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Pbbd1PvZuEk/hqdefault.jpg",
-        "video_id": "Pbbd1PvZuEk",
-        "url": "https://www.youtube.com/watch?v=Pbbd1PvZuEk",
-        "duration_seconds": 19,
         "is_short": true
       }
     ]
