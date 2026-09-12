@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "ああなんだいつもの2人か #白石まゆみ #奥田彩友 #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-12T12:39:47Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/n40S0u7_Ti8/hqdefault.jpg",
+        "video_id": "n40S0u7_Ti8",
+        "url": "https://www.youtube.com/watch?v=n40S0u7_Ti8",
+        "duration_seconds": 11,
+        "is_short": true
+      },
+      {
         "title": "【MV Teaser】9/21(月)解禁New Music Video『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
         "published_at": "2026-09-12T11:00:04Z",
         "thumbnail_url": "https://i.ytimg.com/vi/wVKJ8l60Fh4/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "GO7KmjlG_qQ",
         "url": "https://www.youtube.com/watch?v=GO7KmjlG_qQ",
         "duration_seconds": 60,
-        "is_short": true
-      },
-      {
-        "title": "誰のわんつーすりーがいちばんこなれてますか❔🔢 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-08T11:00:27Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/HvIHZiS8BFg/hqdefault.jpg",
-        "video_id": "HvIHZiS8BFg",
-        "url": "https://www.youtube.com/watch?v=HvIHZiS8BFg",
-        "duration_seconds": 27,
         "is_short": true
       }
     ]
