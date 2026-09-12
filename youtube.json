@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【凱旋】海と、ぱると、キューたいと。 #CUTIESTREET #きゅーすと #キュートなキューたい",
+        "published_at": "2026-09-12T09:10:38Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/KAesWPUDxGg/hqdefault.jpg",
+        "video_id": "KAesWPUDxGg",
+        "url": "https://www.youtube.com/watch?v=KAesWPUDxGg",
+        "duration_seconds": 14,
+        "is_short": true
+      },
+      {
         "title": "なんでガラケーだけでこんな可愛いわけさ #桜庭遥花 #CUTIESTREET #Error404♡",
         "published_at": "2026-09-12T04:00:36Z",
         "thumbnail_url": "https://i.ytimg.com/vi/cDhl2kPwO3w/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "g-RYuc_YYfg",
         "url": "https://www.youtube.com/watch?v=g-RYuc_YYfg",
         "duration_seconds": 13,
-        "is_short": true
-      },
-      {
-        "title": "【バトル】いけ❣️マジカルリーフ🍃🧡川本笑瑠&ニャオハ(板倉可奈💚)相性バッチリ( ◜ω◝ )⚡️#アニポケ#キュートなキューたい#CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-07T03:00:32Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/QPBNqVSAVy4/hqdefault.jpg",
-        "video_id": "QPBNqVSAVy4",
-        "url": "https://www.youtube.com/watch?v=QPBNqVSAVy4",
-        "duration_seconds": 30,
         "is_short": true
       }
     ]
