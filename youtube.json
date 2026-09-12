@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "フェスで見る #センセーション も一味違う👀✨ #TMF2026#ミライフェスト#FRUITSZIPPER #ふるっぱ",
+        "published_at": "2026-09-12T14:13:28Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/DEsftMnL5-w/hqdefault.jpg",
+        "video_id": "DEsftMnL5-w",
+        "url": "https://www.youtube.com/watch?v=DEsftMnL5-w",
+        "duration_seconds": 61,
+        "is_short": false
+      },
+      {
         "title": "【LIVE映像】かっこいいFRUITS ZIPPERもどう？#TMF2026#ミライフェスト#FRUITSZIPPER #フルーツジッパー #ふるっぱー",
         "published_at": "2026-09-12T13:51:58Z",
         "thumbnail_url": "https://i.ytimg.com/vi/OMk2BcwKcpI/hqdefault.jpg",
@@ -171,15 +180,6 @@
         "video_id": "lIe05y4pxxo",
         "url": "https://www.youtube.com/watch?v=lIe05y4pxxo",
         "duration_seconds": 27,
-        "is_short": true
-      },
-      {
-        "title": "この立ち位置、もしかして #ゆいちゃん写りたいシリーズ ？👀🩵💚#真中まな #櫻井優衣#FRUITSZIPPER #ふるっぱー#センセーション",
-        "published_at": "2026-09-07T11:10:09Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/a97PXcn2ITI/hqdefault.jpg",
-        "video_id": "a97PXcn2ITI",
-        "url": "https://www.youtube.com/watch?v=a97PXcn2ITI",
-        "duration_seconds": 15,
         "is_short": true
       }
     ]
