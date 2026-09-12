@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "ねぇちゃんとこっち見て？楽しそうにして？えみが私のこと好きじゃなきゃやぁだ、燃える太陽でしょ？ねえ嫌そうにしないで？絶対に離れないで？どこ見てるの？私だけだよね？うんって言って？ #きゅーすと",
+        "published_at": "2026-09-12T11:27:11Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/rrjT7HotJqY/hqdefault.jpg",
+        "video_id": "rrjT7HotJqY",
+        "url": "https://www.youtube.com/watch?v=rrjT7HotJqY",
+        "duration_seconds": 11,
+        "is_short": true
+      },
+      {
         "title": "【凱旋】海と、ぱると、キューたいと。 #CUTIESTREET #きゅーすと #キュートなキューたい",
         "published_at": "2026-09-12T09:10:38Z",
         "thumbnail_url": "https://i.ytimg.com/vi/KAesWPUDxGg/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "Ps6UFkxoZqA",
         "url": "https://www.youtube.com/watch?v=Ps6UFkxoZqA",
         "duration_seconds": 50,
-        "is_short": true
-      },
-      {
-        "title": "あっっっっっっっっっっっ #板倉可奈 #増田彩乃",
-        "published_at": "2026-09-07T07:34:38Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/g-RYuc_YYfg/hqdefault.jpg",
-        "video_id": "g-RYuc_YYfg",
-        "url": "https://www.youtube.com/watch?v=g-RYuc_YYfg",
-        "duration_seconds": 13,
         "is_short": true
       }
     ]
