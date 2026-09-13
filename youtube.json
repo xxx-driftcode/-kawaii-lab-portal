@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "君に届けるよ🫶 #ちょーだいHAPPY！ アカペラ🎤 #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-13T05:00:38Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/eVHgw9HiYxE/hqdefault.jpg",
+        "video_id": "eVHgw9HiYxE",
+        "url": "https://www.youtube.com/watch?v=eVHgw9HiYxE",
+        "duration_seconds": 34,
+        "is_short": true
+      },
+      {
         "title": "ああなんだいつもの2人か #白石まゆみ #奥田彩友 #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-12T12:39:47Z",
         "thumbnail_url": "https://i.ytimg.com/vi/n40S0u7_Ti8/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "P0bGDNSB6ts",
         "url": "https://www.youtube.com/watch?v=P0bGDNSB6ts",
         "duration_seconds": 20,
-        "is_short": true
-      },
-      {
-        "title": "みんなに会えるの...💓 #YAKIMOCHI #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-08T13:00:14Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/GO7KmjlG_qQ/hqdefault.jpg",
-        "video_id": "GO7KmjlG_qQ",
-        "url": "https://www.youtube.com/watch?v=GO7KmjlG_qQ",
-        "duration_seconds": 60,
         "is_short": true
       }
     ]
