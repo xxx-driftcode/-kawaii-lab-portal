@@ -761,6 +761,15 @@
       },
       {
         "month": "09",
+        "day": "03",
+        "day_of_week": "THU",
+        "category": "TV",
+        "title": "TBS「ニンゲン観察バラエティ モニタリング」(小川奈々子)",
+        "url": "https://candytune.asobisystem.com/news/detail/89854",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "04",
         "day_of_week": "FRI",
         "category": "LIVE",
@@ -784,6 +793,33 @@
         "category": "EVENT",
         "title": "4th single 大特典会",
         "url": "https://candytune.asobisystem.com/live_information/detail/44613",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "06",
+        "day_of_week": "SUN",
+        "category": "RADIO",
+        "title": "『CANDY TUNE 桐原美月の青色RADIO』(桐原美月)",
+        "url": "https://candytune.asobisystem.com/news/detail/89853",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "06",
+        "day_of_week": "SUN",
+        "category": "RADIO",
+        "title": "TOKYO FM「CANDY TUNE TOKYO CANDY NIGHT」『きゃんないスペシャル感謝祭』",
+        "url": "https://candytune.asobisystem.com/news/detail/89851",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "06",
+        "day_of_week": "SUN",
+        "category": "RADIO",
+        "title": "TOKYO FM「CANDY TUNE TOKYO CANDY NIGHT」",
+        "url": "https://candytune.asobisystem.com/news/detail/89852",
         "year": "2026"
       },
       {
@@ -1063,6 +1099,15 @@
         "category": "LIVE",
         "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」石川公演",
         "url": "https://candytune.asobisystem.com/live_information/detail/40737",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "21",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "『TOKYO GIRLS COLLECTION 富山 2026』",
+        "url": "https://candytune.asobisystem.com/live_information/detail/44995",
         "year": "2026"
       },
       {
