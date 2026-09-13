@@ -373,6 +373,24 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【LIVEダイジェスト公開】TOMAKOMAI MIRAI FEST 2026🚢🎸 #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-13T09:30:16Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/4tizlJaO5l8/hqdefault.jpg",
+        "video_id": "4tizlJaO5l8",
+        "url": "https://www.youtube.com/watch?v=4tizlJaO5l8",
+        "duration_seconds": 44,
+        "is_short": true
+      },
+      {
+        "title": "【LIVEダイジェスト】TOMAKOMAI MIRAI FEST 2026",
+        "published_at": "2026-09-13T09:30:03Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/tAOjK6gUmsY/hqdefault.jpg",
+        "video_id": "tAOjK6gUmsY",
+        "url": "https://www.youtube.com/watch?v=tAOjK6gUmsY",
+        "duration_seconds": 333,
+        "is_short": false
+      },
+      {
         "title": "苫小牧に響いた『ふっふー』🎉💞 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
         "published_at": "2026-09-13T07:00:03Z",
         "thumbnail_url": "https://i.ytimg.com/vi/R0EpJM9mZwk/hqdefault.jpg",
@@ -532,24 +550,6 @@
         "video_id": "P1LpvLGlpEo",
         "url": "https://www.youtube.com/watch?v=P1LpvLGlpEo",
         "duration_seconds": 32,
-        "is_short": true
-      },
-      {
-        "title": "機嫌がいい日の歩き方これ#DASH!!! #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-09T13:00:05Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/ZHYtt2gROI8/hqdefault.jpg",
-        "video_id": "ZHYtt2gROI8",
-        "url": "https://www.youtube.com/watch?v=ZHYtt2gROI8",
-        "duration_seconds": 9,
-        "is_short": true
-      },
-      {
-        "title": "こんなにおしゃれなアイドル楽曲が❕🪩 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-09T09:00:34Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/1Q2tRet_MYA/hqdefault.jpg",
-        "video_id": "1Q2tRet_MYA",
-        "url": "https://www.youtube.com/watch?v=1Q2tRet_MYA",
-        "duration_seconds": 18,
         "is_short": true
       }
     ]
@@ -744,11 +744,11 @@
     "videos": [
       {
         "title": "9月13日 MORE STAR オンライン特典会",
-        "published_at": "2026-09-13T03:01:49Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/NjyvFX0EO80/hqdefault_live.jpg",
+        "published_at": "2026-09-13T09:03:48Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/NjyvFX0EO80/hqdefault.jpg",
         "video_id": "NjyvFX0EO80",
         "url": "https://www.youtube.com/watch?v=NjyvFX0EO80",
-        "duration_seconds": 0,
+        "duration_seconds": 20942,
         "is_short": false
       },
       {
