@@ -788,6 +788,15 @@
       },
       {
         "month": "09",
+        "day": "07",
+        "day_of_week": "MON",
+        "category": "TV",
+        "title": "テレビ朝日「START UP！ドリームエンタ」(立花琴未)",
+        "url": "https://candytune.asobisystem.com/news/detail/89849",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "09",
         "day_of_week": "WED",
         "category": "LIVE",
@@ -856,6 +865,15 @@
         "category": "RADIO",
         "title": "TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
         "url": "https://candytune.asobisystem.com/news/detail/89821",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "14",
+        "day_of_week": "MON",
+        "category": "TV",
+        "title": "テレビ朝日「START UP！ドリームエンタ」(立花琴未)",
+        "url": "https://candytune.asobisystem.com/news/detail/89850",
         "year": "2026"
       },
       {
