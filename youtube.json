@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "あっっっ #キュートなキューたい #CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-13T11:38:12Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/mj5fceRxTPk/hqdefault.jpg",
+        "video_id": "mj5fceRxTPk",
+        "url": "https://www.youtube.com/watch?v=mj5fceRxTPk",
+        "duration_seconds": 60,
+        "is_short": true
+      },
+      {
         "title": "【確信】産んだわ #増田彩乃 #桜庭遥花 #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-13T08:04:48Z",
         "thumbnail_url": "https://i.ytimg.com/vi/OZKb_JZJ5qE/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "-0WbBUzP1pc",
         "url": "https://www.youtube.com/watch?v=-0WbBUzP1pc",
         "duration_seconds": 13,
-        "is_short": true
-      },
-      {
-        "title": "彩乃ちゃん、何があったの？？？😭 #増田彩乃 #キュートなキューたい #CUTIESTREET",
-        "published_at": "2026-09-07T13:30:19Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/dlcgNSLuL-k/hqdefault.jpg",
-        "video_id": "dlcgNSLuL-k",
-        "url": "https://www.youtube.com/watch?v=dlcgNSLuL-k",
-        "duration_seconds": 16,
         "is_short": true
       }
     ]
