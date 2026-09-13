@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "9月13日 MORE STAR オンライン特典会",
+        "published_at": "2026-09-13T02:46:30Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/NjyvFX0EO80/hqdefault_live.jpg",
+        "video_id": "NjyvFX0EO80",
+        "url": "https://www.youtube.com/watch?v=NjyvFX0EO80",
+        "duration_seconds": 0,
+        "is_short": false
+      },
+      {
         "title": "【ダイジェスト】9/12(土)『TOMAKOMAI MIRAI FEST 2026』＠北海道・苫小牧キラキラ公園",
         "published_at": "2026-09-12T09:13:48Z",
         "thumbnail_url": "https://i.ytimg.com/vi/hFUbB4kUpAA/hqdefault.jpg",
@@ -910,15 +919,6 @@
         "thumbnail_url": "https://i.ytimg.com/vi/DpWB70_zO1M/hqdefault.jpg",
         "video_id": "DpWB70_zO1M",
         "url": "https://www.youtube.com/watch?v=DpWB70_zO1M",
-        "duration_seconds": 25,
-        "is_short": true
-      },
-      {
-        "title": "この秋、コーラをたくさん飲もうか！🦥#遠藤まりん#WITHKAWAII論#MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-09-04T14:13:58Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/B8tTb-HzWMk/hqdefault.jpg",
-        "video_id": "B8tTb-HzWMk",
-        "url": "https://www.youtube.com/watch?v=B8tTb-HzWMk",
         "duration_seconds": 25,
         "is_short": true
       }
