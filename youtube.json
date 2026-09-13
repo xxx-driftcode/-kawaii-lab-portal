@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "苫小牧に響いた『ふっふー』🎉💞 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-13T07:00:03Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/R0EpJM9mZwk/hqdefault.jpg",
+        "video_id": "R0EpJM9mZwk",
+        "url": "https://www.youtube.com/watch?v=R0EpJM9mZwk",
+        "duration_seconds": 20,
+        "is_short": true
+      },
+      {
         "title": "君に届けるよ🫶 #ちょーだいHAPPY！ アカペラ🎤 #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-13T05:00:38Z",
         "thumbnail_url": "https://i.ytimg.com/vi/eVHgw9HiYxE/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "1Q2tRet_MYA",
         "url": "https://www.youtube.com/watch?v=1Q2tRet_MYA",
         "duration_seconds": 18,
-        "is_short": true
-      },
-      {
-        "title": "学校に住み着く可愛すぎる悪霊？👻🖤 #気味が悪いんだからねっ #奥田彩友 #栗田なつか #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-09T07:00:13Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/P0bGDNSB6ts/hqdefault.jpg",
-        "video_id": "P0bGDNSB6ts",
-        "url": "https://www.youtube.com/watch?v=P0bGDNSB6ts",
-        "duration_seconds": 20,
         "is_short": true
       }
     ]
