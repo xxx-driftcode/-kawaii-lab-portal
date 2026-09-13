@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "なまらめんこい❔💖 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-13T13:20:46Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/DSL387YIHtk/hqdefault.jpg",
+        "video_id": "DSL387YIHtk",
+        "url": "https://www.youtube.com/watch?v=DSL387YIHtk",
+        "duration_seconds": 24,
+        "is_short": true
+      },
+      {
         "title": "SWEET STEADY「気味が悪いんだからねっ」×TVアニメ『レッツゴー怪奇組』　アニメMV",
         "published_at": "2026-09-13T11:00:14Z",
         "thumbnail_url": "https://i.ytimg.com/vi/-HaQeuE75h0/hqdefault.jpg",
@@ -542,21 +551,21 @@
         "url": "https://www.youtube.com/watch?v=0Ea4fhtf48E",
         "duration_seconds": 33,
         "is_short": true
-      },
-      {
-        "title": "【MV裏側】SWEET STEADY「気味が悪いんだからねっ」MVメイキング映像",
-        "published_at": "2026-09-10T11:00:07Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/aq8W9ylZs6w/hqdefault.jpg",
-        "video_id": "aq8W9ylZs6w",
-        "url": "https://www.youtube.com/watch?v=aq8W9ylZs6w",
-        "duration_seconds": 1142,
-        "is_short": false
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "【22✨】*.𝜗𝜚.Happy Birthday💎.ꪆৎ.*🩵梅田みゆ  #キュートなキューたい#CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-13T13:10:04Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/lmKFeMi0Hyk/hqdefault.jpg",
+        "video_id": "lmKFeMi0Hyk",
+        "url": "https://www.youtube.com/watch?v=lmKFeMi0Hyk",
+        "duration_seconds": 16,
+        "is_short": true
+      },
       {
         "title": "あっっっ #キュートなキューたい #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-13T11:38:12Z",
@@ -726,15 +735,6 @@
         "video_id": "5rvgbn-Nrvk",
         "url": "https://www.youtube.com/watch?v=5rvgbn-Nrvk",
         "duration_seconds": 30,
-        "is_short": true
-      },
-      {
-        "title": "Untitled video",
-        "published_at": "2026-09-08T01:00:00Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/-0WbBUzP1pc/hqdefault.jpg",
-        "video_id": "-0WbBUzP1pc",
-        "url": "https://www.youtube.com/watch?v=-0WbBUzP1pc",
-        "duration_seconds": 13,
         "is_short": true
       }
     ]
