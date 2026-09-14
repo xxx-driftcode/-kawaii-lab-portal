@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "ライブでぜひ聴いてほしいこの一曲❤️‍🔥 #ガーベラの花のように #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-14T05:00:29Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/1GVOpwuEwGI/hqdefault.jpg",
+        "video_id": "1GVOpwuEwGI",
+        "url": "https://www.youtube.com/watch?v=1GVOpwuEwGI",
+        "duration_seconds": 40,
+        "is_short": true
+      },
+      {
         "title": "なまらめんこい❔💖 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-13T13:20:46Z",
         "thumbnail_url": "https://i.ytimg.com/vi/DSL387YIHtk/hqdefault.jpg",
@@ -542,21 +551,21 @@
         "url": "https://www.youtube.com/watch?v=rVJ7MZoZptM",
         "duration_seconds": 21,
         "is_short": true
-      },
-      {
-        "title": "「気味が悪いんだからねっ」MVメイキング映像公開👻🖤 #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-10T11:00:33Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/0Ea4fhtf48E/hqdefault.jpg",
-        "video_id": "0Ea4fhtf48E",
-        "url": "https://www.youtube.com/watch?v=0Ea4fhtf48E",
-        "duration_seconds": 33,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "【営業】絶対買わせたいえみるVSごねるみゆ #CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-14T05:00:22Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/YhCPoBJ1ASI/hqdefault.jpg",
+        "video_id": "YhCPoBJ1ASI",
+        "url": "https://www.youtube.com/watch?v=YhCPoBJ1ASI",
+        "duration_seconds": 35,
+        "is_short": true
+      },
       {
         "title": "今日はお誕生日会(生誕祭)の配信があるよ🩵 #梅田みゆ #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-14T03:00:37Z",
@@ -726,15 +735,6 @@
         "video_id": "zWXKI2omyoA",
         "url": "https://www.youtube.com/watch?v=zWXKI2omyoA",
         "duration_seconds": 20,
-        "is_short": true
-      },
-      {
-        "title": "なにしてるの？ #板倉可奈 #川本笑瑠",
-        "published_at": "2026-09-08T07:13:21Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/StqRnLWvh4E/hqdefault.jpg",
-        "video_id": "StqRnLWvh4E",
-        "url": "https://www.youtube.com/watch?v=StqRnLWvh4E",
-        "duration_seconds": 13,
         "is_short": true
       }
     ]
