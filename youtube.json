@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "北海道のみんなを超大HAPPYにできたかな❔🌈 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-14T13:07:41Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/G-trRVCPv1A/hqdefault.jpg",
+        "video_id": "G-trRVCPv1A",
+        "url": "https://www.youtube.com/watch?v=G-trRVCPv1A",
+        "duration_seconds": 19,
+        "is_short": true
+      },
+      {
         "title": "【MV Teaser💙奥田彩友】『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
         "published_at": "2026-09-14T11:00:34Z",
         "thumbnail_url": "https://i.ytimg.com/vi/UpIXQAvI4aU/hqdefault.jpg",
@@ -542,21 +551,21 @@
         "url": "https://www.youtube.com/watch?v=Oj3aE8CmaNg",
         "duration_seconds": 222,
         "is_short": false
-      },
-      {
-        "title": "#ちょーだいHAPPY！ 永遠⁉️ ver. #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-11T09:00:32Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/3F5-3pTpVY0/hqdefault.jpg",
-        "video_id": "3F5-3pTpVY0",
-        "url": "https://www.youtube.com/watch?v=3F5-3pTpVY0",
-        "duration_seconds": 29,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "【LIVE映像】ぷりきゅきゅ📍SGCホール有明(2026/9/14)【CUTIE STREET】",
+        "published_at": "2026-09-14T13:21:08Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/PxZCNjv8zMA/hqdefault.jpg",
+        "video_id": "PxZCNjv8zMA",
+        "url": "https://www.youtube.com/watch?v=PxZCNjv8zMA",
+        "duration_seconds": 230,
+        "is_short": false
+      },
       {
         "title": "【朗報】みゆちゃん、ボブにしたって#梅田みゆ生誕祭2026#CUTIESTREET #きゅーすと",
         "published_at": "2026-09-14T12:14:38Z",
@@ -726,15 +735,6 @@
         "video_id": "edRguW2AaSM",
         "url": "https://www.youtube.com/watch?v=edRguW2AaSM",
         "duration_seconds": 50,
-        "is_short": true
-      },
-      {
-        "title": "機嫌が悪い赤ちゃん #板倉可奈 #キュートなキューたい #CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-09T11:00:01Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/1ESzYM0T2ag/hqdefault.jpg",
-        "video_id": "1ESzYM0T2ag",
-        "url": "https://www.youtube.com/watch?v=1ESzYM0T2ag",
-        "duration_seconds": 16,
         "is_short": true
       }
     ]
