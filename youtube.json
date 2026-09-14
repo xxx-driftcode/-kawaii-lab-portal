@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "【クイズ】備えあれば無問題！？早押しチャレンジ！【放課後きゃんちゅー部】",
+        "published_at": "2026-09-14T12:00:02Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/DFqTWyklVgM/hqdefault.jpg",
+        "video_id": "DFqTWyklVgM",
+        "url": "https://www.youtube.com/watch?v=DFqTWyklVgM",
+        "duration_seconds": 794,
+        "is_short": false
+      },
+      {
         "title": "【LIVE映像】CANDY TUNE『総意♡So Free』＠ TOMAKOMAI MIRAI FEST 2026",
         "published_at": "2026-09-14T11:00:03Z",
         "thumbnail_url": "https://i.ytimg.com/vi/fzFBu2i5cqE/hqdefault.jpg",
@@ -357,15 +366,6 @@
         "url": "https://www.youtube.com/watch?v=HkkpmYd4zSI",
         "duration_seconds": 20,
         "is_short": true
-      },
-      {
-        "title": "CANDY TUNE Station🍬",
-        "published_at": "2026-09-07T04:00:28Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/qoMeaJYRJhk/hqdefault_live.jpg",
-        "video_id": "qoMeaJYRJhk",
-        "url": "https://www.youtube.com/watch?v=qoMeaJYRJhk",
-        "duration_seconds": 0,
-        "is_short": false
       }
     ]
   },
