@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "さぁ！こちら側へ🦖💛#笹原なな花 #MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-14T06:08:00Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/S8gO-cYsCbw/hqdefault.jpg",
+        "video_id": "S8gO-cYsCbw",
+        "url": "https://www.youtube.com/watch?v=S8gO-cYsCbw",
+        "duration_seconds": 17,
+        "is_short": true
+      },
+      {
         "title": "9月13日 MORE STAR オンライン特典会",
         "published_at": "2026-09-13T09:03:48Z",
         "thumbnail_url": "https://i.ytimg.com/vi/NjyvFX0EO80/hqdefault.jpg",
@@ -911,15 +920,6 @@
         "video_id": "fu_A72i_hdI",
         "url": "https://www.youtube.com/watch?v=fu_A72i_hdI",
         "duration_seconds": 24,
-        "is_short": true
-      },
-      {
-        "title": "あみちゃんまる🩷#森田あみ#WITHKAWAII論#MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-09-05T12:17:36Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/DpWB70_zO1M/hqdefault.jpg",
-        "video_id": "DpWB70_zO1M",
-        "url": "https://www.youtube.com/watch?v=DpWB70_zO1M",
-        "duration_seconds": 25,
         "is_short": true
       }
     ]
