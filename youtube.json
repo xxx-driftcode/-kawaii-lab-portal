@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "🍬💙 LIVE ソロカメラ 桐原美月💙🍬きりちゃん🌀まぜまぜ🌀#ミライフェスト#CANDYTUNE #きゃんちゅー",
+        "published_at": "2026-09-15T12:34:28Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/dERJ4F96ps8/hqdefault.jpg",
+        "video_id": "dERJ4F96ps8",
+        "url": "https://www.youtube.com/watch?v=dERJ4F96ps8",
+        "duration_seconds": 23,
+        "is_short": true
+      },
+      {
         "title": "【宮野静コラボ💜】雪花ラミィさん・桃鈴ねねさん・SWEET STEADY音井結衣さんコラボ回【放課後きゃんちゅー部：番外編】",
         "published_at": "2026-09-15T11:29:23Z",
         "thumbnail_url": "https://i.ytimg.com/vi/YvBqE82A-3o/hqdefault_live.jpg",
@@ -357,15 +366,6 @@
         "url": "https://www.youtube.com/watch?v=8rZW5T2XpG8",
         "duration_seconds": 21,
         "is_short": true
-      },
-      {
-        "title": "【期間限定公開】CANDY TUNE 「総意♡So Free」【CDTVライブ!ライブ!】",
-        "published_at": "2026-09-07T12:00:12Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/CANL2p_5h-U/hqdefault.jpg",
-        "video_id": "CANL2p_5h-U",
-        "url": "https://www.youtube.com/watch?v=CANL2p_5h-U",
-        "duration_seconds": 172,
-        "is_short": false
       }
     ]
   },
@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【DANCE】りさ、なぎに1分で振り入れして貰った #加藤ミリヤ さん #CUTIESTREET #きゅーすと #SAYONARAベイベー",
+        "published_at": "2026-09-15T12:34:28Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/ma1pF7x-o_A/hqdefault.jpg",
+        "video_id": "ma1pF7x-o_A",
+        "url": "https://www.youtube.com/watch?v=ma1pF7x-o_A",
+        "duration_seconds": 21,
+        "is_short": true
+      },
+      {
         "title": "生まれてから22年経ちました🩵🎂 #梅田みゆ #キュートなキューたい #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-15T10:00:21Z",
         "thumbnail_url": "https://i.ytimg.com/vi/P86dxzSAQVg/hqdefault.jpg",
@@ -727,15 +736,6 @@
         "url": "https://www.youtube.com/watch?v=zQ6tLz35X3k",
         "duration_seconds": 14,
         "is_short": true
-      },
-      {
-        "title": "【Shooting LIVE】ぷりきゅきゅ KOREAN ver【CUTIE STREET】",
-        "published_at": "2026-09-10T13:28:26Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/hWnIk0yTHag/hqdefault.jpg",
-        "video_id": "hWnIk0yTHag",
-        "url": "https://www.youtube.com/watch?v=hWnIk0yTHag",
-        "duration_seconds": 233,
-        "is_short": false
       }
     ]
   },
