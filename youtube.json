@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【リリイベin北海道】のみんなとSWEET STEP🐄💞 #SWEETSTEADY #すいすて #SWEETSTEP",
+        "published_at": "2026-09-15T09:00:17Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/653-y6VWc9E/hqdefault.jpg",
+        "video_id": "653-y6VWc9E",
+        "url": "https://www.youtube.com/watch?v=653-y6VWc9E",
+        "duration_seconds": 27,
+        "is_short": true
+      },
+      {
         "title": "【LIVEダイジェスト】『3rdシングル SWEET STEP 発売記念リリースイベント』＠北海道 サッポロファクトリー アトリウム",
         "published_at": "2026-09-15T07:00:11Z",
         "thumbnail_url": "https://i.ytimg.com/vi/eMdgjkVsrYg/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "3zfUGmF7xes",
         "url": "https://www.youtube.com/watch?v=3zfUGmF7xes",
         "duration_seconds": 47,
-        "is_short": true
-      },
-      {
-        "title": "最後大暴れする2人がかわいいだけの動画🩵❤️ #ちょーだいHAPPY！ #音井結衣 #白石まゆみ #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-11T13:00:23Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/hd8wQovB6pE/hqdefault.jpg",
-        "video_id": "hd8wQovB6pE",
-        "url": "https://www.youtube.com/watch?v=hd8wQovB6pE",
-        "duration_seconds": 21,
         "is_short": true
       }
     ]
