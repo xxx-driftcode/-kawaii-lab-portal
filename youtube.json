@@ -3,6 +3,15 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "#秘密のアティチュード 松本かれん🩷🗝️🎞️#FRUITSZIPPER#ふるっぱー #フルーツジッパー",
+        "published_at": "2026-09-15T07:30:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/oH1d607c4aM/hqdefault.jpg",
+        "video_id": "oH1d607c4aM",
+        "url": "https://www.youtube.com/watch?v=oH1d607c4aM",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "まつかれの真顔からしか得られない栄養素がある🩷 #松本かれん#センセーション#FRUITSZIPPER#ふるっぱー #フルーツジッパー",
         "published_at": "2026-09-14T12:06:39Z",
         "thumbnail_url": "https://i.ytimg.com/vi/JejfccSJNTg/hqdefault.jpg",
@@ -171,15 +180,6 @@
         "video_id": "QKWRMhMfxOc",
         "url": "https://www.youtube.com/watch?v=QKWRMhMfxOc",
         "duration_seconds": 16,
-        "is_short": true
-      },
-      {
-        "title": "ノエちゃん遊びたいシリーズ🕺✨#櫻井優衣 #早瀬ノエル #FRUITSZIPPER #ふるっぱー",
-        "published_at": "2026-09-09T12:01:22Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/PEew5Bx2OE8/hqdefault.jpg",
-        "video_id": "PEew5Bx2OE8",
-        "url": "https://www.youtube.com/watch?v=PEew5Bx2OE8",
-        "duration_seconds": 9,
         "is_short": true
       }
     ]
