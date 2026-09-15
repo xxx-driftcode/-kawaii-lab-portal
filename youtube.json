@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "#ano さんとスペシャルカワイイタイム💞☕️ #SWEETSTEP #あのちゃんの電電電波 #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-15T17:30:33Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/NuratOMQRWM/hqdefault.jpg",
+        "video_id": "NuratOMQRWM",
+        "url": "https://www.youtube.com/watch?v=NuratOMQRWM",
+        "duration_seconds": 20,
+        "is_short": true
+      },
+      {
         "title": "CANDY TUNE #宮野静 さんとちょーだいHAPPY！🍬🌈 #音井結衣 #CANDYTUNE #SWEETSTEADY #すいすて #ちょーだいHAPPY！",
         "published_at": "2026-09-15T13:00:03Z",
         "thumbnail_url": "https://i.ytimg.com/vi/N_Eo5KN_tEA/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "wVKJ8l60Fh4",
         "url": "https://www.youtube.com/watch?v=wVKJ8l60Fh4",
         "duration_seconds": 18,
-        "is_short": true
-      },
-      {
-        "title": "金夜仕事から帰る時の歩き方これ #奥田彩友 #山内咲奈 #DASH!!! #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-12T09:00:28Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/FEAWZ_i4uzA/hqdefault.jpg",
-        "video_id": "FEAWZ_i4uzA",
-        "url": "https://www.youtube.com/watch?v=FEAWZ_i4uzA",
-        "duration_seconds": 12,
         "is_short": true
       }
     ]
