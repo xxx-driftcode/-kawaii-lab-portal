@@ -377,6 +377,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "生まれてから22年経ちました🩵🎂 #梅田みゆ #キュートなキューたい #CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-15T10:00:21Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/P86dxzSAQVg/hqdefault.jpg",
+        "video_id": "P86dxzSAQVg",
+        "url": "https://www.youtube.com/watch?v=P86dxzSAQVg",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "【大きい】もうこの画面の迫力です #キュートなキューたい #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-15T08:25:22Z",
         "thumbnail_url": "https://i.ytimg.com/vi/O1DFIvlUTRw/hqdefault.jpg",
@@ -546,21 +555,21 @@
         "url": "https://www.youtube.com/watch?v=hWnIk0yTHag",
         "duration_seconds": 233,
         "is_short": false
-      },
-      {
-        "title": "かなちゃんwwwww #キュートなキューたい #CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-10T08:35:14Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/7IkbI91GjVI/hqdefault.jpg",
-        "video_id": "7IkbI91GjVI",
-        "url": "https://www.youtube.com/watch?v=7IkbI91GjVI",
-        "duration_seconds": 15,
-        "is_short": true
       }
     ]
   },
   "morestar": {
     "name": "MORE STAR",
     "videos": [
+      {
+        "title": "準備できた？🦖🩷#森田あみ#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-15T10:00:39Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/e-RNM_fttDU/hqdefault.jpg",
+        "video_id": "e-RNM_fttDU",
+        "url": "https://www.youtube.com/watch?v=e-RNM_fttDU",
+        "duration_seconds": 16,
+        "is_short": true
+      },
       {
         "title": "待ってるから一緒にいく？🦥💙#遠藤まりん#MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-15T05:20:07Z",
@@ -730,15 +739,6 @@
         "video_id": "d5MdNqLb29c",
         "url": "https://www.youtube.com/watch?v=d5MdNqLb29c",
         "duration_seconds": 24,
-        "is_short": true
-      },
-      {
-        "title": "【みぎひだみぎひだ💜】みなさんもうバッチリですよね？#萩田そら #MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-09-08T03:53:24Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/yWKTb9xZ2Ts/hqdefault.jpg",
-        "video_id": "yWKTb9xZ2Ts",
-        "url": "https://www.youtube.com/watch?v=yWKTb9xZ2Ts",
-        "duration_seconds": 23,
         "is_short": true
       }
     ]
