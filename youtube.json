@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "CANDY TUNE #宮野静 さんとちょーだいHAPPY！🍬🌈 #音井結衣 #CANDYTUNE #SWEETSTEADY #すいすて #ちょーだいHAPPY！",
+        "published_at": "2026-09-15T13:00:03Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/N_Eo5KN_tEA/hqdefault.jpg",
+        "video_id": "N_Eo5KN_tEA",
+        "url": "https://www.youtube.com/watch?v=N_Eo5KN_tEA",
+        "duration_seconds": 22,
+        "is_short": true
+      },
+      {
         "title": "【MV Teaser💜塩川莉世】『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
         "published_at": "2026-09-15T11:00:01Z",
         "thumbnail_url": "https://i.ytimg.com/vi/nIxWmAnRJpY/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "FEAWZ_i4uzA",
         "url": "https://www.youtube.com/watch?v=FEAWZ_i4uzA",
         "duration_seconds": 12,
-        "is_short": true
-      },
-      {
-        "title": "なんで力いれんの❕ #ちょーだいHAPPY！ #塩川莉世 #山内咲奈  #SWEETSTEADY #すいすて #こけみ",
-        "published_at": "2026-09-12T07:00:19Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Uwr-QFj2Ljo/hqdefault.jpg",
-        "video_id": "Uwr-QFj2Ljo",
-        "url": "https://www.youtube.com/watch?v=Uwr-QFj2Ljo",
-        "duration_seconds": 21,
         "is_short": true
       }
     ]
