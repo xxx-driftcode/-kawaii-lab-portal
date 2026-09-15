@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "きたかにゃ？🐈🧡#新井心菜#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-15T12:20:55Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/U4oWnpKvui0/hqdefault.jpg",
+        "video_id": "U4oWnpKvui0",
+        "url": "https://www.youtube.com/watch?v=U4oWnpKvui0",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "準備できた？🦖🩷#森田あみ#MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-15T10:00:39Z",
         "thumbnail_url": "https://i.ytimg.com/vi/e-RNM_fttDU/hqdefault.jpg",
@@ -911,15 +920,6 @@
         "video_id": "jhjO9WzIQsw",
         "url": "https://www.youtube.com/watch?v=jhjO9WzIQsw",
         "duration_seconds": 23,
-        "is_short": true
-      },
-      {
-        "title": "えんまりさんのみぎひだ💙#遠藤まりん#MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-09-08T05:51:33Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/d5MdNqLb29c/hqdefault.jpg",
-        "video_id": "d5MdNqLb29c",
-        "url": "https://www.youtube.com/watch?v=d5MdNqLb29c",
-        "duration_seconds": 24,
         "is_short": true
       }
     ]
