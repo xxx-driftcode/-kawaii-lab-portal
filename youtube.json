@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "猫ぱんちとあいか #佐野愛花 #CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-15T14:00:09Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/pbJ-zS-pak8/hqdefault.jpg",
+        "video_id": "pbJ-zS-pak8",
+        "url": "https://www.youtube.com/watch?v=pbJ-zS-pak8",
+        "duration_seconds": 22,
+        "is_short": true
+      },
+      {
         "title": "【DANCE】りさ、なぎに1分で振り入れして貰った #加藤ミリヤ さん #CUTIESTREET #きゅーすと #SAYONARAベイベー",
         "published_at": "2026-09-15T12:34:28Z",
         "thumbnail_url": "https://i.ytimg.com/vi/ma1pF7x-o_A/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "sASfVxYC2cc",
         "url": "https://www.youtube.com/watch?v=sASfVxYC2cc",
         "duration_seconds": 59,
-        "is_short": true
-      },
-      {
-        "title": "それでも私は凪咲を愛してる #キュートなキューたい #CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-11T10:13:57Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/zQ6tLz35X3k/hqdefault.jpg",
-        "video_id": "zQ6tLz35X3k",
-        "url": "https://www.youtube.com/watch?v=zQ6tLz35X3k",
-        "duration_seconds": 14,
         "is_short": true
       }
     ]
