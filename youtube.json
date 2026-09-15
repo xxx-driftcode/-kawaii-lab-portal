@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【ドキュメンタリー】梅田みゆ 生誕祭 2026📍SGCホール有明(2026/9/14)【CUTIE STREET】",
+        "published_at": "2026-09-15T14:14:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/4IyyiQwyx_A/hqdefault.jpg",
+        "video_id": "4IyyiQwyx_A",
+        "url": "https://www.youtube.com/watch?v=4IyyiQwyx_A",
+        "duration_seconds": 782,
+        "is_short": false
+      },
+      {
         "title": "猫ぱんちとあいか #佐野愛花 #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-15T14:00:09Z",
         "thumbnail_url": "https://i.ytimg.com/vi/pbJ-zS-pak8/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "cDhl2kPwO3w",
         "url": "https://www.youtube.com/watch?v=cDhl2kPwO3w",
         "duration_seconds": 25,
-        "is_short": true
-      },
-      {
-        "title": "マネキンチャレンジ #CUTIESTREET #きゅーすと #キュートなキューたい",
-        "published_at": "2026-09-11T12:50:43Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/sASfVxYC2cc/hqdefault.jpg",
-        "video_id": "sASfVxYC2cc",
-        "url": "https://www.youtube.com/watch?v=sASfVxYC2cc",
-        "duration_seconds": 59,
         "is_short": true
       }
     ]
