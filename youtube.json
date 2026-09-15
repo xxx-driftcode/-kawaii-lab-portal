@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "🍬🩵 LIVE ソロカメラ 福山梨乃🩵🍬君を虜にしちゃうから✨#ミライフェスト#CANDYTUNE #きゃんちゅー",
+        "published_at": "2026-09-15T12:48:57Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/5Who15ujUVY/hqdefault.jpg",
+        "video_id": "5Who15ujUVY",
+        "url": "https://www.youtube.com/watch?v=5Who15ujUVY",
+        "duration_seconds": 31,
+        "is_short": true
+      },
+      {
         "title": "🍬💙 LIVE ソロカメラ 桐原美月💙🍬きりちゃん🌀まぜまぜ🌀#ミライフェスト#CANDYTUNE #きゃんちゅー",
         "published_at": "2026-09-15T12:34:28Z",
         "thumbnail_url": "https://i.ytimg.com/vi/dERJ4F96ps8/hqdefault.jpg",
@@ -356,15 +365,6 @@
         "video_id": "cMMjcaYWVss",
         "url": "https://www.youtube.com/watch?v=cMMjcaYWVss",
         "duration_seconds": 7,
-        "is_short": true
-      },
-      {
-        "title": "SOUI選抜による総意！総意！総意！総意！🧸 #総意SoFree #CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-09-08T05:20:01Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/8rZW5T2XpG8/hqdefault.jpg",
-        "video_id": "8rZW5T2XpG8",
-        "url": "https://www.youtube.com/watch?v=8rZW5T2XpG8",
-        "duration_seconds": 21,
         "is_short": true
       }
     ]
