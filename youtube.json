@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【踊らせてみた】不服な白石❤️と満足げななぎゅ🧡 #ちょーだいHAPPY！ #白石まゆみ #庄司なぎさ #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-16T13:00:30Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/-ere66aRwdo/hqdefault.jpg",
+        "video_id": "-ere66aRwdo",
+        "url": "https://www.youtube.com/watch?v=-ere66aRwdo",
+        "duration_seconds": 24,
+        "is_short": true
+      },
+      {
         "title": "【MV Teaser🩷栗田なつか】『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
         "published_at": "2026-09-16T11:00:08Z",
         "thumbnail_url": "https://i.ytimg.com/vi/ySmwkcLEenc/hqdefault.jpg",
@@ -542,21 +551,21 @@
         "url": "https://www.youtube.com/watch?v=e0SHO0t3uOs",
         "duration_seconds": 34,
         "is_short": true
-      },
-      {
-        "title": "【LIVEダイジェスト公開】TOMAKOMAI MIRAI FEST 2026🚢🎸 #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-13T09:30:16Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/4tizlJaO5l8/hqdefault.jpg",
-        "video_id": "4tizlJaO5l8",
-        "url": "https://www.youtube.com/watch?v=4tizlJaO5l8",
-        "duration_seconds": 44,
-        "is_short": true
       }
     ]
   },
   "cutiestreet": {
     "name": "CUTIE STREET",
     "videos": [
+      {
+        "title": "【LIVE映像】Crush on you📍SGCホール有明(2026/9/14)【CUTIE STREET】",
+        "published_at": "2026-09-16T13:00:06Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/W7KTBy0Yhmg/hqdefault.jpg",
+        "video_id": "W7KTBy0Yhmg",
+        "url": "https://www.youtube.com/watch?v=W7KTBy0Yhmg",
+        "duration_seconds": 188,
+        "is_short": false
+      },
       {
         "title": "ファンが泣かせました #梅田みゆ",
         "published_at": "2026-09-16T11:02:54Z",
@@ -726,15 +735,6 @@
         "video_id": "yvFAeRr4ZvE",
         "url": "https://www.youtube.com/watch?v=yvFAeRr4ZvE",
         "duration_seconds": 40,
-        "is_short": true
-      },
-      {
-        "title": "ねぇちゃんとこっち見て？楽しそうにして？えみが私のこと好きじゃなきゃやぁだ、燃える太陽でしょ？ねえ嫌そうにしないで？絶対に離れないで？どこ見てるの？私だけだよね？うんって言って？ #きゅーすと",
-        "published_at": "2026-09-12T11:27:11Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/rrjT7HotJqY/hqdefault.jpg",
-        "video_id": "rrjT7HotJqY",
-        "url": "https://www.youtube.com/watch?v=rrjT7HotJqY",
-        "duration_seconds": 11,
         "is_short": true
       }
     ]
