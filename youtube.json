@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "🍬💚 LIVE ソロカメラ 小川奈々子 💚🍬今日も表情いっぱいのなちさん🧚 #ミライフェスト#CANDYTUNE #きゃんちゅー",
+        "published_at": "2026-09-16T03:30:23Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/RbdVpf5mjRI/hqdefault.jpg",
+        "video_id": "RbdVpf5mjRI",
+        "url": "https://www.youtube.com/watch?v=RbdVpf5mjRI",
+        "duration_seconds": 32,
+        "is_short": true
+      },
+      {
         "title": "🍬💜LIVE ソロカメラ 宮野静 💜🍬しーちゃん元気にさながら‼️我が家‼️🏠#ミライフェスト#CANDYTUNE #きゃんちゅー",
         "published_at": "2026-09-16T01:11:50Z",
         "thumbnail_url": "https://i.ytimg.com/vi/7_EO0nuYISk/hqdefault.jpg",
@@ -357,15 +366,6 @@
         "url": "https://www.youtube.com/watch?v=HGEKbMnVF04",
         "duration_seconds": 13344,
         "is_short": false
-      },
-      {
-        "title": "ライブ中のびびちゃんもかわいい❓🩷村川緋杏 チッケム🩷🍬CANDY TUNE🍬『総意♡So Free』 #きゃーかす #CANDYTUNE #きゃんちゅー",
-        "published_at": "2026-09-08T06:43:28Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/1z4u_iik4K0/hqdefault.jpg",
-        "video_id": "1z4u_iik4K0",
-        "url": "https://www.youtube.com/watch?v=1z4u_iik4K0",
-        "duration_seconds": 10,
-        "is_short": true
       }
     ]
   },
