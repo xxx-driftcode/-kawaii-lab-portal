@@ -188,6 +188,15 @@
     "name": "CANDY TUNE",
     "videos": [
       {
+        "title": "🍬🩷 LIVE ソロカメラ 村川緋杏 🩷🍬北海道でも大迫力の声❗️声❗️声❗️#ミライフェスト#CANDYTUNE #きゃんちゅー",
+        "published_at": "2026-09-16T06:00:24Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/z2yYJplr0MM/hqdefault.jpg",
+        "video_id": "z2yYJplr0MM",
+        "url": "https://www.youtube.com/watch?v=z2yYJplr0MM",
+        "duration_seconds": 28,
+        "is_short": true
+      },
+      {
         "title": "🍬💚 LIVE ソロカメラ 小川奈々子 💚🍬今日も表情いっぱいのなちさん🧚 #ミライフェスト#CANDYTUNE #きゃんちゅー",
         "published_at": "2026-09-16T03:30:23Z",
         "thumbnail_url": "https://i.ytimg.com/vi/RbdVpf5mjRI/hqdefault.jpg",
@@ -357,15 +366,6 @@
         "url": "https://www.youtube.com/watch?v=DBrU4PI_6uc",
         "duration_seconds": 12,
         "is_short": true
-      },
-      {
-        "title": "9月8日(火)  CANDY TUNE 4thシングル『総意♡So Free / スペシャル感謝祭』オンラインサイン会",
-        "published_at": "2026-09-08T11:53:59Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/HGEKbMnVF04/hqdefault.jpg",
-        "video_id": "HGEKbMnVF04",
-        "url": "https://www.youtube.com/watch?v=HGEKbMnVF04",
-        "duration_seconds": 13344,
-        "is_short": false
       }
     ]
   },
