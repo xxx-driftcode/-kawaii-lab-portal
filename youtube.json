@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "なんじゃこりゃー！！🩶🌎#中山こはく #MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-16T08:44:50Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/O5wd3en5yS8/hqdefault.jpg",
+        "video_id": "O5wd3en5yS8",
+        "url": "https://www.youtube.com/watch?v=O5wd3en5yS8",
+        "duration_seconds": 26,
+        "is_short": true
+      },
+      {
         "title": "きたかにゃ？🐈🧡#新井心菜#MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-15T12:20:55Z",
         "thumbnail_url": "https://i.ytimg.com/vi/U4oWnpKvui0/hqdefault.jpg",
@@ -910,15 +919,6 @@
         "thumbnail_url": "https://i.ytimg.com/vi/APJdTYq3xmU/hqdefault.jpg",
         "video_id": "APJdTYq3xmU",
         "url": "https://www.youtube.com/watch?v=APJdTYq3xmU",
-        "duration_seconds": 23,
-        "is_short": true
-      },
-      {
-        "title": "角煮ネキだよ！！🩵#高梨ゆな #MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-09-08T07:30:44Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/jhjO9WzIQsw/hqdefault.jpg",
-        "video_id": "jhjO9WzIQsw",
-        "url": "https://www.youtube.com/watch?v=jhjO9WzIQsw",
         "duration_seconds": 23,
         "is_short": true
       }
