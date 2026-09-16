@@ -373,6 +373,42 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【ライブ映像】SWEET STEADY『DASH!!!』",
+        "published_at": "2026-09-16T06:30:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/IFqf8vUeAe0/hqdefault.jpg",
+        "video_id": "IFqf8vUeAe0",
+        "url": "https://www.youtube.com/watch?v=IFqf8vUeAe0",
+        "duration_seconds": 185,
+        "is_short": false
+      },
+      {
+        "title": "『DASH!!!』フルライブ映像公開🏃‍♀️💨 #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-16T06:30:11Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/CqsarT0sfHE/hqdefault.jpg",
+        "video_id": "CqsarT0sfHE",
+        "url": "https://www.youtube.com/watch?v=CqsarT0sfHE",
+        "duration_seconds": 32,
+        "is_short": true
+      },
+      {
+        "title": "#ちょーだいHAPPY！ 北海道弁ver.🐄 #SWEETSTEP #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-16T06:13:33Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/zoGBoCurZro/hqdefault.jpg",
+        "video_id": "zoGBoCurZro",
+        "url": "https://www.youtube.com/watch?v=zoGBoCurZro",
+        "duration_seconds": 24,
+        "is_short": true
+      },
+      {
+        "title": "9月16日(水)SWEET STEADYオンライン特典会",
+        "published_at": "2026-09-16T06:06:06Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Qnx7u_xviMQ/hqdefault_live.jpg",
+        "video_id": "Qnx7u_xviMQ",
+        "url": "https://www.youtube.com/watch?v=Qnx7u_xviMQ",
+        "duration_seconds": 0,
+        "is_short": false
+      },
+      {
         "title": "#ano さんとスペシャルカワイイタイム💞☕️ #SWEETSTEP #あのちゃんの電電電波 #SWEETSTEADY #すいすて",
         "published_at": "2026-09-15T17:30:33Z",
         "thumbnail_url": "https://i.ytimg.com/vi/NuratOMQRWM/hqdefault.jpg",
@@ -515,42 +551,6 @@
         "url": "https://www.youtube.com/watch?v=tAOjK6gUmsY",
         "duration_seconds": 333,
         "is_short": false
-      },
-      {
-        "title": "苫小牧に響いた『ふっふー』🎉💞 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-13T07:00:03Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/R0EpJM9mZwk/hqdefault.jpg",
-        "video_id": "R0EpJM9mZwk",
-        "url": "https://www.youtube.com/watch?v=R0EpJM9mZwk",
-        "duration_seconds": 20,
-        "is_short": true
-      },
-      {
-        "title": "君に届けるよ🫶 #ちょーだいHAPPY！ アカペラ🎤 #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-13T05:00:38Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/eVHgw9HiYxE/hqdefault.jpg",
-        "video_id": "eVHgw9HiYxE",
-        "url": "https://www.youtube.com/watch?v=eVHgw9HiYxE",
-        "duration_seconds": 34,
-        "is_short": true
-      },
-      {
-        "title": "ああなんだいつもの2人か #白石まゆみ #奥田彩友 #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-12T12:39:47Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/n40S0u7_Ti8/hqdefault.jpg",
-        "video_id": "n40S0u7_Ti8",
-        "url": "https://www.youtube.com/watch?v=n40S0u7_Ti8",
-        "duration_seconds": 11,
-        "is_short": true
-      },
-      {
-        "title": "【MV Teaser】9/21(月)解禁New Music Video『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-12T11:00:04Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/wVKJ8l60Fh4/hqdefault.jpg",
-        "video_id": "wVKJ8l60Fh4",
-        "url": "https://www.youtube.com/watch?v=wVKJ8l60Fh4",
-        "duration_seconds": 18,
-        "is_short": true
       }
     ]
   },
