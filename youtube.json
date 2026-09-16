@@ -374,8 +374,8 @@
     "videos": [
       {
         "title": "9月16日(水)SWEET STEADYオンライン特典会",
-        "published_at": "2026-09-16T13:10:54Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/Qnx7u_xviMQ/hqdefault_live.jpg",
+        "published_at": "2026-09-16T13:34:00Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Qnx7u_xviMQ/hqdefault.jpg",
         "video_id": "Qnx7u_xviMQ",
         "url": "https://www.youtube.com/watch?v=Qnx7u_xviMQ",
         "duration_seconds": 22272,
@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "末っ子飛び出してきた🌎💛#笹原なな花#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-16T13:34:25Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/PLhEy0IZtb0/hqdefault.jpg",
+        "video_id": "PLhEy0IZtb0",
+        "url": "https://www.youtube.com/watch?v=PLhEy0IZtb0",
+        "duration_seconds": 25,
+        "is_short": true
+      },
+      {
         "title": "なんじゃこりゃー！！🩶🌎#中山こはく #MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-16T08:44:50Z",
         "thumbnail_url": "https://i.ytimg.com/vi/O5wd3en5yS8/hqdefault.jpg",
@@ -912,15 +921,6 @@
         "url": "https://www.youtube.com/watch?v=Hfvur7px0yc",
         "duration_seconds": 1986,
         "is_short": false
-      },
-      {
-        "title": "なな花って笑うとこれ☺️💛#笹原なな花 #MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-09-08T09:35:37Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/APJdTYq3xmU/hqdefault.jpg",
-        "video_id": "APJdTYq3xmU",
-        "url": "https://www.youtube.com/watch?v=APJdTYq3xmU",
-        "duration_seconds": 23,
-        "is_short": true
       }
     ]
   }
