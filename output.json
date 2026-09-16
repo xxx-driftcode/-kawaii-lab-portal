@@ -1022,6 +1022,15 @@
       },
       {
         "month": "09",
+        "day": "23",
+        "day_of_week": "WED",
+        "category": "WEB",
+        "title": "オンラインリリイベ",
+        "url": "https://candytune.asobisystem.com/news/detail/90252",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "26",
         "day_of_week": "SAT",
         "category": "EVENT",
