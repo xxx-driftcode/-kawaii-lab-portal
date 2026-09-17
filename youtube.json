@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【MV Teaser💛山内咲奈】『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-17T11:00:01Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/jb0_uUPsmiQ/hqdefault.jpg",
+        "video_id": "jb0_uUPsmiQ",
+        "url": "https://www.youtube.com/watch?v=jb0_uUPsmiQ",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "#ちょーだいHAPPY！ の好きなところ教えて💞 #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-17T09:00:28Z",
         "thumbnail_url": "https://i.ytimg.com/vi/xb772FByG2Y/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "1GVOpwuEwGI",
         "url": "https://www.youtube.com/watch?v=1GVOpwuEwGI",
         "duration_seconds": 40,
-        "is_short": true
-      },
-      {
-        "title": "なまらめんこい❔💖 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-13T13:20:46Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/DSL387YIHtk/hqdefault.jpg",
-        "video_id": "DSL387YIHtk",
-        "url": "https://www.youtube.com/watch?v=DSL387YIHtk",
-        "duration_seconds": 24,
         "is_short": true
       }
     ]
