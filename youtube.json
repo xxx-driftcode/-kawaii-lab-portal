@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "#ちょーだいHAPPY！ の好きなところ教えて💞 #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-17T09:00:28Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/xb772FByG2Y/hqdefault.jpg",
+        "video_id": "xb772FByG2Y",
+        "url": "https://www.youtube.com/watch?v=xb772FByG2Y",
+        "duration_seconds": 23,
+        "is_short": true
+      },
+      {
         "title": "#Yes東京 #EBiDAN さん💫 #塩川莉世 #白石まゆみ #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-17T07:49:23Z",
         "thumbnail_url": "https://i.ytimg.com/vi/rghiFQQPsCE/hqdefault.jpg",
@@ -542,15 +551,6 @@
         "url": "https://www.youtube.com/watch?v=DSL387YIHtk",
         "duration_seconds": 24,
         "is_short": true
-      },
-      {
-        "title": "SWEET STEADY「気味が悪いんだからねっ」×TVアニメ『レッツゴー怪奇組』　アニメMV",
-        "published_at": "2026-09-13T11:00:14Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/-HaQeuE75h0/hqdefault.jpg",
-        "video_id": "-HaQeuE75h0",
-        "url": "https://www.youtube.com/watch?v=-HaQeuE75h0",
-        "duration_seconds": 221,
-        "is_short": false
       }
     ]
   },
