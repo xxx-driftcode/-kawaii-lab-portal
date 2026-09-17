@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【生ボイス】あのね…ねぇ…聞いてる…？( ; ; ) #CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-17T07:15:25Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/brMLThlck8w/hqdefault.jpg",
+        "video_id": "brMLThlck8w",
+        "url": "https://www.youtube.com/watch?v=brMLThlck8w",
+        "duration_seconds": 29,
+        "is_short": true
+      },
+      {
         "title": "【LIVE映像】Crush on you📍SGCホール有明(2026/9/14)【CUTIE STREET】",
         "published_at": "2026-09-16T13:00:06Z",
         "thumbnail_url": "https://i.ytimg.com/vi/W7KTBy0Yhmg/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "OZKb_JZJ5qE",
         "url": "https://www.youtube.com/watch?v=OZKb_JZJ5qE",
         "duration_seconds": 7,
-        "is_short": true
-      },
-      {
-        "title": "みゆちゃん誕生日💎🩵 #CUTIESTREET #きゅーすと #かわいいさがしてくれますか？",
-        "published_at": "2026-09-13T04:30:21Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/yvFAeRr4ZvE/hqdefault.jpg",
-        "video_id": "yvFAeRr4ZvE",
-        "url": "https://www.youtube.com/watch?v=yvFAeRr4ZvE",
-        "duration_seconds": 40,
         "is_short": true
       }
     ]
