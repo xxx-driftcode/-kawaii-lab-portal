@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "爆破してみた💣 #キュートなキューたい #板倉可奈 #佐野愛花 #きゅーすと",
+        "published_at": "2026-09-17T13:35:03Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/jpVw81_j0tQ/hqdefault.jpg",
+        "video_id": "jpVw81_j0tQ",
+        "url": "https://www.youtube.com/watch?v=jpVw81_j0tQ",
+        "duration_seconds": 24,
+        "is_short": true
+      },
+      {
         "title": "あッッッッッッッッ #キュートなキューたい #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-17T09:34:20Z",
         "thumbnail_url": "https://i.ytimg.com/vi/xB49TkYyAyE/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "lmKFeMi0Hyk",
         "url": "https://www.youtube.com/watch?v=lmKFeMi0Hyk",
         "duration_seconds": 16,
-        "is_short": true
-      },
-      {
-        "title": "あっっっ #キュートなキューたい #CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-13T11:38:12Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/mj5fceRxTPk/hqdefault.jpg",
-        "video_id": "mj5fceRxTPk",
-        "url": "https://www.youtube.com/watch?v=mj5fceRxTPk",
-        "duration_seconds": 60,
         "is_short": true
       }
     ]
