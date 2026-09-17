@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "Hello にゃんこ〜🐈🧡#新井心菜#MORESTAR#もあすた#うぃずもあ",
+        "published_at": "2026-09-17T07:59:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/3IFCrSNuL5M/hqdefault.jpg",
+        "video_id": "3IFCrSNuL5M",
+        "url": "https://www.youtube.com/watch?v=3IFCrSNuL5M",
+        "duration_seconds": 25,
+        "is_short": true
+      },
+      {
         "title": "実は呪言師だったそらちゃん🐥💜#萩田そら#MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-17T04:00:01Z",
         "thumbnail_url": "https://i.ytimg.com/vi/30SPWXMTVCA/hqdefault.jpg",
@@ -910,15 +919,6 @@
         "thumbnail_url": "https://i.ytimg.com/vi/vlU0uIaiq_E/hqdefault.jpg",
         "video_id": "vlU0uIaiq_E",
         "url": "https://www.youtube.com/watch?v=vlU0uIaiq_E",
-        "duration_seconds": 16,
-        "is_short": true
-      },
-      {
-        "title": "ちょっと跳ねるゆなしにかわいいちょーだい？🩵#高梨ゆな #ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-09-09T05:27:19Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/QDtx-GhX_0I/hqdefault.jpg",
-        "video_id": "QDtx-GhX_0I",
-        "url": "https://www.youtube.com/watch?v=QDtx-GhX_0I",
         "duration_seconds": 16,
         "is_short": true
       }
