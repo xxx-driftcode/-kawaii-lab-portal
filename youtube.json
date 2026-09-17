@@ -373,6 +373,15 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "いつだって今日だって光る#ダイヤモンドデイズ 💎 #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-17T13:19:07Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/yaOYLvlHTW4/hqdefault.jpg",
+        "video_id": "yaOYLvlHTW4",
+        "url": "https://www.youtube.com/watch?v=yaOYLvlHTW4",
+        "duration_seconds": 59,
+        "is_short": true
+      },
+      {
         "title": "【MV Teaser💛山内咲奈】『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
         "published_at": "2026-09-17T11:00:01Z",
         "thumbnail_url": "https://i.ytimg.com/vi/jb0_uUPsmiQ/hqdefault.jpg",
@@ -541,15 +550,6 @@
         "video_id": "_SzbgmDZuC8",
         "url": "https://www.youtube.com/watch?v=_SzbgmDZuC8",
         "duration_seconds": 22,
-        "is_short": true
-      },
-      {
-        "title": "ライブでぜひ聴いてほしいこの一曲❤️‍🔥 #ガーベラの花のように #SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-14T05:00:29Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/1GVOpwuEwGI/hqdefault.jpg",
-        "video_id": "1GVOpwuEwGI",
-        "url": "https://www.youtube.com/watch?v=1GVOpwuEwGI",
-        "duration_seconds": 40,
         "is_short": true
       }
     ]
