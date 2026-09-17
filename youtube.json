@@ -743,6 +743,15 @@
     "name": "MORE STAR",
     "videos": [
       {
+        "title": "【LIVE映像】『アフターオール』MORE STAR 9/12(土)「TOMAKOMAI MIRAI FEST 2026」＠北海道・苫小牧キラキラ公園",
+        "published_at": "2026-09-17T10:01:21Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/LO6AahhhIIg/hqdefault.jpg",
+        "video_id": "LO6AahhhIIg",
+        "url": "https://www.youtube.com/watch?v=LO6AahhhIIg",
+        "duration_seconds": 292,
+        "is_short": false
+      },
+      {
         "title": "Hello にゃんこ〜🐈🧡#新井心菜#MORESTAR#もあすた#うぃずもあ",
         "published_at": "2026-09-17T07:59:31Z",
         "thumbnail_url": "https://i.ytimg.com/vi/3IFCrSNuL5M/hqdefault.jpg",
@@ -910,15 +919,6 @@
         "thumbnail_url": "https://i.ytimg.com/vi/ybycUJVLEfY/hqdefault.jpg",
         "video_id": "ybycUJVLEfY",
         "url": "https://www.youtube.com/watch?v=ybycUJVLEfY",
-        "duration_seconds": 16,
-        "is_short": true
-      },
-      {
-        "title": "めろからのお願い🩶#中山こはく#ぴたぴたきゅん#MORESTAR#もあすた#うぃずもあ",
-        "published_at": "2026-09-10T02:22:18Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/vlU0uIaiq_E/hqdefault.jpg",
-        "video_id": "vlU0uIaiq_E",
-        "url": "https://www.youtube.com/watch?v=vlU0uIaiq_E",
         "duration_seconds": 16,
         "is_short": true
       }
