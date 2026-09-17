@@ -558,6 +558,15 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "あッッッッッッッッ #キュートなキューたい #CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-17T09:34:20Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/xB49TkYyAyE/hqdefault.jpg",
+        "video_id": "xB49TkYyAyE",
+        "url": "https://www.youtube.com/watch?v=xB49TkYyAyE",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "【生ボイス】あのね…ねぇ…聞いてる…？( ; ; ) #CUTIESTREET #きゅーすと",
         "published_at": "2026-09-17T07:15:25Z",
         "thumbnail_url": "https://i.ytimg.com/vi/brMLThlck8w/hqdefault.jpg",
@@ -726,15 +735,6 @@
         "video_id": "mj5fceRxTPk",
         "url": "https://www.youtube.com/watch?v=mj5fceRxTPk",
         "duration_seconds": 60,
-        "is_short": true
-      },
-      {
-        "title": "【確信】産んだわ #増田彩乃 #桜庭遥花 #CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-13T08:04:48Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/OZKb_JZJ5qE/hqdefault.jpg",
-        "video_id": "OZKb_JZJ5qE",
-        "url": "https://www.youtube.com/watch?v=OZKb_JZJ5qE",
-        "duration_seconds": 7,
         "is_short": true
       }
     ]
