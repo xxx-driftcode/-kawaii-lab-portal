@@ -1238,6 +1238,15 @@
       },
       {
         "month": "11",
+        "day": "28",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "「GIFT 〜Girls Idol Festival Tokyo〜」",
+        "url": "https://candytune.asobisystem.com/live_information/detail/45190",
+        "year": "2026"
+      },
+      {
+        "month": "11",
         "day": "30",
         "day_of_week": "MON",
         "category": "LIVE",
