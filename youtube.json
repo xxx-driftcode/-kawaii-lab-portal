@@ -618,6 +618,16 @@
     "name": "CUTIE STREET",
     "videos": [
       {
+        "title": "【喧嘩撮影】スタッフ笑ってるやんww #増田彩乃 #真鍋凪咲 #キュートなキューたい #CUTIESTREET #きゅーすと",
+        "published_at": "2026-09-18T11:04:57Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/tZlvRzxVm-o/hqdefault.jpg",
+        "video_id": "tZlvRzxVm-o",
+        "url": "https://www.youtube.com/watch?v=tZlvRzxVm-o",
+        "description": "",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "⚠️これはCUTIE STREETです⚠️ #きゅーすと #CUTIESTREET",
         "published_at": "2026-09-18T09:14:17Z",
         "thumbnail_url": "https://i.ytimg.com/vi/AsTaO9XTaJ4/hqdefault.jpg",
@@ -805,16 +815,6 @@
         "url": "https://www.youtube.com/watch?v=YhCPoBJ1ASI",
         "description": "",
         "duration_seconds": 35,
-        "is_short": true
-      },
-      {
-        "title": "今日はお誕生日会(生誕祭)の配信があるよ🩵 #梅田みゆ #CUTIESTREET #きゅーすと",
-        "published_at": "2026-09-14T03:00:37Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/9ZB_xyQHL6w/hqdefault.jpg",
-        "video_id": "9ZB_xyQHL6w",
-        "url": "https://www.youtube.com/watch?v=9ZB_xyQHL6w",
-        "description": "",
-        "duration_seconds": 22,
         "is_short": true
       }
     ]
