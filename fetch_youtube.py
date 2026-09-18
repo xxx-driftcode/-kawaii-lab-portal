@@ -126,6 +126,9 @@ def get_latest_videos(playlist_id, max_results=MAX_VIDEOS):
             "thumbnail_url": thumbnail_url,
             "video_id": video_id,
             "url": f"https://www.youtube.com/watch?v={video_id}",
+            # VideoObject構造化データのdescriptionに使う。snippetには元々含まれて
+            # いたが、今までは拾わずに捨てていた。
+            "description": snippet.get("description", ""),
         })
 
     # 動画の長さを取得して、通常動画かショート動画かを判定する
