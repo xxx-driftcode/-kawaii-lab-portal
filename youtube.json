@@ -413,6 +413,16 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【MV Teaser🧡庄司なぎさ】『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-18T11:00:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/YsxUnAPwjEI/hqdefault.jpg",
+        "video_id": "YsxUnAPwjEI",
+        "url": "https://www.youtube.com/watch?v=YsxUnAPwjEI",
+        "description": "",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "今年の夏は最高の思い出できた❔ #secretbase #塩川莉世 #SWEETSTEADY #すいすて",
         "published_at": "2026-09-18T07:00:12Z",
         "thumbnail_url": "https://i.ytimg.com/vi/UV-2Lhsfoi8/hqdefault.jpg",
@@ -600,16 +610,6 @@
         "url": "https://www.youtube.com/watch?v=G-trRVCPv1A",
         "description": "",
         "duration_seconds": 19,
-        "is_short": true
-      },
-      {
-        "title": "【MV Teaser💙奥田彩友】『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-14T11:00:34Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/UpIXQAvI4aU/hqdefault.jpg",
-        "video_id": "UpIXQAvI4aU",
-        "url": "https://www.youtube.com/watch?v=UpIXQAvI4aU",
-        "description": "",
-        "duration_seconds": 18,
         "is_short": true
       }
     ]
