@@ -413,6 +413,16 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "【MV Teaser❤️白石まゆみ】『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
+        "published_at": "2026-09-19T11:00:29Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Gaalef1ckkA/hqdefault.jpg",
+        "video_id": "Gaalef1ckkA",
+        "url": "https://www.youtube.com/watch?v=Gaalef1ckkA",
+        "description": "",
+        "duration_seconds": 18,
+        "is_short": true
+      },
+      {
         "title": "#TGC で#ちょーだいHAPPY！ 🪐💞 #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-19T10:35:03Z",
         "thumbnail_url": "https://i.ytimg.com/vi/7M1pqiiJz5U/hqdefault.jpg",
@@ -600,16 +610,6 @@
         "url": "https://www.youtube.com/watch?v=N_Eo5KN_tEA",
         "description": "",
         "duration_seconds": 22,
-        "is_short": true
-      },
-      {
-        "title": "【MV Teaser💜塩川莉世】『ちょーだいHAPPY！』 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて",
-        "published_at": "2026-09-15T11:00:01Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/nIxWmAnRJpY/hqdefault.jpg",
-        "video_id": "nIxWmAnRJpY",
-        "url": "https://www.youtube.com/watch?v=nIxWmAnRJpY",
-        "description": "",
-        "duration_seconds": 18,
         "is_short": true
       }
     ]
