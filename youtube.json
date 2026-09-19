@@ -413,6 +413,16 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "#TGC で#ちょーだいHAPPY！ 🪐💞 #SWEETSTEADY #すいすて #アイドル",
+        "published_at": "2026-09-19T10:35:03Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/7M1pqiiJz5U/hqdefault.jpg",
+        "video_id": "7M1pqiiJz5U",
+        "url": "https://www.youtube.com/watch?v=7M1pqiiJz5U",
+        "description": "",
+        "duration_seconds": 16,
+        "is_short": true
+      },
+      {
         "title": "メンバーの左手に合わせて『ふっふー！』言ってね📣🌈 #ちょーだいHAPPY！ #SWEETSTEADY #すいすて #アイドル",
         "published_at": "2026-09-19T07:00:33Z",
         "thumbnail_url": "https://i.ytimg.com/vi/5LeL4yKfhnw/hqdefault.jpg",
@@ -600,16 +610,6 @@
         "url": "https://www.youtube.com/watch?v=nIxWmAnRJpY",
         "description": "",
         "duration_seconds": 18,
-        "is_short": true
-      },
-      {
-        "title": "【リリイベin北海道】のみんなとSWEET STEP🐄💞 #SWEETSTEADY #すいすて #SWEETSTEP",
-        "published_at": "2026-09-15T09:00:17Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/653-y6VWc9E/hqdefault.jpg",
-        "video_id": "653-y6VWc9E",
-        "url": "https://www.youtube.com/watch?v=653-y6VWc9E",
-        "description": "",
-        "duration_seconds": 27,
         "is_short": true
       }
     ]
