@@ -986,6 +986,33 @@
       },
       {
         "month": "09",
+        "day": "20",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "「AGESTOCK2026 in 横浜アリーナ」",
+        "url": "https://candytune.asobisystem.com/live_information/detail/45267",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "20",
+        "day_of_week": "SUN",
+        "category": "RADIO",
+        "title": "「CANDY TUNE 桐原美月の青色RADIO」",
+        "url": "https://candytune.asobisystem.com/news/detail/90646",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "20",
+        "day_of_week": "SUN",
+        "category": "RADIO",
+        "title": "TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
+        "url": "https://candytune.asobisystem.com/news/detail/90647",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "21",
         "day_of_week": "MON",
         "category": "LIVE",
