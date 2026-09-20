@@ -3,6 +3,16 @@
     "name": "FRUITS ZIPPER",
     "videos": [
       {
+        "title": "#IRC2026 LIVE STAGE🦋✨ ありがとうございました！💚💛🧡❤️🩵🩷💜 #FRUITSZIPPER #ふるっぱー #フルーツジッパー",
+        "published_at": "2026-09-20T05:29:44Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/XXqXPk8PwqE/hqdefault.jpg",
+        "video_id": "XXqXPk8PwqE",
+        "url": "https://www.youtube.com/watch?v=XXqXPk8PwqE",
+        "description": "",
+        "duration_seconds": 15,
+        "is_short": true
+      },
+      {
         "title": "#MINAMI さんと #センセーション コラボ🦄💙ありがとうございました✨🩷❤️#マイナビTGC #TGC #FRUITSZIPPER #ふるっぱー",
         "published_at": "2026-09-19T13:36:44Z",
         "thumbnail_url": "https://i.ytimg.com/vi/pnAfmGWDMbs/hqdefault.jpg",
@@ -190,16 +200,6 @@
         "url": "https://www.youtube.com/watch?v=P_KVDV_-7tw",
         "description": "",
         "duration_seconds": 13,
-        "is_short": true
-      },
-      {
-        "title": "#秘密のアティチュード 早瀬ノエル💛🗝️#FRUITSZIPPER#ふるっぱー #フルーツジッパー",
-        "published_at": "2026-09-14T07:16:42Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/QRGIeQ5DxG8/hqdefault.jpg",
-        "video_id": "QRGIeQ5DxG8",
-        "url": "https://www.youtube.com/watch?v=QRGIeQ5DxG8",
-        "description": "",
-        "duration_seconds": 18,
         "is_short": true
       }
     ]
