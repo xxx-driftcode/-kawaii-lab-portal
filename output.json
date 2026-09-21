@@ -1016,7 +1016,7 @@
         "day": "21",
         "day_of_week": "MON",
         "category": "LIVE",
-        "title": "「ROCK IN JAPAN FESTIVAL 2026」",
+        "title": "「ROCK IN JAPAN FESTIVAL 2026」※中止",
         "url": "https://candytune.asobisystem.com/live_information/detail/39819",
         "year": "2026"
       },
@@ -1614,6 +1614,16 @@
     "name": "CUTIE STREET",
     "info": [
       {
+        "date": "2026.09.21",
+        "title": "CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN- ＠神奈川県　横浜アリーナにて特別抽選会開催が決定！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/90721"
+      },
+      {
+        "date": "2026.09.21",
+        "title": "CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-にて特別抽選会開催が決定！",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/90720"
+      },
+      {
         "date": "2026.09.20",
         "title": "1stアルバム発売記念！9/27(日) CUTIE STREET大特典会＠博多国際展示場 特典会参加券2次販売が決定！",
         "url": "https://cutiestreet.asobisystem.com/news/detail/90665"
@@ -1652,16 +1662,6 @@
         "date": "2026.09.16",
         "title": "2026年11月9日(月) 「CUTIE STREET 古澤里紗 生誕祭 2026」開催決定！CUTIE STREET OFFICIAL FANCLUB会員先行開始！",
         "url": "https://cutiestreet.asobisystem.com/news/detail/89588"
-      },
-      {
-        "date": "2026.09.16",
-        "title": "2026年11月11日(水) 「CUTIE STREET 板倉可奈 生誕祭 2026」開催決定！CUTIE STREET OFFICIAL FANCLUB会員先行開始！",
-        "url": "https://cutiestreet.asobisystem.com/news/detail/89518"
-      },
-      {
-        "date": "2026.09.15",
-        "title": "CUTIE STREET JAPAN TOUR 2026 - AUTUMN - 新アイテム公開！＆ 9月公演会場販売＆通販のお知らせ",
-        "url": "https://cutiestreet.asobisystem.com/news/detail/90100"
       }
     ],
     "schedule": [
@@ -1977,6 +1977,11 @@
     "name": "MORE STAR",
     "info": [
       {
+        "date": "2026.09.21",
+        "title": "「MORE STAR 単独ライブ 5th STAR」開催記念！FC会員限定オンラインくじ「もあすたくじ」実施決定！",
+        "url": "https://morestar.asobisystem.com/news/detail/90474"
+      },
+      {
         "date": "2026.09.18",
         "title": "2026年10月21日（水）「MORE STAR 単独ライブ 6th STAR」開催決定！FC先行受付開始！",
         "url": "https://morestar.asobisystem.com/news/detail/90316"
@@ -2020,11 +2025,6 @@
         "date": "2026.08.26",
         "title": "「KAWAII LAB. SESSION 2026 SUMMER」グッズ通販実施のお知らせ",
         "url": "https://morestar.asobisystem.com/news/detail/88440"
-      },
-      {
-        "date": "2026.08.22",
-        "title": "8/26発売　MORE STAR 1stシングル『サマーゴー！！ / WITH KAWAII論』 発売記念店頭キャンペーンが決定！",
-        "url": "https://morestar.asobisystem.com/news/detail/88024"
       }
     ],
     "schedule": [
