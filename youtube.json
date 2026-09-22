@@ -413,6 +413,16 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "断然フリーダム！バラバラだっていーじゃん カワイイじゃん！ SWEETでSTEADY放題！ #ちょーだいHAPPY！　#SWEETSTEADY #すいすて #KAWAIILAB",
+        "published_at": "2026-09-22T05:00:21Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/OxeYbZXnul4/hqdefault.jpg",
+        "video_id": "OxeYbZXnul4",
+        "url": "https://www.youtube.com/watch?v=OxeYbZXnul4",
+        "description": "",
+        "duration_seconds": 22,
+        "is_short": true
+      },
+      {
         "title": "ずっと一緒にいようね💐 #始まりの合図 #SWEETSTEADY #すいすて #KAWAIILAB",
         "published_at": "2026-09-21T14:00:35Z",
         "thumbnail_url": "https://i.ytimg.com/vi/zecsYADZTF8/hqdefault.jpg",
@@ -600,16 +610,6 @@
         "url": "https://www.youtube.com/watch?v=UV-2Lhsfoi8",
         "description": "",
         "duration_seconds": 23,
-        "is_short": true
-      },
-      {
-        "title": "ひとりひとりフリが違ってカワイイ❕💞 #ちょーだいHAPPY！　#SWEETSTEADY #すいすて #アイドル",
-        "published_at": "2026-09-18T05:00:18Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/XDmoF1sSpiU/hqdefault.jpg",
-        "video_id": "XDmoF1sSpiU",
-        "url": "https://www.youtube.com/watch?v=XDmoF1sSpiU",
-        "description": "",
-        "duration_seconds": 16,
         "is_short": true
       }
     ]
