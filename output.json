@@ -1614,6 +1614,11 @@
     "name": "CUTIE STREET",
     "info": [
       {
+        "date": "2026.09.23",
+        "title": "9/23(水祝) CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN- 『CUTIE LAND』神奈川公演 当日券販売のお知らせ",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/90821"
+      },
+      {
         "date": "2026.09.22",
         "title": "CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN- ＠東京都　有明アリーナにて特別抽選会開催が決定！",
         "url": "https://cutiestreet.asobisystem.com/news/detail/90792"
@@ -1657,11 +1662,6 @@
         "date": "2026.09.17",
         "title": "9/27（日）CUTIE STREET 大特典会 物販情報",
         "url": "https://cutiestreet.asobisystem.com/news/detail/90299"
-      },
-      {
-        "date": "2026.09.16",
-        "title": "9/20（日）CUTIE STREET 大特典会 物販情報",
-        "url": "https://cutiestreet.asobisystem.com/news/detail/90232"
       }
     ],
     "schedule": [
@@ -2057,6 +2057,15 @@
       },
       {
         "month": "09",
+        "day": "26",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "Rakuten GirlsAward 2026 AUTUMN/WINTER",
+        "url": "https://morestar.asobisystem.com/live_information/detail/45347",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "27",
         "day_of_week": "SUN",
         "category": "LIVE",
@@ -2071,6 +2080,33 @@
         "category": "LIVE",
         "title": "MotoGPTM Night Live",
         "url": "https://morestar.asobisystem.com/live_information/detail/39519",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "04",
+        "day_of_week": "SUN",
+        "category": "LIVE",
+        "title": "かがやきフェス2026",
+        "url": "https://morestar.asobisystem.com/live_information/detail/45348",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "10",
+        "day_of_week": "SAT",
+        "category": "EVENT",
+        "title": "SBI証券 presents TGC KITAKYUSHU 2026 by TOKYO GIRLS COLLECTION",
+        "url": "https://morestar.asobisystem.com/live_information/detail/45349",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "12",
+        "day_of_week": "MON",
+        "category": "EVENT",
+        "title": "KAWAII LAB. COLLECTION produced by TGC",
+        "url": "https://morestar.asobisystem.com/live_information/detail/45350",
         "year": "2026"
       }
     ]
