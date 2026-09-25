@@ -3,6 +3,16 @@
     "name": "FRUITS ZIPPER",
     "info": [
       {
+        "date": "2026.09.25",
+        "title": "本日9/25(金) FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code 愛知公演で当日券を販売決定！",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/91035"
+      },
+      {
+        "date": "2026.09.25",
+        "title": "［重要］システムメンテナンスのお知らせ",
+        "url": "https://fruitszipper.asobisystem.com/news/detail/90149"
+      },
+      {
         "date": "2026.09.22",
         "title": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code＠大阪　グランキューブ大阪　メインホールにて特別抽選会開催が決定！",
         "url": "https://fruitszipper.asobisystem.com/news/detail/90806"
@@ -41,16 +51,6 @@
         "date": "2026.09.15",
         "title": "9月21日（月・祝） FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code＠三重県文化会館　大ホールにて特別抽選会開催が決定！",
         "url": "https://fruitszipper.asobisystem.com/news/detail/90080"
-      },
-      {
-        "date": "2026.09.15",
-        "title": "9月18日（金） FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code＠千葉県 松戸・森のホール21　大ホールにて特別抽選会開催が決定！",
-        "url": "https://fruitszipper.asobisystem.com/news/detail/90078"
-      },
-      {
-        "date": "2026.09.15",
-        "title": "9月16日（水） FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code＠埼玉県 大宮ソニックシティ 大ホールにて特別抽選会開催が決定！",
-        "url": "https://fruitszipper.asobisystem.com/news/detail/90077"
       }
     ],
     "schedule": [
@@ -717,6 +717,16 @@
     "name": "CANDY TUNE",
     "info": [
       {
+        "date": "2026.09.25",
+        "title": "CANDY TUNE 4thシングル／SWEET STEADY 3rdシングル／MORE STAR 1stシングル発売記念大特典会を10/11(日)に西日本総合展示場にて開催決定！",
+        "url": "https://candytune.asobisystem.com/news/detail/91037"
+      },
+      {
+        "date": "2026.09.25",
+        "title": "［重要］システムメンテナンスのお知らせ",
+        "url": "https://candytune.asobisystem.com/news/detail/90150"
+      },
+      {
         "date": "2026.09.21",
         "title": "CANDY TUNE／SWEET STEADY大特典会＠東京流通センター　第二展示場Fホールにて特別抽選会開催決定！",
         "url": "https://candytune.asobisystem.com/news/detail/90785"
@@ -755,16 +765,6 @@
         "date": "2026.09.15",
         "title": "TEAM KAWAII LAB.の楽曲「Over Drive」配信リリースを記念してKAWAII LAB.全グループよりVESTが登場!!",
         "url": "https://candytune.asobisystem.com/news/detail/90093"
-      },
-      {
-        "date": "2026.09.15",
-        "title": "CANDY TUNE 4thシングル『総意♡So Free / スペシャル感謝祭』発売記念リリースイベント@アーバンドック ららぽーと豊洲シーサイドデッキ メインステージ",
-        "url": "https://candytune.asobisystem.com/news/detail/90036"
-      },
-      {
-        "date": "2026.09.14",
-        "title": "9/21（月）ROCK IN JAPAN FESTIVAL 2026 物販情報",
-        "url": "https://candytune.asobisystem.com/news/detail/89916"
       }
     ],
     "schedule": [
@@ -1049,6 +1049,24 @@
       },
       {
         "month": "09",
+        "day": "24",
+        "day_of_week": "THU",
+        "category": "MAGAZINE",
+        "title": "「CanCam」11月号 (立花琴未)",
+        "url": "https://candytune.asobisystem.com/news/detail/91032",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "25",
+        "day_of_week": "FRI",
+        "category": "TV",
+        "title": "CBCテレビ「お歌詞もぐもぐ」(福山梨乃・宮野静)",
+        "url": "https://candytune.asobisystem.com/news/detail/91034",
+        "year": "2026"
+      },
+      {
+        "month": "09",
         "day": "26",
         "day_of_week": "SAT",
         "category": "EVENT",
@@ -1090,6 +1108,15 @@
         "category": "LIVE",
         "title": "「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」北海道公演",
         "url": "https://candytune.asobisystem.com/live_information/detail/40727",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "02",
+        "day_of_week": "FRI",
+        "category": "MAGAZINE",
+        "title": "「FRIDAY」、桐原美月「sweet girl」FRIDAYデジタル写真集",
+        "url": "https://candytune.asobisystem.com/news/detail/91033",
         "year": "2026"
       },
       {
@@ -1350,6 +1377,16 @@
     "name": "SWEET STEADY",
     "info": [
       {
+        "date": "2026.09.25",
+        "title": "CANDY TUNE 4thシングル／SWEET STEADY 3rdシングル／MORE STAR 1stシングル発売記念大特典会を10/11(日)に西日本総合展示場にて開催決定！",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/91006"
+      },
+      {
+        "date": "2026.09.25",
+        "title": "［重要］システムメンテナンスのお知らせ",
+        "url": "https://sweetsteady.asobisystem.com/news/detail/90151"
+      },
+      {
         "date": "2026.09.21",
         "title": "CANDY TUNE／SWEET STEADY大特典会＠東京流通センター　第二展示場Fホールにて特別抽選会開催決定！",
         "url": "https://sweetsteady.asobisystem.com/news/detail/90773"
@@ -1388,16 +1425,6 @@
         "date": "2026.09.17",
         "title": "9/21（月・祝）『SWEET STEADY お花見会』物販情報",
         "url": "https://sweetsteady.asobisystem.com/news/detail/90305"
-      },
-      {
-        "date": "2026.09.16",
-        "title": "SWEET STEADY 『気味が悪いんだからねっ』発売記念forTUNE musicイベント  オンライン個別トーク会 追加開催決定！",
-        "url": "https://sweetsteady.asobisystem.com/news/detail/90159"
-      },
-      {
-        "date": "2026.09.15",
-        "title": "TEAM KAWAII LAB.の楽曲「Over Drive」配信リリースを記念してKAWAII LAB.全グループよりVESTが登場!!",
-        "url": "https://sweetsteady.asobisystem.com/news/detail/90090"
       }
     ],
     "schedule": [
@@ -1632,13 +1659,18 @@
     "name": "CUTIE STREET",
     "info": [
       {
+        "date": "2026.09.25",
+        "title": "［重要］システムメンテナンスのお知らせ",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/90152"
+      },
+      {
         "date": "2026.09.24",
-        "title": "CUTIE STREET JAPAN TOUR 2026 - AUTUMN - 10/3(土),(日)4宮城公演グッズ販売情報",
+        "title": "CUTIE STREET JAPAN TOUR 2026 - AUTUMN - 10/3(土),4(日)宮城公演グッズ販売情報",
         "url": "https://cutiestreet.asobisystem.com/news/detail/90882"
       },
       {
         "date": "2026.09.23",
-        "title": "9/27 (日)開催CUTIE STREET大特典会＠博多国際展示場 ３Fホール にて行われる、私物サイン会、直筆お名前入りCUTIE LANDシールお渡し会を対象とした事前抽選会開催決定！",
+        "title": "9/27 (日)開催CUTIE STREET大特典会＠博多国際展示場 3Fホール にて行われる、私物サイン会、直筆お名前入りCUTIE LANDシールお渡し会を対象とした事前抽選会開催決定！",
         "url": "https://cutiestreet.asobisystem.com/news/detail/90822"
       },
       {
@@ -1675,11 +1707,6 @@
         "date": "2026.09.19",
         "title": "CUTIE STREET大特典会＠ベルサール渋谷ファーストにて特別抽選会開催決定！",
         "url": "https://cutiestreet.asobisystem.com/news/detail/90612"
-      },
-      {
-        "date": "2026.09.18",
-        "title": "1stアルバム発売記念！9/20(日)CUTIE STREET大特典会＠ベルサール渋谷ファースト 特典会参加券当日販売が決定！",
-        "url": "https://cutiestreet.asobisystem.com/news/detail/90534"
       }
     ],
     "schedule": [
@@ -1777,6 +1804,15 @@
         "month": "09",
         "day": "20",
         "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "『大特典会 in 渋谷』＠ベルサール渋谷ファースト",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/45467",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "20",
+        "day_of_week": "SUN",
         "category": "TV",
         "title": "テレビ朝日『騒音上等!!音鳴り部』",
         "url": "https://cutiestreet.asobisystem.com/news/detail/89159",
@@ -1807,6 +1843,15 @@
         "category": "TV",
         "title": "テレビ朝日「芸能人格付けチェック 秋の3時間半スペシャル」",
         "url": "https://cutiestreet.asobisystem.com/news/detail/88664",
+        "year": "2026"
+      },
+      {
+        "month": "09",
+        "day": "27",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "『大特典会 in 福岡』＠博多国際展示場 3Fホール",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/45468",
         "year": "2026"
       },
       {
@@ -1919,6 +1964,24 @@
       },
       {
         "month": "11",
+        "day": "03",
+        "day_of_week": "TUE",
+        "category": "EVENT",
+        "title": "『大特典会 in 神奈川』＠パシフィコ横浜展示ホールD",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/45469",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "08",
+        "day_of_week": "SUN",
+        "category": "EVENT",
+        "title": "ミニライブ＆お渡し会 @イオンモール白山 平面駐車場",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/45466",
+        "year": "2026"
+      },
+      {
+        "month": "11",
         "day": "14",
         "day_of_week": "SAT",
         "category": "LIVE",
@@ -1933,6 +1996,15 @@
         "category": "LIVE",
         "title": "【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】@広島グリーンアリーナ",
         "url": "https://cutiestreet.asobisystem.com/live_information/detail/40367",
+        "year": "2026"
+      },
+      {
+        "month": "11",
+        "day": "23",
+        "day_of_week": "MON",
+        "category": "EVENT",
+        "title": "『大特典会 in 北海道』@アクセス札幌",
+        "url": "https://cutiestreet.asobisystem.com/live_information/detail/45470",
         "year": "2026"
       },
       {
@@ -1995,6 +2067,16 @@
     "name": "MORE STAR",
     "info": [
       {
+        "date": "2026.09.25",
+        "title": "CANDY TUNE 4thシングル／SWEET STEADY 3rdシングル／MORE STAR 1stシングル発売記念大特典会を10/11(日)に西日本総合展示場にて開催決定！",
+        "url": "https://morestar.asobisystem.com/news/detail/91042"
+      },
+      {
+        "date": "2026.09.25",
+        "title": "［重要］システムメンテナンスのお知らせ",
+        "url": "https://morestar.asobisystem.com/news/detail/90153"
+      },
+      {
         "date": "2026.09.23",
         "title": "9/24（木）MORE STAR 単独ライブ 5th STAR 物販情報",
         "url": "https://morestar.asobisystem.com/news/detail/90833"
@@ -2033,16 +2115,6 @@
         "date": "2026.09.09",
         "title": "9/12（土）TOMAKOMAI MIRAI FEST 2026 物販情報",
         "url": "https://morestar.asobisystem.com/news/detail/89550"
-      },
-      {
-        "date": "2026.09.07",
-        "title": "2026年10月17日(土) FM大阪 『Live or Treat 2026』in Zepp Namba 出演決定！MORE STAR FC会員先行受付開始！",
-        "url": "https://morestar.asobisystem.com/news/detail/89194"
-      },
-      {
-        "date": "2026.08.29",
-        "title": "「MORE STAR 単独ライブ 5th STAR」開催決定！FC先行受付開始！",
-        "url": "https://morestar.asobisystem.com/news/detail/88498"
       }
     ],
     "schedule": [
