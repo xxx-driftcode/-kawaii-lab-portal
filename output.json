@@ -1874,6 +1874,15 @@
       },
       {
         "month": "10",
+        "day": "02",
+        "day_of_week": "FRI",
+        "category": "TV",
+        "title": "テレ東系列『テレ東系アニメKids音楽祭』",
+        "url": "https://cutiestreet.asobisystem.com/news/detail/91117",
+        "year": "2026"
+      },
+      {
+        "month": "10",
         "day": "03",
         "day_of_week": "SAT",
         "category": "LIVE",
@@ -2197,6 +2206,15 @@
         "category": "EVENT",
         "title": "KAWAII LAB. COLLECTION produced by TGC",
         "url": "https://morestar.asobisystem.com/live_information/detail/45350",
+        "year": "2026"
+      },
+      {
+        "month": "10",
+        "day": "21",
+        "day_of_week": "WED",
+        "category": "LIVE",
+        "title": "MORE STAR 単独ライブ 6th STAR",
+        "url": "https://morestar.asobisystem.com/live_information/detail/45476",
         "year": "2026"
       }
     ]
