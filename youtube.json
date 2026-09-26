@@ -413,6 +413,16 @@
     "name": "SWEET STEADY",
     "videos": [
       {
+        "title": "CANDY TUNE #立花琴未 さんとちょーだいHAPPY！♥️❤️ #白石まゆみ #CANDYTUNE #SWEETSTEADY #すいすて #ちょーだいHAPPY！",
+        "published_at": "2026-09-26T05:00:40Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/ih9yYxDZ9Xc/hqdefault.jpg",
+        "video_id": "ih9yYxDZ9Xc",
+        "url": "https://www.youtube.com/watch?v=ih9yYxDZ9Xc",
+        "description": "",
+        "duration_seconds": 21,
+        "is_short": true
+      },
+      {
         "title": "冷静なツッコミもポイント #奥田彩友 #栗田なつか #SWEETSTEADY #すいすて",
         "published_at": "2026-09-25T13:41:12Z",
         "thumbnail_url": "https://i.ytimg.com/vi/w3Jimo-qisI/hqdefault.jpg",
@@ -600,16 +610,6 @@
         "url": "https://www.youtube.com/watch?v=WuaWDR1-KTU",
         "description": "",
         "duration_seconds": 33,
-        "is_short": true
-      },
-      {
-        "title": "おゆいがボブに…⁉️🩵 #音井結衣 #ちょーだいHAPPY！#SWEETSTEADY #すいすて #KAWAIILAB",
-        "published_at": "2026-09-22T07:00:25Z",
-        "thumbnail_url": "https://i.ytimg.com/vi/JJE0iN-EXPs/hqdefault.jpg",
-        "video_id": "JJE0iN-EXPs",
-        "url": "https://www.youtube.com/watch?v=JJE0iN-EXPs",
-        "description": "",
-        "duration_seconds": 22,
         "is_short": true
       }
     ]
